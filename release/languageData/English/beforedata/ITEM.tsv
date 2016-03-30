@@ -1929,7 +1929,7 @@ ITEM_20150317_001928	Status Increase Potion
 ITEM_20150317_001929	Gives 1 Status Point. Right-click to use. 
 ITEM_20150317_001930	Permanently increases your maximum carry weight by 50. Right-click to use. 
 ITEM_20150317_001931	Cooldown Time Potion (CBT Test Purposes) 
-ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. {nl}Right-click to use. Cooldown 10 minutes. 
+ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. {nl}Right-click to use. Cooldown of 10 minutes. 
 ITEM_20150317_001933	Status Reset Scroll (CBT Test Purposes) 
 ITEM_20150317_001934	Resets all the Status Points of your character.{nl}(CBT Tester only) 
 ITEM_20150317_001935	Lv8 EXP Card  
@@ -2060,7 +2060,7 @@ ITEM_20150317_002059	Gray Golem Card
 ITEM_20150317_002060	Naktis Card 
 ITEM_20150317_002061	Link Roller Card 
 ITEM_20150317_002062	Dullahan Card 
-ITEM_20150317_002063	Ritheris Card
+ITEM_20150317_002063	Riteris Card
 ITEM_20150317_002064	Nuaele Card 
 ITEM_20150317_002065	Neob Card 
 ITEM_20150317_002066	Blut Card 
@@ -2109,7 +2109,7 @@ ITEM_20150317_002108	A leaf that tastes slightly bitter. It becomes thicker as i
 ITEM_20150317_002109	Infro Rocktor Shell 
 ITEM_20150317_002110	A sturdy shell with a hexagonal pattern on it. Obtained from Infro Rocktors. 
 ITEM_20150317_002111	Chupacabra Tooth 
-ITEM_20150317_002112	Small and sharp tooth. Obtained from a Chupacabra. 
+ITEM_20150317_002112	A small and sharp tooth. Obtained from a Chupacabra.
 ITEM_20150317_002113	Weaver Feeler 
 ITEM_20150317_002114	A blunt feeler with a hairy surface.{nl}Obtained from Weavers. 
 ITEM_20150317_002115	Pokubu Skin 
@@ -4894,7 +4894,7 @@ ITEM_20150428_004893	Abomination Necklace
 ITEM_20150428_004894	Abomination Bracelet 
 ITEM_20150428_004895	Flower Branch 
 ITEM_20150428_004896	Soup Set 
-ITEM_20150428_004897	Increases movement speed by 2 for 180 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
+ITEM_20150428_004897	Increases movement speed by 2 for 180 seconds. {nl}Right-click to use. Cooldown of 30 seconds. 
 ITEM_20150428_004898	This fruit has a sweet and sour flavor. {nl}Restores HP every 2 seconds. 180 HP is restored over 15 seconds. {nl}Right-click to use. 
 ITEM_20150428_004899	Crystal obtained by processing the piece of crystal. {nl}It will protect you from the poisonous gas of 2 blocks. 
 ITEM_20150428_004900	Crystal obtained by processing the piece of crystal. {nl}Restores HP every 2 seconds. 440 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown of 30 seconds. 
@@ -6191,7 +6191,7 @@ ITEM_20150918_006190	Tyla Plate Greaves
 ITEM_20150918_006191	Tyla Plate Leggings
 ITEM_20150918_006192	Tyla Plate Armor 
 ITEM_20150918_006193	Miao Hair Ornament
-ITEM_20150918_006194	An elaborate ornament that is the identifying marker of the Wugushis. Its distinctive feature is the bullhorn design in the center.
+ITEM_20150918_006194	An elaborate ornament that is the identifying marker of the Wugushi. Its distinctive feature is the bullhorn design in the center.
 ITEM_20150918_006195	Fletcher Knife
 ITEM_20150918_006196	Instantly restores 190 HP and additionally restores a total of 266 HP every 2 seconds over 15 seconds.{nl}Right-click to use. Cooldown of 20 seconds.
 ITEM_20150918_006197	Instantly restores 320 HP and additionally restores a total of 448 HP every 2 seconds over 15 seconds.{nl}Right-click to use. Cooldown of 25 seconds.
@@ -7175,7 +7175,7 @@ ITEM_20151001_007174	Horace's Handknife
 ITEM_20151001_007175	Although it doesn't look sharp, it is still a decent handknife to peel off barks from trees.
 ITEM_20151001_007176	Plateau Tree's Inner Barks
 ITEM_20151001_007177	When there is no food, you should at least consume this to survive.
-ITEM_20151016_007178	 - When attacking an enemy, 5% chance to inflict Flame for 10 seconds
+ITEM_20151016_007178	 - 5% chance to inflict [Flame] on an enemy for 10 seconds
 ITEM_20151016_007179	Elements
 ITEM_20151016_007180	[Incomplete] There is no tooltip.
 ITEM_20151016_007181	Crystal Rapier
@@ -8467,11 +8467,11 @@ ITEM_20151102_008466	Experiment Journal, Chapter 3
 ITEM_20151102_008467	Protection Barrier Crystal
 ITEM_20151102_008468	A crystal made by the Wizard Submaster for Rose's sibling.
 ITEM_20151102_008469	Dirty Red Water from the Well
-ITEM_20151102_008470	Contaminated water taken from an old well. Do NOT drink this, unless you like to suffer pain.
-ITEM_20151102_008471	Widas' Statue
-ITEM_20151102_008472	A statue made by the Dievdirbys Widas. It pacifies the Perits nearby.
-ITEM_20151102_008473	Bag of Tranceherb Incense
-ITEM_20151102_008474	A bag of Tranceherb Incense made by Druid Leja. It tranquilizes the Perits nearby.
+ITEM_20151102_008470	Contaminated water taken from an old well. Do NOT drink this unless you like to suffer pain.
+ITEM_20151102_008471	Widas's Statue
+ITEM_20151102_008472	A statue made by Dievdirbys Widas. It pacifies the ferrets nearby.
+ITEM_20151102_008473	Bag of Drowsy Herb Incense
+ITEM_20151102_008474	A bag of Drowsy Herb Incense made by Druid Leja. It tranquilizes the ferrets nearby.
 ITEM_20151102_008475	Lepusbunny Assassin Fur
 ITEM_20151102_008476	The fur of a Green Lepusbunny Assassin. It looks similar to that of an ordinary Lepusbunny, but it seems to have better heat retention.
 ITEM_20151102_008477	Siaulav Mage's Emergency Food
@@ -8577,7 +8577,7 @@ ITEM_20151224_008576	Soldier's Iron Club
 ITEM_20151224_008577	Iron Fist
 ITEM_20151224_008578	 - Blocking an enemy's attack will reduce its defense by {img red_down_arrow 16 16}84 for 60 seconds
 ITEM_20151224_008579	This fist shaped mace is said to be created to fight against shield wielding enemy. The force of this heavy weapon can shatter a shield.
-ITEM_20151224_008580	 - Holy property attack increase by {img green_up_arrow 16 16}50 when equipped on a Cleric character
+ITEM_20151224_008580	 - Holy property attack when equipped on a Cleric character {img green_up_arrow 16 16}50
 ITEM_20151224_008581	Guardsman Shield
 ITEM_20151224_008582	Claria Shield
 ITEM_20151224_008583	Ferret Marauder Shield
@@ -9035,7 +9035,7 @@ ITEM_20151224_009034	Sparkly Cube
 ITEM_20151224_009035	Kalejimas Cube
 ITEM_20151224_009036	Sicarius Cube
 ITEM_20151224_009037	Forest Cube
-ITEM_20151224_009038	Ritheris Cube
+ITEM_20151224_009038	Riteris Cube
 ITEM_20151224_009039	Flammidus Cube
 ITEM_20151224_009040	Place an equipment on this anvil and hit it afterwards to upgrade the quality.{nl}Only available to equipment with 0 Potential. Upon failure, the equipment will not be destroyed.{nl}If it fails on enhanced equipment beyond +11, the enhance level of the equipment will reduce to +10.{nl}Right-click to use.
 ITEM_20151224_009041	Flammidus Card
@@ -9568,9 +9568,9 @@ ITEM_20151224_009567	A strange letter written by a mysterious mage to an unknown
 ITEM_20151224_009568	Mage's Second Letter
 ITEM_20151224_009569	A letter sent to someone known as Delmore Rephaim by a mysterious mage. Readable.
 ITEM_20151224_009570	Officer's Journal Part 1
-ITEM_20151224_009571	The first part written by an officer of the Delmore Fortress regarding his work. Readable
+ITEM_20151224_009571	The first part written by an officer of the Delmore Castle regarding his work. Readable
 ITEM_20151224_009572	Officer's Journal Part 2
-ITEM_20151224_009573	The second part written by an officer of the Delmore Fortress regarding his work. Readable
+ITEM_20151224_009573	The second part written by an officer of the Delmore Castle regarding his work. Readable
 ITEM_20151224_009574	Withered Plant
 ITEM_20151224_009575	Warpstone
 ITEM_20151224_009576	Warps you to the beginning of the area you are currently in. Right-click to use.{nl}Cooldown of 1 hour.
@@ -9695,11 +9695,11 @@ ITEM_20151224_009694	Ronjia Grass
 ITEM_20151224_009695	The herbs requested by Herbalist Tales. It has an outstanding pain-killer effect.
 ITEM_20151224_009696	Tamara Counteragent
 ITEM_20151224_009697	A counteragent given by the Cleric Submaster. It neutralizes sinister energy.
-ITEM_20151224_009698	Dadan Jungle Experiment Journal, Page 1
+ITEM_20151224_009698	Dadan Jungle Experiment Journal, Chapter 1
 ITEM_20151224_009699	An experimental jounral written in a human language. Right-click to use.
-ITEM_20151224_009700	Dadan Jungle Experiment Journal, Page 2
-ITEM_20151224_009701	Dadan Jungle Experiment Journal, Page 3
-ITEM_20151224_009702	Dadan Jungle Experiment Journal, Page 4
+ITEM_20151224_009700	Dadan Jungle Experiment Journal, Chapter 2
+ITEM_20151224_009701	Dadan Jungle Experiment Journal, Chapter 3
+ITEM_20151224_009702	Dadan Jungle Experiment Journal, Chapter 4
 ITEM_20151224_009703	Green Apparition Essence
 ITEM_20151224_009704	An essence to prove themselves as a demon to open the special reading room.
 ITEM_20151224_009705	Experiment Victim's Relic
@@ -9728,7 +9728,7 @@ ITEM_20151224_009727	Empty Barrier Crystal
 ITEM_20151224_009728	A material used to make Protective Barrier Crystals. Obtained from the Wizard Submaster.
 ITEM_20151224_009729	Restored Novaha Monestry's Holy Relic
 ITEM_20151224_009730	A holy relic restored thanks to the efforts of Monk Abels.
-ITEM_20151224_009731	A Spirit Rock filled with spirits. Take it to Margiris to be recognized as a member of the Church.
+ITEM_20151224_009731	A Spirit Rock filled with spirits. Take it to Margiris to be recognized as a member of the sect.
 ITEM_20151224_009732	Hemostasis Herb
 ITEM_20151224_009733	A pouch of Drousy Herb made by Druid Leja. It is said to make ferrets in the surrounding area confused when activated. Can be used 3 times.
 ITEM_20151224_009734	A scroll with nothing written on it. Observe the ferrets like Benes requested and write down their behavior patterns on this scroll.
@@ -9797,9 +9797,9 @@ ITEM_20151224_009796	Cast Releasing Amulet
 ITEM_20151224_009797	An amulet prepared by Melchioras. It is said to lift protection spells.
 ITEM_20151224_009798	Magic Orb Pouch
 ITEM_20151224_009799	A pouch filled with Magic Concentration Orbs
-ITEM_20151224_009800	Page 1 of a diary from someone named Ardel, a former resident of the Delmore Fortress.
-ITEM_20151224_009801	Page 2 of a diary from someone named Ardel, a former resident of the Delmore Fortress.
-ITEM_20151224_009802	Page 3 of a diary from someone named Ardel, a former resident of the Delmore Fortress.
+ITEM_20151224_009800	Page 1 of a diary from someone named Ardel, a former resident of the Delmore Castle.
+ITEM_20151224_009801	Page 2 of a diary from someone named Ardel, a former resident of the Delmore Castle.
+ITEM_20151224_009802	Page 3 of a diary from someone named Ardel, a former resident of the Delmore Castle.
 ITEM_20151224_009803	Useful Arrow
 ITEM_20151224_009804	An arrow that once pierced a Charcoal Walker. It looks like it can still be used.
 ITEM_20151224_009805	Spell Detector Crystal
@@ -9981,7 +9981,7 @@ ITEM_20160224_009980	 - {img green_up_arrow 16 16}235 additional damage when usi
 ITEM_20160224_009981	Lolopanther Pike
 ITEM_20160224_009982	Plunger
 ITEM_20160224_009983	Two-handed Spear [Strike]
-ITEM_20160224_009984	 - 3% chance to afflict an enemy with Decay for 20 seconds
+ITEM_20160224_009984	 - 3% chance to afflict an enemy with [Decay] for 20 seconds
 ITEM_20160224_009985	Lolopanther Dagger
 ITEM_20160224_009986	Earth Drake Staff
 ITEM_20160224_009987	Red Cross Staff
@@ -10012,7 +10012,7 @@ ITEM_20160224_010011	Artie Dual Rapier
 ITEM_20160224_010012	Slaake Dual Rapier
 ITEM_20160224_010013	Magas Rapier
 ITEM_20160224_010014	Pensara Rapier
-ITEM_20160224_010015	 - All Fencer skill levels {img green_up_arrow 16 16}2{nl}  - 3% chance to inflict additional Holy-property attacks
+ITEM_20160224_010015	 - All Fencer skill levels {img green_up_arrow 16 16}2{nl}  - 3% chance to inflict additional Holy property attacks
 ITEM_20160224_010016	Catacombs Rapier
 ITEM_20160224_010017	Lolopanther Rapier
 ITEM_20160224_010018	 - All Fencer skill levels {img green_up_arrow 16 16}2
@@ -10199,3 +10199,131 @@ ITEM_20160224_010198	Material of a rune stone. In order to become a Rune Caster,
 ITEM_20160224_010199	Malstatue's Magic Fragment
 ITEM_20160224_010200	Velaphid's Cold Blood
 ITEM_20160224_010201	Pumpleflap's Robust Horn
+ITEM_20160310_010202	Lolopanthers are beings who at a particular time period have served Goddess Zemyna. Although most of them are human, not all of them are.
+ITEM_20160310_010203	Not many records remain of those who have worshiped Goddess Zemyna throughout the eras. A few older locations retain traces of this goddess' history. The names given to these locations are an example of this. The same can be said particularly for weapons.
+ITEM_20160310_010204	As the only way left to meet Goddess Zemyna was to climb up the Earth Tower, this allowed more ways to reconstruct history, as well as better opportunities to obtain magical weapons.
+ITEM_20160310_010205	The cost to maintain this bow is pricey, except it is useful for those who serve the Fletcher Master for free. People like Lydia Schaffen, the one who founded the Astral Tower.
+ITEM_20160310_010206	The Quarrel Shooter Master himself had received this bow recently.
+ITEM_20160310_010207	Some records go as far as calling it a small siege weapon.
+ITEM_20160310_010208	 - Causes an explosion after every 10th consecutive attack.
+ITEM_20160310_010209	Ores and products of the earth can transform into a powerful weapon with the blessing of the goddess.
+ITEM_20160310_010210	This truly makes you proud to be under the protection of the goddess of the earth.
+ITEM_20160310_010211	Some people believe that the Lolopanther equipment is made not with the permission of the goddess, but simply taking advantage of her absence.
+ITEM_20160310_010212	Others believe Goddess Zemyna bestowed the right to freely use any material that grows on her land. If that wasn't the case, it would be impossible to mine the materials. However, this does not mean that we have the absolute right to do what we want.
+ITEM_20160310_010213	The history of the Lolopanthers is surprisingly long. Unlike other weapons, the Lolopanther Dagger dates back to before the kingdom was founded.
+ITEM_20160310_010214	One legend told that Goddess Zemyna's temple itself was a pillar of the earth. The legend is now forgotten, but the staff celebrating the legend remains to this day.
+ITEM_20160310_010215	Warsis Creak has succeeded in developing a new type of weapon from the Lolopanther Musket. However, it is unknown when and how this happened.
+ITEM_20160310_010216	A weapon firm as the ground, light as a feather and strong as a rock.
+ITEM_20160310_010217	The masters who deal with gunpowder regularly use it with newly designed or discovered weapons. The same can be said for this cannon. Quicktongue, however, hardly shares any new discoveries and is likely considering his military career.
+ITEM_20160310_010218	Those who dare to belittle the weapons grown by the goddess are doomed to have their blood fed to her earth.
+ITEM_20160310_010219	Those who worship the great goddess will receive wisdom of humility. This equipment proves that this is true not only for clerics, but for wizards too.
+ITEM_20160310_010220	Whoever carries this will become the master of the earth and receive its grace with every step. However, maintaining the cost of this equipment is of course a problem for humans and unrelated to the goddess.
+ITEM_20160310_010221	Regardless of what rights the goddess of the earth may give, those who carry and use this equipment do so with their own abilities. Do you not wonder whether it possesses an even greater power?
+ITEM_20160310_010222	With every new piece of equipment, the power bestowed by the goddess of the earth is newly imparted on it.
+ITEM_20160310_010223	Users of this equipment may not realize, but designers and artisans know that obtaining the blessing of Goddess Zemyna for using leather is not as easy as it is for using cloth or metal. But thanks to their effort it shines today on the battlefield.
+ITEM_20160310_010224	Compared to other leather equipment, it is more readily blessed by Goddess Zemyna since it comes into direct contact with the ground.
+ITEM_20160310_010225	Some Lolopanther equipment was not also made using the power of the owner of the tower, Goddess Zemyna, but also of the invading demons. In this case, it is important to maintain balance for equipment.
+ITEM_20160310_010226	Many of the efforts to take away the power of the demons and what they were targeting remains unknown, buried in the history of the Earth Tower.
+ITEM_20160310_010227	The goddess of the earth is glad to offer humans the ores forged at her hands. However, she does not look kindly on those who carelessly use and discard them.
+ITEM_20160310_010228	The goddess of the earth may have allowed humans to carry weapons; that does not mean She hopes they will bring war and bloodshed. There is a special reason to make use of this particular piece of equipment.
+ITEM_20160310_010229	This piece of equipment helps your two legs stand firm on Goddess Zemyna's territory.
+ITEM_20160310_010230	Your faith in Goddess Zemyna and your courage need to stand forever firm as the earth. That is something you must maintain if you receive this equipment.
+ITEM_20160310_010231	The grace of the goddess of the earth is in your heart; the time to show the world your bravery has come.
+ITEM_20160310_010232	It is possible to focus the power of all the goddesses in an object to increase one's abilities. It is said that the first person to ever succeed in this type of magic infusion was a nun from Saalus Convent.
+ITEM_20160310_010233	Among efforts to combine holy and magic power while eliminating conflicting properties, a few objects were made that were both a success and a failure. This bracelet is one of them.
+ITEM_20160310_010234	This piece of equipment will help you pierce through the darkness cast by the demons.
+ITEM_20160310_010235	This bracelet works by strenghtening the war spirit of those who wear it. It is very powerful, but it does not come without a few side effects.
+ITEM_20160310_010236	Metal Detector
+ITEM_20160310_010237	Adds +2686 Character EXP and +2668 Class EXP. Can be used from Lv. 5.
+ITEM_20160310_010238	Adds +8442 Character EXP and +6500 Class EXP. Can be used from Lv. 20.
+ITEM_20160310_010239	Adds +22860 Character EXP and +17602 Class EXP. Can be used from Lv. 40.
+ITEM_20160310_010240	Adds +24571 Character EXP and +18919 Class EXP. Can be used from Lv. 60.
+ITEM_20160310_010241	Adds +60312 Character EXP and +46440 Class EXP. Can be used from Lv. 80.
+ITEM_20160310_010242	Adds +142150 Character EXP and +109455 Class EXP. Can be used from Lv. 100.
+ITEM_20160310_010243	Adds +209334 Character EXP and +161187 Class EXP. Can be used from Lv. 120.
+ITEM_20160310_010244	Adds +237943 Character EXP and +183216 Class EXP. Can be used from Lv. 150.
+ITEM_20160310_010245	Adds +541023 Character EXP and +416587 Class EXP. Can be used from Lv. 180.
+ITEM_20160310_010246	Adds +985061 Character EXP and +758496 Class EXP. Can be used from Lv. 210.
+ITEM_20160310_010247	Adds +2420348 Character EXP and +1863667 Class EXP. Can be used from Lv. 250.
+ITEM_20160310_010248	Reward EXP Card
+ITEM_20160310_010249	Adds +2686 Character EXP and +2668 Class EXP. Can be used from Lv. 5.
+ITEM_20160310_010250	Items can be obtained when used. Can be used from Lv. 45.{nl}- 20x Lv4 EXP Card{nl}- 10x Settlement Support Potion{nl}- 3x EXP Tome{nl}- Settlement Support Chest: Lv60{nl}This item will be removed after the server maintenance of March 7th.
+ITEM_20160310_010251	Research Materials
+ITEM_20160310_010252	Research materials stolen from Gatre by the demons.
+ITEM_20160310_010253	A manual given by Gatre.
+ITEM_20160310_010254	Research documents mistakenly thrown away by Gatre.
+ITEM_20160310_010255	Anesthetic Powder
+ITEM_20160310_010256	An anesthetic powder used to sedate monsters.
+ITEM_20160310_010257	Green Eldigo Blood
+ITEM_20160310_010258	Blood collected from monsters in Alemeth.
+ITEM_20160310_010259	Lost Research Note, Chapter 1
+ITEM_20160310_010260	A research note written by Boldas before becoming unconscious during Sarma's experiment.
+ITEM_20160310_010261	Lost Research Note, Chapter 2
+ITEM_20160310_010262	Lost Research Note, Chapter 3
+ITEM_20160310_010263	Fruit Juice Crystal
+ITEM_20160310_010264	Fruit juice crystallized on a monster's body. Used in Sarma's research.
+ITEM_20160310_010265	Aged Fruit Tree Sap
+ITEM_20160310_010266	Sap collected from fruit trees in Alemeth Forest and matured through a special process. Absolutely necessary for Sarma's experiment.
+ITEM_20160310_010267	Red Lake Water
+ITEM_20160310_010268	Water collected from a red lake. It looks eery.
+ITEM_20160310_010269	Alchemical Blend
+ITEM_20160310_010270	A mix of ingredients needed for Sarma's experiment.
+ITEM_20160310_010271	Sarma's Experiment Solution
+ITEM_20160310_010272	A solution created in Sarma's transmutation circle.
+ITEM_20160310_010273	Small Experiment Flask
+ITEM_20160310_010274	A flask containing some of the solution created in Sarma's transmutation circle.
+ITEM_20160310_010275	Alemeth Forest Ingredient List
+ITEM_20160310_010276	A list of ingredients needed for Sarma's research.
+ITEM_20160310_010277	Overgrown Plant Leaves
+ITEM_20160310_010278	Leaves from an overgrown fruit tree. Used in Sarma's research.
+ITEM_20160310_010279	Adomas' Note
+ITEM_20160310_010280	A note left by Adomas.
+ITEM_20160310_010281	'Run away from Faustas'
+ITEM_20160310_010282	 is what it says. Deliver it to a Necromancer named Lemija.
+ITEM_20160310_010283	A letter from a soldier. It seems to have been written to their family but it was never delivered.
+ITEM_20160310_010284	Monster Corpse Piece
+ITEM_20160310_010285	A piece of a defeated monster's corpse. Lemija says it can be used to make an amulet.
+ITEM_20160310_010286	Lemija's Amulet
+ITEM_20160310_010287	An amulet made by Lemija. It can absorb the magic occupying the body of the frozen soldier.
+ITEM_20160310_010288	Assistant Commander's Note
+ITEM_20160310_010289	A note by the Assistant Commander of Vedas Plateau. It describes the situation of the region.
+ITEM_20160310_010290	Veda Plateau Soldier's Belongings
+ITEM_20160310_010291	Objects obtained from monsters. They seem to belong to the soldier.
+ITEM_20160310_010292	Engagement Ring
+ITEM_20160310_010293	A ring given by Veda Plateau's Assistant Commander. Deliver it to Royal Army Officer Retia.
+ITEM_20160310_010294	Base Reagent
+ITEM_20160310_010295	A reagent chemical found in an abandoned tent. It seems to have been made for an experiment.
+ITEM_20160310_010296	Spion Tree Leaves
+ITEM_20160310_010297	Tree leaves used as weapons by Spions. They are softer than what they may seem.
+ITEM_20160310_010298	Lucienne's Reagent
+ITEM_20160310_010299	A reagent chemical made by Lucienne to kill the giant vines in Nahash Forest.
+ITEM_20160310_010300	Spion Teeth
+ITEM_20160310_010301	The teeth of a Spion. They are surprisingly tough.
+ITEM_20160310_010302	Vaidotas' Neutralizer
+ITEM_20160310_010303	A neutralizing agent given by Vaidotas. It contains a substance able to neutralize Lucienne's Reagent.
+ITEM_20160310_010304	Experiment Herb Seeds
+ITEM_20160310_010305	Herb seeds Lucienne has asked you to plant. It seems they're going to be used to make a reagent.
+ITEM_20160310_010306	Soul Sphere
+ITEM_20160310_010307	A sphere given by a villager. It is said to prevent attacks when filled with demon souls.
+ITEM_20160310_010308	Red blood collected from a demon. It's impossible to know what it will be used for.
+ITEM_20160310_010309	Purified Soul Sphere
+ITEM_20160310_010310	A sphere purified by the abbot. It exudes divine energy.
+ITEM_20160310_010311	A scripture containing the doctrines of the Tree of Truth sect.
+ITEM_20160310_010312	Edible Food Items
+ITEM_20160310_010313	Random food items left behind at Namoth Cross Parvis. They look about to go bad, but still edible.
+ITEM_20160310_010314	Lucienne's Special Reagent
+ITEM_20160310_010315	A special reagent created by Lucienne as a result of her research. It was made according to Vaidotas' advice.
+ITEM_20160310_010316	A key made of sparkly blue fragments. Used to activate a certain device.
+ITEM_20160310_010317	A suspicious pouch found burried in the ground. It exudes a strange smell.
+ITEM_20160310_010318	Peculiar Coral Fragment
+ITEM_20160310_010319	A peculiar-looking piece of coral. It seems to have come from a never-before-seen species.
+ITEM_20160310_010320	Greentoshell Shell Fragment
+ITEM_20160310_010321	A piece of Greentoshell shell. It can be ground and used as an ingredient for ointment.
+ITEM_20160310_010322	Blue Lapasape Moss
+ITEM_20160310_010323	Moss that grows on the bodies of Lapasape Mages. It can be used as an ingredient for ointment.
+ITEM_20160310_010324	Merchant's Magic Detector
+ITEM_20160310_010325	A compass borrowed from a merchant to find a tool able to open a magically-locked chest. It points to nearby magic objects.
+ITEM_20160310_010326	Old Backpack
+ITEM_20160310_010327	An old backpack that reacts to the magic detector. It contains several objects of unknown use...
+ITEM_20160310_010328	Agnim Coral Fragment.
+ITEM_20160310_010329	A peculiar-looking piece of coral. It is said to have come from a never-before-seen species. Investigate nearby corals.

@@ -30,7 +30,7 @@ UI_20150317_000029	{@st41b}Bid{/}
 UI_20150317_000030	{@st43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Permission Settings{/}
 UI_20150317_000032	{@st45}Name: %s{/}
-UI_20150317_000033	{@st45}Party Warehouse{/}
+UI_20150317_000033	{@st45}Party Storage{/}
 UI_20150317_000034	{@st49}None
 UI_20150317_000035	{@st49}Store
 UI_20150317_000036	{@st49}Retrieve
@@ -39,7 +39,7 @@ UI_20150317_000038	{@st49}Create
 UI_20150317_000039	{@st49}Delete
 UI_20150317_000040	{@st44}Save{/}
 UI_20150317_000041	{@st44}Cancel{/}
-UI_20150317_000042	{@st43}{s22}Hair Shop{/}
+UI_20150317_000042	{@st43}{s22}Hairstyle Shop{/}
 UI_20150317_000043	{@st59}Previous Hairstyle{/}
 UI_20150317_000044	{@st59}Next Hairstyle{/}
 UI_20150317_000045	{@st41b} Change {s18} (100 iCoins required) {/}
@@ -209,7 +209,7 @@ UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter a file name to save.
 UI_20150317_000210	{@st43}Friends
 UI_20150317_000211	{@st59}Close{/}
-UI_20150317_000212	{@st59b}Friends{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status on your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
+UI_20150317_000212	{@st59b}Friends{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status of your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
 UI_20150317_000213	{@st41b}Show Online{/}
 UI_20150317_000214	{@st41b}List
 UI_20150317_000215	{@st41b}Manage
@@ -263,9 +263,9 @@ UI_20150317_000262	Coin Consumed : 0
 UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventory{/}
 UI_20150317_000265	{@st59}Close{/}
-UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
-UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
-UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
+UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150317_000267	{@st59}Hair Costume 1{/}
+UI_20150317_000268	{@st59}Hair Costume 2{/}
 UI_20150317_000269	{@st59}Necklace{/}
 UI_20150317_000270	{@st59}Costume{/}
 UI_20150317_000271	{@st59}Top{/}
@@ -425,7 +425,7 @@ UI_20150317_000424	Item Alarm
 UI_20150317_000425	{@st64}Details{/}
 UI_20150317_000426	How to Play
 UI_20150317_000427	{@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	{@st42b}         Perform a basic attack{/}
+UI_20150317_000428	{@st42b}       Perform a basic attack{/}
 UI_20150317_000429	{@st42b}                Jump up{/}
 UI_20150317_000430	{@st42b}  Press two directional keys to move diagonally.{/}
 UI_20150317_000431	Fog Map Tool
@@ -1557,14 +1557,14 @@ UI_20150714_001556	{@st41b}Remove Base Camp
 UI_20150714_001557	Card Battles
 UI_20150714_001558	{@st64}%s Win(s) {/}
 UI_20150714_001559	Select Card
-UI_20150714_001560	Adventure Index:{#ffff00} %s{/} ({#ffff00}ranked #%s{/})
+UI_20150714_001560	Adventure Index:{#ffff00} %s{/} ({#ffff00}Rank: #%s{/})
 UI_20150714_001561	{@st66b}Like!
 UI_20150714_001562	I like this character {#ffff00}%s{/}
 UI_20150714_001563	{@st41b}Remove Refreshment Table
 UI_20150714_001564	{@st42}My Summon Skill
 UI_20150714_001565	{@st42}Stat
 UI_20150714_001566	{@st42}Current Location : %s{/}
-UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
 UI_20150714_001568	{@st43}Open %s Shop {/}
 UI_20150714_001569	{@st41b}Roasting{/}
 UI_20150714_001570	{@st66}Select All
@@ -1726,9 +1726,9 @@ UI_20150717_001725	{@st66b}Sort
 UI_20150717_001726	{@st59}Sort items in your storage{/}
 UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
 UI_20150717_001728	Spectate another character
-UI_20150717_001729	{@st41}Battle Field
+UI_20150717_001729	{@st41}Battlefield
 UI_20150717_001730	Results
-UI_20150717_001731	{@st41}Move Immediately
+UI_20150717_001731	{@st41}Move Now
 UI_20150717_001732	{@st41b}            A Team Name represents all your characters.{nl}                 It is a common name used within the game.{nl}                  Your Team Name can be changed later on.{/}
 UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
 UI_20150729_001734	Leg Count
@@ -1738,7 +1738,7 @@ UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
 UI_20150729_001739	{@st59}Close Arrow Crafting{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
-UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                        double-tapping a directional key{/}
+UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                     double-tapping a directional key{/}
 UI_20150729_001742	{@st41}Party Settings
 UI_20150729_001743	{@st41}Party Recruit Settings
 UI_20150729_001744	{@st42}Search for Party Members{/}
@@ -1886,7 +1886,7 @@ UI_20151224_001885	{@st59}Zoom In{/}
 UI_20151224_001886	{@st59}Zoom Out{/}
 UI_20151224_001887	{@st59}Show Last Warp Point{/}
 UI_20151224_001888	{@st59}Show Current Location{/}
-UI_20151224_001889	{@st59}Hairstyle Costume 3{/}
+UI_20151224_001889	{@st59}Hair Costume 3{/}
 UI_20151224_001890	{@st59}Hairstyle{/}
 UI_20151224_001891	{@st41b}Cancel
 UI_20151224_001892	{@st41b}Confirm
@@ -1955,8 +1955,8 @@ UI_20151224_001954	{@st66b}Resurrect with the Soul Crystal{/}
 UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}
 UI_20151224_001956	Crafting Number
 UI_20151224_001957	{@st42}%s Benefits{/}
-UI_20151224_001958	Are you sure you want to use this %s?{/}
-UI_20151224_001959	Used items will be disappeared from your inventory{nl}Resets your all skill points.
+UI_20151224_001958	Do you want to use this %s?{/}
+UI_20151224_001959	This item will disappear from your inventory{nl}Resets your all Skill Points.
 UI_20151224_001960	{@st41}Use
 UI_20151224_001961	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
 UI_20151224_001962	{@st66b}Information{/}
@@ -1964,7 +1964,7 @@ UI_20151224_001963	{@st66b}Achievements{/}
 UI_20151224_001964	{@st66b}Character Settings{/}
 UI_20151224_001965	{@st59}Collection (F11){/}
 UI_20151224_001966	{@st66b}Key Settings
-UI_20151224_001967	{@st42}Duration : %s{/}
+UI_20151224_001967	{@st42}Duration: %s{/}
 UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory
 UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}
 UI_20151224_001970	The duration of your Token can be seen in Character Settings.
@@ -2005,7 +2005,7 @@ UI_20151224_002004	{@st59}Credits{/}
 UI_20151224_002005	{@st42}Producer and Director{/}{nl}{@st41b}{s22}Seyong Kim{nl} {nl}{@st42}Art Director{nl}{@st41b}{s22}Jeongwon An (MAGGI){nl} {nl}{@st42}Art Designer{nl}{@st41b}{s22}Mina Kim{nl}Heajin Sung{nl}Minkyong Kang{nl}Junhyuck Park{nl}Jinyoung Bae{nl}Hyosun Shin{nl}Sehee Park{nl} {nl}{@st42}Senior Programmer{nl}{@st41b}{s22}Sanghyup Shin{nl} {nl}{@st42}Research Programmer{nl}{@st41b}{s22}Jaehoon Jung{nl} {nl}{@st42}Programmer{nl}{@st41b}{s22}Young Choi{nl}Seongbae Han{nl}Bora Kim{nl}YongGyun Lee{nl}Minkyu Kim{/}
 UI_20151224_002006	{@st42}Battle System Designer{nl}{@st41b}{s22}Girak Choi{nl}{nl}P.J. Kim{nl} {nl}{@st42}Level Designer{nl}{@st41b}{s22}Hongseok Ra{nl} {nl}{@st42}Screenplay Director{nl}{@st41b}{s22}Seungjo Lee{nl} {nl}{@st42}Lead Animator{nl}{@st41b}{s22}Sujin Lee{nl} {nl}{@st42}Animator{nl}{@st41b}{s22}Seunghyeon Myeong{nl}Minwoo Park{nl}Sookyung Kim{nl}Dongjin Kim{nl}Mijin Kim{nl} {nl}{@st42}Effects / SFX{nl}{@st41b}{s22}Hyejin Jung{nl} {nl}{@st42}Character Designer{nl}{@st41b}{s22}Jiae Park{nl}Junwon Hwang{nl}Subum Lee{nl}Dami Kim{/}
 UI_20151224_002007	{@st42}Background Designer{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Content Design Manager{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Content Designer{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Scenario Writer{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
-UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}General Sound Director{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Sound Designer{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Manager{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Quality Assurance Manager{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Quality Assurance{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
+UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}General Sound Designer{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Sound Designer{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Manager{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Quality Assurance Manager{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Quality Assurance{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
 UI_20151224_002009	{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
 UI_20151224_002010	Select Starting City
 UI_20151224_002011	{@st44}Klaipeda
@@ -2049,8 +2049,8 @@ UI_20151224_002048	{@st42}%s Benefits{/}
 UI_20151224_002049	Benefits
 UI_20160224_002050	Team Storage
 UI_20160224_002051	{@st59}Close{/}
-UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Taking out an item from Team Storage will deduct your trading{nl}count by 1 regardless of the number of items you take out.
-UI_20160224_002053	Receive Item
+UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.
+UI_20160224_002053	Retrieve Item
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Close{/}
 UI_20160224_002056	Challenge
@@ -2065,8 +2065,8 @@ UI_20160224_002064	{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items o
 UI_20160224_002065	F
 UI_20160224_002066	{@st59}Close{/}
 UI_20160224_002067	{@st59}Place an accessory{/}
-UI_20160224_002068	{@st66b}Opening 1 more time will consume silver.{/}
-UI_20160224_002069	{@st66b}Up to 2 times is allowed for Token users.{/}
+UI_20160224_002068	{@st66b}Opening one more time costs silver.{/}
+UI_20160224_002069	{@st66b}(Up to two times for users with Token benefits){/}
 UI_20160224_002070	{@st41b}You have exceeded the number of times allowed.{/}
 UI_20160224_002071	{@st66b}Basic Info
 UI_20160224_002072	{@st66b}Property
@@ -2082,15 +2082,15 @@ UI_20160224_002081	{@st66b}Guild Attributes
 UI_20160224_002082	Guild Storage
 UI_20160224_002083	{@st59}Close{/}
 UI_20160224_002084	* The guild master can send items to guild members.{nl}* Items can be collected through the Message Box.
-UI_20160224_002085	{@st41b}Infuse Magic
-UI_20160224_002086	{@st41b}Magic Scroll{/}
+UI_20160224_002085	{@st41b}Enchant
+UI_20160224_002086	{@st41b}Enchant Scroll{/}
 UI_20160224_002087	{@st59}Close{/}
-UI_20160224_002088	{@st66b}Consumes 1 Magic Scroll{/}
+UI_20160224_002088	{@st66b}Consumes 1 Enchant Scroll{/}
 UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}
-UI_20160224_002090	{@st66b}Requests{/}
+UI_20160224_002090	{@st66b}Missions{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
 UI_20160224_002092	{@st66b}Earth Tower{/}
-UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeon : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Mission Requests : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
+UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeons : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Missions : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
 UI_20160224_002094	{@st59}Close{/}
 UI_20160224_002095	{@st59}Show/Do not show{/}
 UI_20160224_002096	{@st45tw2}Queuing Time{/}
@@ -2098,7 +2098,7 @@ UI_20160224_002097	Bid
 UI_20160224_002098	Remaining Bidding Time
 UI_20160224_002099	Item Dice
 UI_20160224_002100	{@st42}%s Benefits{/}
-UI_20160224_002101	Used items disappear from your inventory{nl}and all %s will be reset.{/}
+UI_20160224_002101	This item will disappear from your inventory{nl}and all %s will be reset.{/}
 UI_20160224_002102	The remaining time can be seen in Character Settings.{/}
 UI_20160224_002103	Retrieving data.
 UI_20160224_002104	{@st66b}Ranking{/}
@@ -2115,7 +2115,7 @@ UI_20160224_002114	Recent Records
 UI_20160224_002115	{@st45tw2}Category{/}
 UI_20160224_002116	{@st41c}%s{/}
 UI_20160224_002117	{@st41c}%sm{/}
-UI_20160224_002118	Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis's rule.{nl}Defeat Temple Shooter and help make Crystal Mine safe once more.
+UI_20160224_002118	Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis' rule.{nl}Defeat Temple Shooter and help make Crystal Mine safe once more.
 UI_20160224_002119	{@st41c}Chapter %s{/}
 UI_20160224_002120	Name & Class
 UI_20160224_002121	{@st41b}Refresh
@@ -2132,9 +2132,44 @@ UI_20160224_002131	Defeats : %s
 UI_20160224_002132	Damage : %s
 UI_20160224_002133	Increased maximum buff count
 UI_20160310_002134	{@st65}Damage: %s{/}
-UI_20160310_002135	{@st65}{s12}Achieved{/}
-UI_20160310_002136	{#16120e}Achieved{/}
+UI_20160310_002135	{@st65}{s12}Achievement{/}
+UI_20160310_002136	{#16120e}Achievement{/}
 UI_20160310_002137	Count: %s
 UI_20160310_002138	Damage: %s
-UI_20160310_002139	{@sti9}Hunt Ranking
+UI_20160310_002139	{@sti9}Kill Ranking
 UI_20160310_002140	{@sti9}Damage Ranking
+UI_20160317_002141	1 extra instance entry for missions and dungeons
+UI_20160317_002142	2 extra instance entries for missions and dungeons
+UI_20160323_002143	{@st41} My Summonee Info
+UI_20160323_002144	{@st41} Guild Battle Ranking{/}
+UI_20160323_002145	Guild Battle Ranking
+UI_20160323_002146	{@st59}Close
+UI_20160323_002147	{@st66b} Real-time Standings
+UI_20160323_002148	{@st66b} Weekly Standings
+UI_20160323_002149	{@st66b} All Time Standings{/}
+UI_20160323_002150	My Guild Ranking
+UI_20160323_002151	{@sti1}%s's Location{/}
+UI_20160323_002152	Last week Standings
+UI_20160323_002153	1st
+UI_20160323_002154	Guild Reward List
+UI_20160323_002155	{@st41}Summoned Creature : {#ffcc33}%s{/}
+UI_20160323_002156	{@st41}Fragments Required : %s
+UI_20160323_002157	ATK : {@st41b}%s
+UI_20160323_002158	DEF : {@st41b}%s
+UI_20160323_002159	STR : {@st41b}%s
+UI_20160323_002160	CON : {@st41b}%s
+UI_20160323_002161	INT : {@st41b}%s
+UI_20160323_002162	DEX : {@st41b}%s
+UI_20160323_002163	SPR : {@st41b}%s
+UI_20160323_002164	{@st42}Hairstyle Color{/}
+UI_20160323_002165	{@st42}Available Titles{/}
+UI_20160323_002166	Team Info
+UI_20160323_002167	{@st66b}Change Lodge{/}
+UI_20160323_002168	{@st43}{s26}Team Level %s{/}
+UI_20160323_002169	{@st66b}Team Info
+UI_20160323_002170	{#2c140c}Average Level : %s{/}
+UI_20160323_002171	{@st41b}Join
+UI_20160323_002172	{@st42} Character Greetings{/}
+UI_20160323_002173	[Server] Guild Name
+UI_20160323_002174	Record / Score
+UI_20160323_002175	[Created: %s ago]

@@ -979,7 +979,7 @@ SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl} Uses a strong 
 SKILL_20150317_000979	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
 SKILL_20150317_000980	Targe Smash
 SKILL_20150317_000981	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Inflicts damage by strongly smashing your shield to the target. Has a high chance to inflict the Darkness status effect to the target.
-SKILL_20150317_000982	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Dark]{/}{/} Duration 3 seconds{nl}Splash #{SkillSR}#
+SKILL_20150317_000982	Attack: #{SkillAtkAdd}#{nl}{#339999}{ol}[Blind]{/}{/} Duration: 3 seconds{nl}Splash: #{SkillSR}#
 SKILL_20150317_000983	Shield Push
 SKILL_20150317_000984	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Use your shield to interfere with an enemy.{nl} Inflicts the Unbalanced status effect to the target. 
 SKILL_20150317_000985	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Duration 5 seconds
@@ -1119,8 +1119,8 @@ SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Ice]{/}{/}Rate 50% {nl} {#3
 SKILL_20150317_001119	Gust
 SKILL_20150317_001120	Creates a gust of wind that pushes the target away. Inflicts damage on targets that are frozen or nearby an Ice Wall.
 SKILL_20150317_001121	Frost Pillar
-SKILL_20150317_001122	Summons a tree of ice on the ground to pull nearby targets in and freeze them by chance.
-SKILL_20150317_001123	{#339999}{ol}[Ice]{/}{/}Chance: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_001122	Summons a tree of ice on the ground that pulls nearby enemies in and has a chance of freezing them.
+SKILL_20150317_001123	Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001124	Psychic Pressure
 SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Inflicts continuous damage to targets in front of you.
 SKILL_20150317_001126	Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#{nl}Consume #{CaptionRatio2}#% of SP per second.
@@ -1628,7 +1628,7 @@ SKILL_20150317_001627	Periodically receiving Fire damage.
 SKILL_20150317_001628	Hold
 SKILL_20150317_001629	Unmovable.
 SKILL_20150317_001630	Fixed Movement Speed
-SKILL_20150317_001631	Darkness
+SKILL_20150317_001631	Dark
 SKILL_20150317_001632	Field of vision interfered.
 SKILL_20150317_001633	OP Buff
 SKILL_20150317_001634	Increased Attack.
@@ -1750,7 +1750,7 @@ SKILL_20150317_001749	Sequentially heal all abnormal states.
 SKILL_20150317_001750	Continuously receive Holy damage.
 SKILL_20150317_001751	Increased HP recovery speed.
 SKILL_20150317_001752	Holy Baptism
-SKILL_20150317_001753	Damage dealt has Holy attribute
+SKILL_20150317_001753	Holy property added to your attacks
 SKILL_20150317_001754	Limitation
 SKILL_20150317_001755	Max. strength increased temporarily
 SKILL_20150317_001756	Venom
@@ -2274,7 +2274,7 @@ SKILL_20150317_002273	Number of attacks of [Blessing] increases by 1 per level.
 SKILL_20150317_002274	Blessing: Additional Buff
 SKILL_20150317_002275	Number of targets of [Blessing] increases by 1 per Attribute level.
 SKILL_20150317_002276	Sacrament: Dark Property resistance
-SKILL_20150317_002277	Dark Resistance increases by 5 per attribute levvel while [Sacrament] is activated.
+SKILL_20150317_002277	Increases your Dark property resistance by 5 per attribute level while [Sacrament] is active.
 SKILL_20150317_002278	Resurrection: HP Recovery
 SKILL_20150317_002279	Recovers the maximum HP of a revived character with [Resurrection] by 10% per attribute level.
 SKILL_20150317_002280	Resurrection: Revive Count
@@ -3085,7 +3085,7 @@ SKILL_20150323_003084	Throw left-hand weapon
 SKILL_20150323_003085	Resist Elements
 SKILL_20150323_003086	Critical rate is higher when attacking from behind.
 SKILL_20150323_003087	Periodic decrease of SP and damage
-SKILL_20150323_003088	Remove harmful effects
+SKILL_20150323_003088	Removes harmful effects
 SKILL_20150323_003089	Periodically decreases your SP
 SKILL_20150323_003090	Throw right-hand weapon
 SKILL_20150323_003091	Evasion rate decrease
@@ -3163,7 +3163,7 @@ SKILL_20150401_003162	Set up a refreshment table where you can share food with p
 SKILL_20150401_003163	Increases the food effectivenes by skill level
 SKILL_20150401_003164	Stick flag that boosts the combat abilities of the pirates on the ground. Kill enemies continuously for fever combo.
 SKILL_20150401_003165	Flag Duration: 30 seconds
-SKILL_20150401_003166	Captures enemies with a hook.
+SKILL_20150401_003166	Capture enemies with a hook.
 SKILL_20150401_003167	Capture Time: 5 seconds
 SKILL_20150401_003168	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use Iron Hook to drag enemy. Enemy receives damage every time it is pulled.
 SKILL_20150401_003169	Attack #{SkillFactor}#% + #{SkillAtkAdd}#{nl}#{CaptionRatio}# continuous hits
@@ -3540,8 +3540,8 @@ SKILL_20150406_003539	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smash the head
 SKILL_20150406_003540	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the back of a knife to strike and push away an enemy. The enemy falls under Armor Break (Permanent on monsters)
 SKILL_20150406_003541	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use your shield and spear to attack enemies.
 SKILL_20150406_003542	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}March forward while holding down the key. Enemies nearby are hit with the shield and will fall down.
-SKILL_20150406_003543	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to smack enemies. There is a high chance the target becomes afflicted with Darkness.
-SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to interrupt enemies.{nl}The target becomes afflicted with Unbalanced.
+SKILL_20150406_003543	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to smack enemies. There is a high chance the target becomes afflicted with [Blind].
+SKILL_20150406_003544	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to interrupt enemies.{nl}The target becomes afflicted with [Unbalanced].
 SKILL_20150406_003545	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield as a lead and march forward while holding down the key. Release the key to launch a slash on the enemy.
 SKILL_20150406_003546	Attack: #{SkillAtkAdd}#{nl}Maximum Duration: 10 seconds
 SKILL_20150406_003547	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather up power and use your weapon to attack targets by smashing it to the ground.
@@ -3629,10 +3629,10 @@ SKILL_20150414_003628	Change to Window formation for active attack. Chance of cr
 SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use your spear and shield to attack enemies. Deals additional damage when an attack is countered.
 SKILL_20150414_003630	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to attack enemy. Spear dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and dash to push enemies away. Enemies nearby will fall down when hit with the shield.
-SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Strongly attack bottom of enemy with chance of paralyzing.
-SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smacks down an enemy using your shield, afflicting the [Dark] status effect by a small chance.
+SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with a powerful slash on the lower half of an enemy with a chance to paralyze.
+SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Blind] on the enemy.
 SKILL_20150414_003634	Attack #{SkillAtkAdd}#{nl}DeStab the enemy in front of you, and make it more vulnerable to [Pierce] attacks.fense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
-SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold key to bend down and move forward. Evasion increases and attacks enemy after moving.
+SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Increases evasion against enemy attacks and triggers an attack immediately after movement has ended.
 SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
 SKILL_20150414_003637	{#DD5500}{ol}[Pierce]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.
 SKILL_20150414_003638	Increases your movement speed while riding.
@@ -3657,7 +3657,7 @@ SKILL_20150414_003656	Duration: #{CaptionRatio}# hours{nl}Duration of the food e
 SKILL_20150414_003657	Set up a refreshment table to prepare dishes that temporarily increases the abilities of your party members. A refreshment table can only placed near a base camp. If the camp is removed, the refreshment table will be removed as well.
 SKILL_20150414_003658	Ping a flag that boosts pirates' abilities. Kill enemies repeatedly near the flag for combo attack.
 SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. Enenues receives damage each time it is pulled.
-SKILL_20150414_003660	Can you sword {nl}without delay after normal attack.{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150414_003660	Able to use your dagger{nl}without delay after normal attacks{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150414_003661	Attack with chance of stealing enemy items.
 SKILL_20150414_003662	Make a formation that calls on the troops.
 SKILL_20150414_003663	Change to Phalanx formation. Concentrate the block ability of all troops to the 3 at the frontline.
@@ -3795,7 +3795,7 @@ SKILL_20150414_003794	Trick an enemy to lower its guard. Temporarily decreases t
 SKILL_20150414_003795	Hide underground to conceal your appearance. In this state you can attack but cannot move.
 SKILL_20150414_003796	Steals the enemy's trap and magic circle. You may use it later when you need it.
 SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Temporarily increases the STR of you and your party members when a target dies and explodes from this attack.
-SKILL_20150414_003798	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas at a targeted area. The target becomes afflicted with Darkness.
+SKILL_20150414_003798	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw tear gas at a targeted area. The target becomes afflicted with [Blind].
 SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Continuously attack using your dagger. A double attack with a high critical rate may stun the enemy.
 SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a wide broadhead arrow. Inflicts bleeding on the enemy hit.
 SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Launches a bodkin arrow that deeply penetrates the enemy. On hit, decreases enemies' defense and nullifies the magic that protects the enemy.
@@ -3903,7 +3903,7 @@ SKILL_20150414_003902	Invalidates magic of enemies nearby.
 SKILL_20150414_003903	Show in advance where the enemy will attack you and your party members.
 SKILL_20150414_003904	Change enemy's drop item. Know if rare item will be dropped.
 SKILL_20150414_003905	Sentence the enemy to death. The sentenced target dies when time is up.
-SKILL_20150414_003906	Max. provoke increased.
+SKILL_20150414_003906	Increased maximum provocation.
 SKILL_20150414_003907	Insensible to pain.
 SKILL_20150414_003908	Increased Fire, Ice, Lightning, Poison and Earth Property Resistance.
 SKILL_20150414_003909	Increased Physical and Magic Attack.
@@ -4058,7 +4058,7 @@ SKILL_20150428_004057	Evasion: -#{CaptionRatio}#{nl}Pointing AI Duration: 90 sec
 SKILL_20150428_004058	Detects hidden monsters {nl}Hounding AI Duration: 90 seconds
 SKILL_20150428_004059	Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150428_004060	Attack #{SkillAtkAdd}#{nl}Duration 30 seconds
-SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with Darkness.
+SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with [Blind].
 SKILL_20150428_004062	Lachrymator Duration: #{CaptionTime}# seconds
 SKILL_20150428_004063	Attack #{SkillAtkAdd}#{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%
 SKILL_20150428_004064	Attack: #{SkillAtkAdd}#{nl}Bleeding Duration: #{CaptionTime}# seconds{nl}Consumes 1 Broadhead Arrow
@@ -4088,7 +4088,7 @@ SKILL_20150428_004087	Increase Splash.
 SKILL_20150428_004088	Stamina Recovery
 SKILL_20150428_004089	Continuously recovers Stamina.
 SKILL_20150428_004090	Increased magic defense.
-SKILL_20150428_004091	Increased Dark Property Attack.
+SKILL_20150428_004091	Increased Dark property attack.
 SKILL_20150428_004092	Red Aura
 SKILL_20150428_004093	Blue Aura
 SKILL_20150428_004094	Yellow Aura
@@ -4124,19 +4124,19 @@ SKILL_20150714_004123	Duration: #{CaptionTime}# seconds{nl}AoE Attack Ratio: #{C
 SKILL_20150714_004124	Increase HP & SP Recovery
 SKILL_20150714_004125	All Status Increase
 SKILL_20150714_004126	Cooltime Decrease
-SKILL_20150714_004127	Increase EXP Rate
+SKILL_20150714_004127	Increased EXP Rate
 SKILL_20150714_004128	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004129	Removes the armor's effect from the target.
 SKILL_20150714_004130	Decreases the target's defense.
 SKILL_20150714_004131	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#
-SKILL_20150714_004132	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Ignores the defense of small-type and medium-type targets #{CaptionRatio}#{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004132	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Defense Ignored: #{CaptionRatio}#{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004133	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: 0.5 second{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004134	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds {nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004135	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Medium-type Targets: 2 consecutive attacks{nl}Large-type Targets: 3 consecutive attacks
 SKILL_20150714_004136	Spear Attack: #{SkillAtkAdd}#{nl}Shield Attack: #{CaptionRatio}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004137	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 5 seconds{nl}Consumes Stamina
 SKILL_20150714_004138	Attack: #{SkillAtkAdd}#{nl}Attribute Damage #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duration: 7 seconds
-SKILL_20150714_004139	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Darkness]{/}{/} Duration: 3 seconds{nl}AoE Attack Ratio: #{SkillSR}#
+SKILL_20150714_004139	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Blind]{/}{/} Duration: 3 seconds{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20150714_004140	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Defense: -#{CaptionRatio}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150714_004141	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds
 SKILL_20150714_004142	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}AoE Attack Ratio: #{SkillSR}#{nl}Able to use while riding
@@ -4160,7 +4160,7 @@ SKILL_20150714_004159	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20150714_004160	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 4 seconds
 SKILL_20150714_004161	Number of Tiles: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 3 seconds{nl}Ice Wall Duration: 15 seconds
 SKILL_20150714_004162	{#339999}{ol}[Freeze]{/}{/} Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%
-SKILL_20150714_004163	Enemies attacked {#339999}{ol}[Freeze]{/}{/}Chance 50%{nl}{#339999}{ol}[Freeze]{/}{/} Duration: #{CaptionRatio}# seconds
+SKILL_20150714_004163	Chance to {#339999}{ol}[Freeze]{/}{/} attacked enemies: 50%{nl}{#339999}{ol}[Freeze]{/}{/} Duration: #{CaptionRatio}# seconds
 SKILL_20150714_004164	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150714_004165	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}AoE Attack Ratio: #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per second
 SKILL_20150714_004166	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Number of Hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
@@ -4253,7 +4253,7 @@ SKILL_20150714_004252	Shovel status effect
 SKILL_20150714_004253	Status effect can activate Legacy of Legwyn Family
 SKILL_20150714_004254	Block Increase
 SKILL_20150714_004255	Increased block
-SKILL_20150714_004256	Increase Critical Attack
+SKILL_20150714_004256	Increased critical attack
 SKILL_20150714_004257	Magic Amplification Increase
 SKILL_20150714_004258	Increase Magic Amplification
 SKILL_20150714_004259	Armor Penetration
@@ -4484,8 +4484,8 @@ SKILL_20150714_004483	Hold: Decreased Cooldown
 SKILL_20150714_004484	Cooldown time of [Hold] will be reduced.
 SKILL_20150714_004485	Summon Salamion: Ignite
 SKILL_20150714_004486	Has a chance to afflict [Flame] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
-SKILL_20150714_004487	Summon Salamion: Dark
-SKILL_20150714_004488	Has a chance to afflict [Dark] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
+SKILL_20150714_004487	Summon Salamion: Blind
+SKILL_20150714_004488	Has a chance to afflict [Blind] for 10 seconds on an enemy when it is attacked by Salamion. Increases the chance by 2% per attribute level.
 SKILL_20150714_004489	Increases the critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level.
 SKILL_20150714_004490	When an enemy affected by [Reincarnate] dies and is revived, two enemies will appear with a chance of 1% per attribute level.
 SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute level, after using [Backmasking], the enemies that will be pulled by aggro will be affected by [Confusion] for 6 seconds.
@@ -4644,8 +4644,8 @@ SKILL_20150714_004643	Increases the chance of a new zombie emerging from [Dambal
 SKILL_20150714_004644	Bwa Kayiman: Zombie Defense
 SKILL_20150714_004645	Increases the physical defense of the zombies while using [Bwa Kayiman] by 3 per attribute level.
 SKILL_20150714_004646	The maximum number of zombies that could be created by [Zombify] increases by 1 per Attribute level.
-SKILL_20150714_004647	Hexing: Darkness
-SKILL_20150714_004648	Enemies afflicted with [Hexing] will receive 10% additional damage per attribute level from Dark property attacks.
+SKILL_20150714_004647	Hexing: Dark
+SKILL_20150714_004648	Enemies affected by [Hexing] will receive 10% additional damage per attribute level from Dark property attacks.
 SKILL_20150714_004649	Samediveve: Increased Range
 SKILL_20150714_004650	The range of [Samediveve] will be increased.
 SKILL_20150714_004651	Ogouveve: Increased Range
@@ -4730,8 +4730,8 @@ SKILL_20150717_004729	Periodically receive Fire damage
 SKILL_20150717_004730	SP Absorption
 SKILL_20150717_004731	SP Absorption Status
 SKILL_20150717_004732	Status from receiving SP Absorption
-SKILL_20150717_004733	Increased silver
-SKILL_20150717_004734	Increased silver drop
+SKILL_20150717_004733	Silver Increase
+SKILL_20150717_004734	Increased amount of silver dropped from enemies.
 SKILL_20150717_004735	Increased magic defense 
 SKILL_20150717_004736	Decreased magic defense, increased physical defense 
 SKILL_20150717_004737	Movement speed decrease
@@ -4829,7 +4829,7 @@ SKILL_20150717_004828	Increases the range of [Melstis] to 50.
 SKILL_20150717_004829	Sacrament: Dark Property Resistance
 SKILL_20150717_004830	Increases your Dark property resistance by 5 per attribute level when [Sacrament] is active.
 SKILL_20150717_004831	Increases the duration of [Revive] by 7 seconds per attribute level. 
-SKILL_20150717_004832	Enemies hit by [Effigy] can be affected by [Darkness] with a 5% chance for 5 seconds per attribute level.
+SKILL_20150717_004832	Enemies hit by [Effigy] can become afflicted with [Blind] at a 5% chance per attribute level for 5 seconds.
 SKILL_20150717_004833	Increases the range of [Samediveve] to 110.
 SKILL_20150717_004834	Increases the range of [Ogouveve] to 110. 
 SKILL_20150717_004835	Decreases the cooldown of [Carve Vakarine] by 10 seconds.
@@ -4933,7 +4933,7 @@ SKILL_20150729_004932	Uses the highest abilities between you and allies linked b
 SKILL_20150729_004933	Shrink the size of your target.
 SKILL_20150729_004934	Enlarge the size of your target. Doubles the target's maximum HP, EXP and drop rate.
 SKILL_20150729_004935	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 10 seconds
-SKILL_20150729_004936	Duration: #{CaptionTime}# seconds{nl}Chance of doubling the duration: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}{#DD5500}{ol}Lightning{/}{/}Property Additional Damage: +35%{nl}{#DD5500}{ol}Flame{/}{/}Property Target Attack: #{SkillAtkAdd}#
+SKILL_20150729_004936	Duration: #{CaptionTime}# seconds{nl}Chance of doubling the duration: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Attack on {#DD5500}{ol}Fire{/}{/}Property Targets: #{SkillAtkAdd}#
 SKILL_20150729_004937	Salamion Duration: #{CaptionTime}# seconds{nl}Salamion Level: #{CaptionRatio2}#{nl}Salamion Additional Damage: +#{CaptionRatio}#
 SKILL_20150729_004938	By manipulating time, you can let a monster appear at the same location where it was defeated.
 SKILL_20150729_004939	Movement Speed: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
@@ -5040,7 +5040,7 @@ SKILL_20150804_005039	Increases the reflection of [Iron Skin] by 5% per attribut
 SKILL_20150807_005040	While [Aggressor] is active, the character's added critical attack is proportional to the physical attack. Increases an addtional amount by 5% per attribute level.
 SKILL_20150918_005041	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy by throwing your shield. Your shield drops on the targeted area, and your physical defense decreases based on the value of the equipment. The shield may be picked up or it'll automatically return to your inventory after a certain time. The decreased physical defense will return back to normal once your shield is back in the inventory.
 SKILL_20150918_005042	Umbo Thrust
-SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the spike on the shield to strike an enemy. You may temporarily lose a small effect of your armor.
+SKILL_20150918_005043	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Heavily strike enemies using the spikes on your shield. Enemies struck by the skill may temporarily lose the effects from their armors.
 SKILL_20150918_005044	Skyliner
 SKILL_20150918_005045	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Slash the enemy sideways.{nl}Inflicts additional damage on enemies affected by [Bleeding].
 SKILL_20150918_005046	Crosscut
@@ -5057,13 +5057,13 @@ SKILL_20150918_005056	Cleave
 SKILL_20150918_005057	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal force and continuously attack enemies by turning body. Make an additional damage to the enemy stunned.
 SKILL_20150918_005058	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use your shield and sword to successively attack enemies.
 SKILL_20150918_005059	Shield Shoving
-SKILL_20150918_005060	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Interrupt an enemy's action using your shield. The enemy is turned around, and can't take any actions temporarily.
+SKILL_20150918_005060	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Interrupt an enemy's action by using your shield. The enemy is turned around, and cannot take any actions temporarily.
 SKILL_20150918_005061	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: 1.5 seconds
 SKILL_20150918_005062	Shield Bash
 SKILL_20150918_005063	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with your shield. The attacked enemy will have its stat points jumbled temporarily.
 SKILL_20150918_005064	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20150918_005065	High Kick
-SKILL_20150918_005066	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Perform a high kick on the enemy. The enemy will receive additional damage from Strike attacks temporarily.
+SKILL_20150918_005066	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Perform a high kick to subdue an enemy. Hit enemies will temporarily take additional Strike damage.
 SKILL_20150918_005067	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Maximum Duration: 10 seconds{nl}AoE Attack Ratio: 5{nl}Able to use while riding
 SKILL_20150918_005068	Increases attack equal to [Skill Level]×[Number of Weapon Stars]{nl}Attack Count: #{CaptionRatio2}#{nl}Duration: 1 hour
 SKILL_20150918_005069	Physical Defense: +#{CaptionRatio}#{nl}Number of Shots: #{CaptionRatio2}#{nl}Duration: 1 hour
@@ -5128,7 +5128,7 @@ SKILL_20150918_005127	Number of Warps: #{CaptionRatio}#{nl}Goddess Statue Durati
 SKILL_20150918_005128	SP: -#{CaptionRatio}#{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Pine Wood
 SKILL_20150918_005129	Cooldown Time: -#{CaptionRatio}#%{nl}Goddess Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
 SKILL_20150918_005130	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Number of Blocks: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 2 Oak Wood
-SKILL_20150918_005131	Carve Statue Duration: #{CaptionRatio}# seconds{nl}Consumes 1 Ash Wood 1
+SKILL_20150918_005131	Carve Statue Duration: #{CaptionRatio}# seconds{nl}Consumes 1 Ash Wood
 SKILL_20150918_005132	{#339999}{ol}[Goddess' Blessing]{/}{/} Duration: #{CaptionRatio}# seconds{nl}Goddess Statue Duration: 30 seconds{nl}Consumes 1 Cedar Wood
 SKILL_20150918_005133	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Up to 5 users{nl}Maximum Duration: 10 seconds
 SKILL_20150918_005134	Pushes enemies away and creates a barrier of protection which doesn't allow others to enter for some time. Increases the magic defense of allies who are inside the barrier.
@@ -5344,8 +5344,8 @@ SKILL_20151016_005343	Two-handed Bow Mastery: Anti-Air
 SKILL_20151016_005344	Deals 20% additional damage per attribute level to Flying-type monsters when equipped with a [Two-handed Bow].
 SKILL_20151016_005345	One-handed Bow Mastery: Ignore Defense
 SKILL_20151016_005346	Ignores the enemy's armor by 5% per attribute level when equipped with a [One-handed Bow]
-SKILL_20151016_005347	Pistol: Accuracy
-SKILL_20151016_005348	Increases your accuracy by 5% per attribute level when equipped with a Pistol-type equipment.
+SKILL_20151016_005347	Gun: Accuracy
+SKILL_20151016_005348	Increases your accuracy by 5% per attribute level when equipped with a Gun-type equipment.
 SKILL_20151016_005349	Revolver Mastery
 SKILL_20151016_005350	Deals 10% additional damage per attribute level to Mutant-type monsters when equipped with a [Revolver].
 SKILL_20151016_005351	Cannon Mastery
@@ -5372,15 +5372,15 @@ SKILL_20151022_005371	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Move swiftly to av
 SKILL_20151022_005372	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Evasion Rate: +#{CaptionRatio2}#%
 SKILL_20151022_005373	Preparation
 SKILL_20151022_005374	Twirl the tip of your sword to parry an enemy attack and prepare for the next attack. The next [Pierce] attack you make will inflict twice as much damage.
-SKILL_20151022_005375	Maximum Duration: #{CaptionRatio2}# seconds{nl}Block Rate +#{CaptionRatio}#%{nl}Duration: 15 seconds
+SKILL_20151022_005375	Maximum Duration: #{CaptionRatio2}# seconds{nl}+#{CaptionRatio}#% block during skill duration{nl}Duration: 15 seconds
 SKILL_20151022_005376	Flanconnade
-SKILL_20151022_005377	{#DD5500}{ol}[Physical] - [Slash]{/}{/}Perform a complex upward attack with your rapier. Temporarily increases your block rate.
+SKILL_20151022_005377	{#DD5500}{ol}[Physical] - [Slash]{/}{/}Perform a complex upward attack with your rapier. This attack protects you against an enemy attack.
 SKILL_20151022_005378	Mijin no Jutsu
 SKILL_20151022_005379	Bunshin no Jutsu
 SKILL_20151022_005380	Mokuton no Jutsu
 SKILL_20151022_005381	Katon no Jutsu
-SKILL_20151022_005382	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Cast an arrow of ice that inflicts damage and has a chance of freezing an enemy.
-SKILL_20151022_005383	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Make ice spikes sprout out in a line, inflicting damage and freezing enemies by chance.
+SKILL_20151022_005382	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Cast an arrow of ice that inflicts damage and has a chance of freezing the enemy.
+SKILL_20151022_005383	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Make ice spikes sprout out in a line to inflict damage. Has a chance of freezing enemies.
 SKILL_20151022_005384	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Ride on an enormous snowball and crush any enemies in your way.
 SKILL_20151022_005385	Attack: 400% +#{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Casting Time: #{CaptionTime}# seconds{nl}AoE Attack Ratio: #{SkillSR}#
 SKILL_20151022_005386	{#993399}{ol}[Magic]{/}{/}
@@ -5630,7 +5630,7 @@ SKILL_20151102_005629	Joint Penalty: Earth
 SKILL_20151102_005630	Deals 10% additional damage per attribute level of the Earth property attack to enemies affected by [Joint Penalty].
 SKILL_20151102_005631	Joint Penalty: Increased Nullification
 SKILL_20151102_005632	Decreases the chance to nullify attacks from enemies affected by [Joint Penalty] by 5% per attribute level.
-SKILL_20151102_005633	Warlock: Darkness Attack
+SKILL_20151102_005633	Warlock: Dark Attack
 SKILL_20151102_005634	Increases the damage of a Dark property attack dealt on an enemy by 1% per attribute level.
 SKILL_20151102_005635	Pole of Agony: Enhance
 SKILL_20151102_005636	Increases the damage dealt on an enemy with [Pole of Agony] by 1% per attribute level.
@@ -5638,13 +5638,13 @@ SKILL_20151102_005637	Pole of Agony: Duration
 SKILL_20151102_005638	Increases the remaining effect time of [Pole of Agony] on an enemy by 0.8 seconds per attribute level.
 SKILL_20151102_005639	Invocation: Enhance
 SKILL_20151102_005640	Increases the damage dealt on an enemy with [Invocation] by 1% per attribute level.
-SKILL_20151102_005641	Increases the Darkness property attack by 5% per attribute level of allies who are nearby the created evil spirit of [Invocation]. The owner of who casted the evil spirit receives double the effect.
+SKILL_20151102_005641	Increases the Dark property attack by 5% per attribute level of allies who are nearby the created evil spirit of [Invocation]. The owner of who casted the evil spirit receives double the effect.
 SKILL_20151102_005642	Dark Theurge: Create Evil Spirit
 SKILL_20151102_005643	Creates an evil spirit with [Dark Theurge] at a 0.4% chance per attribute level to the enemy's position.
 SKILL_20151102_005644	Dark Theurge: Enhance
 SKILL_20151102_005645	Increases the damage dealt on an enemy with [Dark Theurge] by 1% per attribute level.
-SKILL_20151102_005646	Dark Theurge: Darkness
-SKILL_20151102_005647	Enemies hit by [Dark Theurge] have a 1% chance per attribute level to be afflicted with [Darkness] for 10 seconds.
+SKILL_20151102_005646	Dark Theurge: Blind
+SKILL_20151102_005647	Enemies hit by [Dark Theurge] have a 1% chance per attribute level to be afflicted with [Blind] for 10 seconds.
 SKILL_20151102_005648	Mastema: Enhance
 SKILL_20151102_005649	Increases the damage dealt on an enemy with [Mastema] by 1% per attribute level.
 SKILL_20151102_005650	Mastema: Reduced Threat
@@ -5696,7 +5696,7 @@ SKILL_20151102_005695	Increases the damage dealt on an enemy with [Butt Stroke] 
 SKILL_20151102_005696	Bayonet Thrust: Enhance
 SKILL_20151102_005697	Increases the damage dealt on an enemy with [Bayonet Thrust] by 1% per attribute level.
 SKILL_20151102_005698	Butt Stroke: Stun
-SKILL_20151102_005699	Inflicts stun at a 1.5% chance per attribute level for 3 seconds on enemies hit by [Butt Stroke].
+SKILL_20151102_005699	Enemies hit by [Butt Stroke] have a 1.5% chance per attribute level to become stunned for 3 seconds.
 SKILL_20151102_005700	Inflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt] type weapon.
 SKILL_20151102_005701	Enemies receive holy damage equal to [attribute level] within the range of [Arcane Energy].
 SKILL_20151102_005702	Healing Factor: Attack
@@ -5773,7 +5773,7 @@ SKILL_20151224_005772	Warp To Guild Member
 SKILL_20151224_005773	Warps to a specific guild member's location. You cannot warp to guild members who are in an instanced dungeon.
 SKILL_20151224_005774	Warp To Specific Guild Member's Location
 SKILL_20151224_005775	Build Guild Tower
-SKILL_20151224_005776	Allows the Guild Tower to use extra features. 
+SKILL_20151224_005776	Allows you to use extra features of the Guild Tower. 
 SKILL_20151224_005777	 can be used by using the Build Guild Tower item.{nl}Level 1: Warp{nl}Level 2: Storage{nl}Level 3: Guild Upgrade{nl}Level 4: Guild Events{nl}Level 5: Guild Hangout
 SKILL_20151224_005778	Improve Guild Tower Features
 SKILL_20151224_005779	Reduce Craft Time
@@ -5784,11 +5784,11 @@ SKILL_20151224_005783	Temporarily increases STR of guild members nearby the guil
 SKILL_20151224_005784	STR: +#{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20151224_005785	{#993399}{ol}[Magic]{/}{/}{nl}Attack continuously with magic bullets. New bullets are shot if it successfully targets an enemy.
 SKILL_20151224_005786	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Bullet Count: #{CaptionRatio2}#
-SKILL_20151224_005787	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Ice]{/}{/} Duration: 5 seconds
+SKILL_20151224_005787	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 5 seconds
 SKILL_20151224_005788	Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Ice]{/}{/} Duration: 5 seconds{nl}Ice Wall Duration: 15 seconds
-SKILL_20151224_005789	Create a curtain of ice for defense. Inflicts damage after blocking an enemy attack and has a chance to freeze an enemy.
-SKILL_20151224_005790	Duration: #{CaptionTime}# seconds{nl}Enemies Attacked {#339999}{ol}[Ice]{/}{/}Chance: #{CaptionRatio2}#%{nl}{#339999}{ol}[Ice]{/}{/} Duration: #{CaptionRatio}# seconds
-SKILL_20151224_005791	{#339999}{ol}[Ice]{/}{/}Chance: #{CaptionRatio}#%{nl}Ice Tree Duration: #{CaptionTime}# seconds
+SKILL_20151224_005789	Create a curtain of ice for defense. Inflicts damage after blocking enemy attacks and has a chance of freezing enemies.
+SKILL_20151224_005790	Duration: #{CaptionTime}# seconds{nl}Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio2}#%{nl}{#339999}{ol}[Freeze]{/}{/} Duration: #{CaptionRatio}# seconds
+SKILL_20151224_005791	Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio}#%{nl}Ice Tree Duration: #{CaptionTime}# seconds
 SKILL_20151224_005792	Evocation
 SKILL_20151224_005793	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Attack enemies with a summoned devil based on the secondary card equipped in the Grimoire.
 SKILL_20151224_005794	{#993399}{ol}[Magic]{/}{/}{nl}Summon and release blood sucking bats against enemies to inflict damage.
@@ -5801,7 +5801,7 @@ SKILL_20151224_005800	Gem Penalty Level Reduction: #{CaptionRatio}#
 SKILL_20151224_005801	{#993399}{ol}[Magic]{/}{/}{nl}Stab the enemy with a bone knife. If the enemy is a Beast, Devil or Insect-type, blood will spew out that recovers some of your HP.
 SKILL_20151224_005802	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Bleeding]{/}{/} Duration: 5 seconds{nl}HP Recovery: #{CaptionRatio2}#
 SKILL_20151224_005803	{#993399}{ol}[Magic]{/}{/}{nl}Stab the enemy with a bone knife. If the enemy is a Beast, Devil or Insect-type, blood will spew out that recovers some of your HP.
-SKILL_20151224_005804	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Blood Sucking: #{CaptionRatio2}#%{nl}Consumes #{CaptionTime}# SP per 0.4 second SP
+SKILL_20151224_005804	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Blood Sucking: #{CaptionRatio2}#%{nl}Consumes #{CaptionTime}# SP per 0.4 second
 SKILL_20151224_005805	{#993399}{ol}[Magic]{/}{/}{nl}Summon a carved, pointed bone called a 'Kundela'. The Kundela points towards enemies in range, attacking them with bone shards and cursing them.
 SKILL_20151224_005806	Attribute Damage: #{CaptionRatio}#%{nl}Bone Pointing Duration: #{CaptionRatio2}# seconds{nl}{#339999}{ol}[Curse]{/}{/} Duration: 7 seconds
 SKILL_20151224_005807	{#993399}{ol}[Magic]{/}{/}{nl}Cut your enemy using a cursed bone. Whilst the bone piece is stuck in the enemy, they will continually decay.
@@ -5994,8 +5994,8 @@ SKILL_20151224_005993	Cripple
 SKILL_20151224_005994	Effigy bonus1
 SKILL_20151224_005995	Applies additional damage of Effigy on the second attack
 SKILL_20151224_005996	Increases Holy Property attack when used by Cleric-type characters
-SKILL_20151224_005997	5% increase of EXP from Instanced Dungeon parties
-SKILL_20151224_005998	5% increase of EXP from automatic Instanced Dungeon matching
+SKILL_20151224_005997	5% increased EXP rate from Instanced Dungeon parties
+SKILL_20151224_005998	5% increased EXP rate from automatic Instanced Dungeon matching
 SKILL_20151224_005999	Token Benefits: Movement Speed Increase
 SKILL_20151224_006000	Increased movement speed
 SKILL_20151224_006001	Token
@@ -6091,7 +6091,7 @@ SKILL_20151224_006090	Increases the chance to afflict bleeding on an enemy when 
 SKILL_20151224_006091	Increases the physical attack of allies within the range of [Perspective Distortion] by 5% per attribute level.
 SKILL_20151224_006092	Sonic Strike: Enhance
 SKILL_20151224_006093	Increases the damage dealt on an enemy with [Sonic Strike] by 1% per attribute level.
-SKILL_20151224_006094	Increase your accuracy by 5% per attribute level when attacking with gun equipment.
+SKILL_20151224_006094	Increases your accuracy by 5% per attribute level when you attack an enemy with a Gun-type equipment.
 SKILL_20151224_006095	Wild Shot: Enhance
 SKILL_20151224_006096	Increases the damage dealt on an enemy with [Wild Shot] by 1% per attribute level.
 SKILL_20151224_006097	Cannon Mastery: Penetration
@@ -6102,7 +6102,7 @@ SKILL_20151224_006101	Increases the chance to instantly kill a small-type enemy 
 SKILL_20151224_006102	Increases Fire property resistance by 14 per attribute level when [Aukuras] is active.
 SKILL_20151224_006103	Increases your magic amplification by 12 per attribute level when [Zalciai] is active.
 SKILL_20151224_006104	Increases your ally's evasion by 2% per attribute level when [Monstrance] is active.
-SKILL_20151224_006105	Inflicts [Dark] on enemies hit by [Effigy] for 5 seconds at a chance of 5% per attribute level.
+SKILL_20151224_006105	Enemies hit by [Effigy] have a 5% chance per attribute level to become afflicted with [Blind] for 5 seconds.
 SKILL_20151224_006106	Increases the zombie's physical defense by 8 per attribute level when using [Bwa Kayiman].
 SKILL_20151224_006107	Increases the body's evasion by 10% per attribute level when [Out of Body] is active.
 SKILL_20151224_006108	Deals damage equal to 20% magic attack per attribute level to enemies hit with [Barrier].
@@ -6192,14 +6192,14 @@ SKILL_20151224_006191	Lv. 5 Invocation required
 SKILL_20151224_006192	Swordsman 1st Circle required
 SKILL_20151224_006193	Wizard 1st Circle required
 SKILL_20151224_006194	Wugushi 1st Circle required
-SKILL_20160224_006195	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack with your shield. Damaged enemies will have stats temporarily jumbled.
+SKILL_20160224_006195	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack with your shield. Damaged enemies will have their stats temporarily scrambled.
 SKILL_20160224_006196	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage and stun an enemy by making a big slash with all your might.
 SKILL_20160224_006197	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}{#339999}{ol}[Shock]{/}{/} Duration: 5 seconds
 SKILL_20160224_006198	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Deals consecutive attacks to a frontal enemy by swinging your weapon.
 SKILL_20160224_006199	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage on a frontal enemy through a series of lateral slashes. Deals additional damage to enemies afflicted with Shock.
 SKILL_20160224_006200	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Attack several enemies within a radius by throwing a spear. Damaged enemies will temporarily become weaker to physical property attacks. The thrown spear must be picked up to use it again.
 SKILL_20160224_006201	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Status Ailment Duration: #{CaptionRatio2}# seconds
-SKILL_20160224_006202	Attack: #{SkillAtkAdd}#{nl}Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Freezing]{/}{/} Duration: 5 seconds{nl}Ice Wall Duration: 15 seconds
+SKILL_20160224_006202	Attack: #{SkillAtkAdd}#{nl}Ice Wall Count: #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Duration: 5 seconds{nl}Ice Wall Duration: 15 seconds
 SKILL_20160224_006203	Attack: #{SkillAtkAdd}#{nl}Targets: #{CaptionRatio}#{nl}Consumes 2% SP per second{nl}Maximum Duration: 10 seconds
 SKILL_20160224_006204	Create a Shoggoth with stats based on the cards that are placed in the Necronomicon. The attack and defense of the Shoggoth is affected by your INT and SPR respectively. The Shoggoth's stats increase by 10% for each star on the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
 SKILL_20160224_006205	{#993399}{ol}[Magic]{/}{/}Raises a wall of corpses in front of the caster. Enemies near the wall will be afflicted with [Decay]. Enemies affected by [Decay] receive additional damage from Missile attacks.
@@ -6209,7 +6209,7 @@ SKILL_20160224_006208	{#993399}{ol}[Magic]{/}{/}All Ice-type magic cast by you a
 SKILL_20160224_006209	Attack: #{CaptionTime}# seconds{nl}Increases Ice-property skill attack by 300%{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
 SKILL_20160224_006210	{#993399}{ol}[Magic]{/}{/}Creates a temporary magic circle that will turn you and your allies into a giant. Giant players are considered large-type and will have their HP and defense increased. Limited usage of skills.
 SKILL_20160224_006211	Giant Size Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: 10 seconds{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
-SKILL_20160224_006212	{#993399}{ol}[Magic]{/}{/}Creates a frontal divine magic attack in a straight line.	
+SKILL_20160224_006212	{#993399}{ol}[Magic]{/}{/}Creates a frontal divine magic attack in a straight line.
 SKILL_20160224_006213	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
 SKILL_20160224_006214	Resistance Effect Chance: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Rune Stone{nl}Cast Time: 8 seconds
 SKILL_20160224_006215	Aim at an enemy in a stable posture. Increases Missile property attacks.
@@ -6272,8 +6272,8 @@ SKILL_20160224_006271	Increased defense against Earth property skills used on ch
 SKILL_20160224_006272	Increased defense against Holy property skills used on characters.
 SKILL_20160224_006273	Increased defense against Dark property skills used on characters.
 SKILL_20160224_006274	Increased movement speed, physical attack and magical defense
-SKILL_20160224_006275	Increased party EXP earned for Instanced Dungeons
-SKILL_20160224_006276	Increased earned for automatic Instanced Dungeon matching
+SKILL_20160224_006275	Increased party EXP rate for Instanced Dungeons
+SKILL_20160224_006276	Increased EXP rate for automatic Instanced Dungeon matching
 SKILL_20160224_006277	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Can only trade 30 times
 SKILL_20160224_006278	Increased Maximum Buff Count
 SKILL_20160224_006279	Increases the maximum amount of buffs you can have by 1.
@@ -6323,3 +6323,14 @@ SKILL_20160224_006322	Increases the duration of [Exorcise]'s magic circle by 1 s
 SKILL_20160224_006323	Class Rank 5 required
 SKILL_20160224_006324	Rune Caster 1st Circle required
 SKILL_20160224_006325	Wizard 1st Circle required
+SKILL_20160310_006326	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes #{CaptionRatio2}#% SP per second
+SKILL_20160310_006327	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes 2% SP per second{nl}Maximum Duration: 10 seconds
+SKILL_20160310_006328	Set up an upright shield to protect yourself from enemy attacks. Enemies without a target will attack the pavise instead.
+SKILL_20160310_006329	Attack: #{SkillAtkAdd}#{nl}Blocks: #{CaptionRatio}#{nl}Pavise Duration: #{CaptionTime}# seconds
+SKILL_20160310_006330	Additional Enemy Level: #{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
+SKILL_20160310_006331	Restrained in the air.
+SKILL_20160310_006332	Swash Buckling: Repel
+SKILL_20160310_006333	Gravity Pole: Enhance
+SKILL_20160310_006334	Increases the damage dealt on an enemy with [Gravity Pole] by 1% per attribute level.
+SKILL_20160310_006335	Applies the effects of [Swift Step] to party members. (The effects will be applied to party members if this attribute is ON.)
+SKILL_20160310_006336	[Crossfire] gets a 10% chance per level of inflicting [Burn] on targets for 6 seconds. Burn damage is proportional to the character's physical attack.

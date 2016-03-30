@@ -878,7 +878,7 @@ ETC_20150317_000877	Sister of Pawnd. It carries a sickle larger than its own bod
 ETC_20150317_000878	Carcashu
 ETC_20150317_000879	Carcashu is a fungus. Its toxins are strong, but there are parts of it that can be eaten.
 ETC_20150317_000880	Black Maize
-ETC_20150317_000881	The Black Maize looks deceptively delicious, eating one will certainly cause addiction.
+ETC_20150317_000881	The Black Maize looks deceptively delicious, eating one will certainly poison you.
 ETC_20150317_000882	Merregina
 ETC_20150317_000883	Merregina Cell
 ETC_20150317_000884	Velwriggler
@@ -1056,7 +1056,7 @@ ETC_20150317_001055	Addled Scout
 ETC_20150317_001056	Addled Rodelero
 ETC_20150317_001057	Addled Monk
 ETC_20150317_001058	Addled Barbarian
-ETC_20150317_001059	Ritheris
+ETC_20150317_001059	Riteris
 ETC_20150317_001060	Yellow Gazing Golem
 ETC_20150317_001061	Yellow Firent
 ETC_20150317_001062	Yellow Egnome
@@ -1609,8 +1609,8 @@ ETC_20150317_001608	Changed
 ETC_20150317_001609	It is too close to the existing Ice Barrier
 ETC_20150317_001610	You have already learned this attribute.
 ETC_20150317_001611	{S18}{ol}{#ffffcc} Do you want to learn this attribute?
-ETC_20150317_001612	Enter the number
-ETC_20150317_001613	This item cannot be traded
+ETC_20150317_001612	Enter a number
+ETC_20150317_001613	This item is untradable
 ETC_20150317_001614	You cannot rest during combat
 ETC_20150317_001615	The other player is not logged in
 ETC_20150317_001616	The number of purchasable items is limited
@@ -1626,9 +1626,9 @@ ETC_20150317_001625	Right hand {Auto_1}, left hand {Auto_2} type
 ETC_20150317_001626	Or
 ETC_20150317_001627	Possible combination:
 ETC_20150317_001628	Return
-ETC_20150317_001629	{@st59} Lock slots{/}
-ETC_20150317_001630	{@st59} Open the slot {/}
-ETC_20150317_001631	{@st59} Return (Backspace) {/}
+ETC_20150317_001629	{@st59}Lock Slots{/}
+ETC_20150317_001630	{@st59}Open Slots{/}
+ETC_20150317_001631	{@st59}Return (Backspace){/}
 ETC_20150317_001632	Are you sure you want to delete? {/}
 ETC_20150317_001633	Cannot be used while the character is dead.
 ETC_20150317_001634	{@st59}Move{/}
@@ -2453,20 +2453,20 @@ ETC_20150317_002452	Open the device to use the key.
 ETC_20150317_002453	I know the place what you want to find.
 ETC_20150317_002454	I know the place what the stuff hidden by human.
 ETC_20150317_002455	There is a chance to impress Naktis
-ETC_20150317_002456	We have to hurry to find.
+ETC_20150317_002456	We need to hurry to find it.
 ETC_20150317_002457	Now is the time.
 ETC_20150317_002458	Successfully persuaded.
 ETC_20150317_002459	I'll be there first!
 ETC_20150317_002460	Transformation success!{nl}Leak the information to Naktis's subordinates.
 ETC_20150317_002461	Drinking potion of transformation
-ETC_20150317_002462	OK..
+ETC_20150317_002462	Okay...
 ETC_20150317_002463	Unseal device
 ETC_20150317_002464	Unsealing device
-ETC_20150317_002465	I use the red key
-ETC_20150317_002466	Use a blue key
-ETC_20150317_002467	Use a purple key
-ETC_20150317_002468	Use a green key
-ETC_20150317_002469	Use a yellow key
+ETC_20150317_002465	Use the red key
+ETC_20150317_002466	Use the blue key
+ETC_20150317_002467	Use the purple key
+ETC_20150317_002468	Use the green key
+ETC_20150317_002469	Use the yellow key
 ETC_20150317_002470	Beads begin to glow
 ETC_20150317_002471	There is no key.
 ETC_20150317_002472	Tips on solving the secret
@@ -2475,13 +2475,13 @@ ETC_20150317_002474	About relics
 ETC_20150317_002475	Ask about a second device
 ETC_20150317_002476	Navigation of next device
 ETC_20150317_002477	The herb is rotten.
-ETC_20150317_002478	Checking the contents.
-ETC_20150317_002479	Check the contents related with the herb
+ETC_20150317_002478	Examining the contents...
+ETC_20150317_002479	Examining the contents related with the herb
 ETC_20150317_002480	It's not related with the herb.
 ETC_20150317_002481	Naktis's subordinates has destroyed the pot.
-ETC_20150317_002482	Doubt about the durability of Mayvern's device
+ETC_20150317_002482	Doubt about the durability of Maven's device
 ETC_20150317_002483	Naktis' Servants
-ETC_20150317_002484	Whereabouts of last key
+ETC_20150317_002484	Whereabouts of the last key
 ETC_20150317_002485	Whereabouts of Naktis
 ETC_20150317_002486	The orbs and keys
 ETC_20150317_002487	Absorbed the weak Stone Frost.
@@ -2545,11 +2545,11 @@ ETC_20150317_002544	The Guardian Stone has not been charged yet
 ETC_20150317_002545	The Guardian Stone's energy has been charged
 ETC_20150317_002546	Drawing out Oil
 ETC_20150317_002547	No more reference related with Naktis.
-ETC_20150317_002548	Re-collecting a priest's book..
-ETC_20150317_002549	Re-collecting a Mayvern's key..
-ETC_20150317_002550	Obtained Mayvern's key!
-ETC_20150317_002551	Naktis' subordinates are being too disrupting!
-ETC_20150317_002552	Using a key of Mayvern..
+ETC_20150317_002548	Re-collecting the priest's book...
+ETC_20150317_002549	Re-collecting Maven's key...
+ETC_20150317_002550	Obtained Maven's key!
+ETC_20150317_002551	Naktis' servants are being too disrupting!
+ETC_20150317_002552	Using Maven's key...
 ETC_20150317_002553	Experimental Matsum
 ETC_20150317_002554	Pouring the Acidic Solution
 ETC_20150317_002555	Using the Magic Crystal
@@ -2771,10 +2771,10 @@ ETC_20150317_002770	Holy Property Attack
 ETC_20150317_002771	Dark Property Attack
 ETC_20150317_002772	Movement Speed
 ETC_20150317_002773	HP Recovery
-ETC_20150317_002774	Attack on Plant Type Targets
-ETC_20150317_002775	Attack on Beast Type Targets
-ETC_20150317_002776	Attack on Devil Type Targets
-ETC_20150317_002777	Attack on Mutant Type Targets
+ETC_20150317_002774	Attack against Plant-type Targets
+ETC_20150317_002775	Attack against Beast-type Targets
+ETC_20150317_002776	Attack against Devil-type Targets
+ETC_20150317_002777	Attack against Mutant-type Targets
 ETC_20150317_002778	Wind Property Attack
 ETC_20150317_002779	Fire Property Resistance
 ETC_20150317_002780	Ice Property Resistance
@@ -2784,25 +2784,25 @@ ETC_20150317_002783	Holy Property Resistance
 ETC_20150317_002784	Dark Property Resistance
 ETC_20150317_002785	AoE Attack Ratio
 ETC_20150317_002786	AoE Defense Ratio
-ETC_20150317_002787	2% chance of additional damage by +300 when attacking
-ETC_20150317_002788	3% chance of receiving continuous damage amounting to 20% of max HP when attacked
-ETC_20150317_002789	4% chance of additional resistance +100 of all when attacked by magic
+ETC_20150317_002787	2% chance of +300 additional damage when attacking
+ETC_20150317_002788	3% chance of 20% receiving continuous damage equal to 20% HP when hit
+ETC_20150317_002789	4% chance of +100 additional all resistance when hit by magic
 ETC_20150317_002790	Lightning Property Attack
 ETC_20150317_002791	Knockback Power
-ETC_20150317_002792	Attack on Small Type Targets
-ETC_20150317_002793	Attack on Medium Type Targets
-ETC_20150317_002794	Attack on Large Type Targets
+ETC_20150317_002792	Attack against Small-type Targets
+ETC_20150317_002793	Attack against Medium-type Targets
+ETC_20150317_002794	Attack against Large-type Targets
 ETC_20150317_002795	Block
 ETC_20150317_002796	Block Penetration
-ETC_20150317_002797	Attack on Cloth Armor Targets
-ETC_20150317_002798	Attack on Leather Armor Targets
-ETC_20150317_002799	Attack on Plate Armor Targets
-ETC_20150317_002800	Attack on Ghost Armor Targets
+ETC_20150317_002797	Attack against Cloth Armor Targets
+ETC_20150317_002798	Attack against Leather Armor Targets
+ETC_20150317_002799	Attack against Plate Armor Targets
+ETC_20150317_002800	Attack against Ghost Armor Targets
 ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
-ETC_20150317_002805	Attack on Insect Type Targets
+ETC_20150317_002805	Attack against Insect-type Targets
 ETC_20150317_002806	Earth Property Attack
 ETC_20150317_002807	Earth Property Resistance
 ETC_20150317_002808	Physical Damage when mounted
@@ -2877,8 +2877,8 @@ ETC_20150317_002876	Adventure Ranking
 ETC_20150317_002877	Collection completed {Auto_1}
 ETC_20150317_002878	Contents
 ETC_20150317_002879	Set items
-ETC_20150317_002880	Acquired
-ETC_20150317_002881	Score earned
+ETC_20150317_002880	Acquisition Rate:
+ETC_20150317_002881	Score:
 ETC_20150317_002882	Boss
 ETC_20150317_002883	Date
 ETC_20150317_002884	Click to go to the item page.
@@ -2901,7 +2901,7 @@ ETC_20150317_002900	Played together {Count} time(s)
 ETC_20150317_002901	Formed a party together {Count} time(s)
 ETC_20150317_002902	Traded {Count} time(s)
 ETC_20150317_002903	Already in your block list.
-ETC_20150317_002904	Please enter the name of the team to block.
+ETC_20150317_002904	Please enter the team name you want to block.
 ETC_20150317_002905	The name of your group is too long.
 ETC_20150317_002906	The contents of your memo is too long.
 ETC_20150317_002907	Memo Settings
@@ -2921,11 +2921,11 @@ ETC_20150317_002920	Initial payment
 ETC_20150317_002921	More Info
 ETC_20150317_002922	Location
 ETC_20150317_002923	Rank
-ETC_20150317_002924	{From} wants to trade with you.
-ETC_20150317_002925	The trade request was declined.
-ETC_20150317_002926	The trade was canceled.
+ETC_20150317_002924	{From}{nl}wants to trade with you.
+ETC_20150317_002925	The trade request has been declined.
+ETC_20150317_002926	The trade has been canceled.
 ETC_20150317_002927	The trade was successful.
-ETC_20150317_002928	Send a trade request to {To}.
+ETC_20150317_002928	Sent a trade request to {To}.
 ETC_20150317_002929	No save point specified
 ETC_20150317_002930	You have an item with less than 30% durability remaining.
 ETC_20150317_002931	You have an item with 0% durability.
@@ -3234,7 +3234,7 @@ ETC_20150317_003233	Removed all buffs
 ETC_20150317_003234	BroadMSG reception
 ETC_20150317_003235	Receive UI events
 ETC_20150317_003236	Cast
-ETC_20150317_003237	Ritual of blessing
+ETC_20150317_003237	Ritual of Blessing
 ETC_20150317_003238	You do not have enough sacrifices for the ceremony
 ETC_20150317_003239	In front of [Forgotten Sanctuary]
 ETC_20150317_003240	Press to proceed with the blessing ceremony
@@ -3976,7 +3976,7 @@ ETC_20150317_003975	Can be used near the purifier in District 5!
 ETC_20150317_003976	Cannot be used yet
 ETC_20150317_003977	This can only be used inside the Crystal Mine
 ETC_20150317_003978	Level of antidote is lower!
-ETC_20150317_003979	It has not been addicted to poison
+ETC_20150317_003979	You are not poisoned
 ETC_20150317_003980	Applying Spell disturbance
 ETC_20150317_003981	None Golem
 ETC_20150317_003982	Available in front of the burning bush!
@@ -3998,10 +3998,10 @@ ETC_20150317_003997	Available in front of the thorns with blocked stone!
 ETC_20150317_003998	No Red Vubbe Archer to apply
 ETC_20150317_003999	There are no experimental monsters around!
 ETC_20150317_004000	You need monsters to bring the fire energy around!
-ETC_20150317_004001	It can be only used in Descended Tree Garden
+ETC_20150317_004001	Can only be used in Fallen Tree Garden
 ETC_20150317_004002	You can only used in the general field
-ETC_20150317_004003	It can be only used in Mage Tower 1st Floor.
-ETC_20150317_004004	You will not be able to use it
+ETC_20150317_004003	Can only be used in Mage Tower 1F.
+ETC_20150317_004004	You may not use this yet.
 ETC_20150317_004005	There is no Goddess Statue nearby!
 ETC_20150317_004006	There are no monsters around to use the bomb on!
 ETC_20150317_004007	Available only in the West Siauliai Woods
@@ -4110,7 +4110,7 @@ ETC_20150317_004109	{@st59} Click to preview
 ETC_20150317_004110	{@st41b} Using
 ETC_20150317_004111	Placement
 ETC_20150317_004112	Arrangement ({Auto_1})
-ETC_20150317_004113	{/}{nl}{s22} Do you want to delete this character?
+ETC_20150317_004113	{/}{nl}{s22} Do you want to delete{nl}this character?
 ETC_20150317_004114	{nl} {nl}{s22} Do you want to delete all your characters?
 ETC_20150317_004115	Enter your account ID
 ETC_20150317_004116	You cannot set the default value of the slide
@@ -4174,17 +4174,17 @@ ETC_20150317_004173	Function is not nagging class:
 ETC_20150317_004174	Your inventory is full. {nl}
 ETC_20150317_004175	Enhancement{/}{/} or
 ETC_20150317_004176	Sell{/}{/}to {nl}key instant shops
-ETC_20150317_004177	A lot of enhancement materials. {nl}
-ETC_20150317_004178	Try item enhancement {/} {/}.
+ETC_20150317_004177	 You have a lot of enhancement materials.{nl}
+ETC_20150317_004178	 Try enhancing an item{/}{/}.
 ETC_20150317_004179	Upgradeable{nl}There are items.{nl}
 ETC_20150317_004180	Use a potion to restore your HP.
 ETC_20150317_004181	{nl} Shortcut: {#0000FF}
 ETC_20150317_004182	Use a potion to recover your SP.
-ETC_20150317_004183	By using a potion, you will be able to recover Stamina
+ETC_20150317_004183	Use a potion to recover your Stamina.
 ETC_20150317_004184	{s18}{#001100}You can raise your character's stats {nl} by leveling up.
-ETC_20150317_004185	Click apply {nl} after increasing stats by using buttons.
-ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU} Right-click the anvil to enhance items
-ETC_20150317_004187	{s18}{#001100} Items sold in Instant Stores are more expensive {nl} than in the regular ones.
+ETC_20150317_004185	Click on the 'Apply' button{nl}after increasing your stats.
+ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU}Right-click the anvil to enhance items.
+ETC_20150317_004187	{s18}{#001100}Items sold in Instant Shops are more{nl}expensive than in the regular ones.
 ETC_20150317_004188	The number of links cannot surpass 3.
 ETC_20150317_004189	{@st43} My Page{/}
 ETC_20150317_004190	{@st43} Guest Book{/}
@@ -5211,7 +5211,7 @@ ETC_20150317_005210	Oil Boxes
 ETC_20150317_005211	Broken Owl Statue
 ETC_20150317_005212	Unknown Soldier's Memento
 ETC_20150317_005213	Key Manager Hallowventer
-ETC_20150317_005214	Load of Necroventer
+ETC_20150317_005214	Necroventer's Subordinate
 ETC_20150317_005215	See? I was right!
 ETC_20150317_005216	It's impossible.
 ETC_20150317_005217	Run for now!
@@ -5699,14 +5699,14 @@ ETC_20150317_005698	Brainwashed
 ETC_20150317_005699	Blessing - Increased Movement Speed
 ETC_20150317_005700	You must receive a blessing to increase your movement speed!
 ETC_20150317_005701	Soul Separation
-ETC_20150317_005702	After repairing the Tree Roots, the monsters have become trapped.
-ETC_20150317_005703	Waiting to repair the Tree Roots.
+ETC_20150317_005702	The monsters have become trapped after repairing the Tree Root Crystal!
+ETC_20150317_005703	Waiting to repair the Tree Root Crystal.
 ETC_20150317_005704	Potency Generation
 ETC_20150317_005705	Test Reagent's Potency Generation
 ETC_20150317_005706	Incapable of Combat
 ETC_20150317_005707	Stinging pain.
 ETC_20150317_005708	You've been pricked by the Razorfen.
-ETC_20150317_005709	Thorn poison
+ETC_20150317_005709	Thorn Poison
 ETC_20150317_005710	Life Drain
 ETC_20150317_005711	Confusion
 ETC_20150317_005712	Rewind Time
@@ -5809,24 +5809,24 @@ ETC_20150317_005808	Recovered HP.
 ETC_20150317_005809	Eye of Death
 ETC_20150317_005810	Death is waiting. You cannot use your skills.
 ETC_20150317_005811	Fury
-ETC_20150317_005812	Attack is increased by 100%.{nl}Immune to knockback and knockdown.
+ETC_20150317_005812	Increased attack by 100%.{nl}Immune to knockback and knockdown.
 ETC_20150317_005813	Revenge
 ETC_20150317_005814	Counter attack is possible.
-ETC_20150317_005815	Movement Speed has decreased by 50%
+ETC_20150317_005815	Decreased movement speed by 50%
 ETC_20150317_005816	Cannot Attack
 ETC_20150317_005817	Shock
-ETC_20150317_005818	Defense and Movement Speed has decreased
+ETC_20150317_005818	Decreased defense and movement speed
 ETC_20150317_005819	Exhaust
 ETC_20150317_005820	I have used up all of my strength, I should rest. My defense has also dropped.
 ETC_20150317_005821	Invincibility
 ETC_20150317_005822	You temporarily become invincible, but cannot execute any attacks.
 ETC_20150317_005823	Kubus
 ETC_20150317_005824	Kubus: Flame
-ETC_20150317_005825	Fire attribute resistance of Kubus will rise.
+ETC_20150317_005825	Increased Fire property resistance of Kubus.
 ETC_20150317_005826	Kubus: Water
-ETC_20150317_005827	Ice attribute resistance of Kubus will rise.
+ETC_20150317_005827	Increased Ice property resistance of Kubus.
 ETC_20150317_005828	Kubus: Tempest
-ETC_20150317_005829	Lightning resistance of Kubus will rise.
+ETC_20150317_005829	Increased Lightning property resistance of Kubus.
 ETC_20150317_005830	Dispel Magic
 ETC_20150317_005831	Dispel Magic Attack
 ETC_20150317_005832	Physical Attack Accumulation
@@ -7559,7 +7559,7 @@ ETC_20150317_007559	Deliver the Divine Sphere to Paladin (6)
 ETC_20150317_007560	Manipulate the demon summoning circles
 ETC_20150317_007561	Destroy the rebel force's document
 ETC_20150317_007562	Guard Keepsake Collection 
-ETC_20150317_007563	Move to Katyne Forest though Descended Tree Garden
+ETC_20150317_007563	Move to Katyne Forest though Fallen Tree Garden
 ETC_20150317_007564	Good Quality Whetstone Collection
 ETC_20150317_007565	Use Smoke Bomb
 ETC_20150317_007566	Defeat Abomination 
@@ -9212,7 +9212,7 @@ ETC_20150317_009212	[Companion Trader]{nl}            Christina
 ETC_20150317_009213	[Officer]{nl} Dortina
 ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
 ETC_20150317_009215	[Klaipeda's Magic Association]{nl}                              Henrika
-ETC_20150317_009216	    [Bokor Master] {nl} Mama Marie Lavoie
+ETC_20150317_009216	[Bokor Master]{nl}Mama Marie Lavoie
 ETC_20150317_009217	Scripture of Prediction
 ETC_20150317_009218	Scripture of Earth
 ETC_20150317_009219	Scripture of Rest
@@ -9279,7 +9279,7 @@ ETC_20150317_009279	Advancement Quest Trigger
 ETC_20150317_009280	The equipment of the soldier
 ETC_20150317_009281	Broken Demon Summon Field
 ETC_20150317_009282	Battered Flag Forest
-ETC_20150317_009283	Pile of branches
+ETC_20150317_009283	Pile of Branches
 ETC_20150317_009284	Camping Place
 ETC_20150317_009285	THORN22_Q_14 trigger
 ETC_20150317_009286	THORN22_Q_16 trigger
@@ -9419,7 +9419,7 @@ ETC_20150317_009419	Disciple's Corpse
 ETC_20150317_009420	Pilgrim's Path Grass
 ETC_20150317_009421	Dead Disciple
 ETC_20150317_009422	Ruklys Memorial Stone
-ETC_20150317_009423	[Cataphract Master]{nl} Memet Culag
+ETC_20150317_009423	[Cataphract Master]{nl}    Memet Culag
 ETC_20150317_009424	Pile of Firewood
 ETC_20150317_009425	Unique Lithograph
 ETC_20150317_009426	Buried Remains
@@ -9427,12 +9427,12 @@ ETC_20150317_009427	Sorcerer, Chronomancer 5th Advancement trigger
 ETC_20150317_009428	Jar of Sacrifice
 ETC_20150317_009429	Destroyed inscription wreckage
 ETC_20150317_009430	Military Backpack
-ETC_20150317_009431	[Fletcher Master]{nl} Visvaldas black
+ETC_20150317_009431	[Fletcher Master]{nl}Visvaldas Black
 ETC_20150317_009432	Abandoned Luggage
 ETC_20150317_009433	Abandoned Bag
 ETC_20150317_009434	Old Chest
-ETC_20150317_009435	[Pardoner Master]{nl} Mistes Goldmund
-ETC_20150317_009436	[Sorcerer Master]{nl} Dame Circe
+ETC_20150317_009435	[Pardoner Master]{nl}Mistes Goldmund
+ETC_20150317_009436	[Sorcerer Master]{nl}Dame Circe
 ETC_20150317_009437	For the 4th Pardoner Advancement
 ETC_20150317_009438	For the 4th Sorcerer Advancement
 ETC_20150317_009439	Eyes of the Great King
@@ -9490,7 +9490,7 @@ ETC_20150317_009490	Recapture the Eastern Woods (7)
 ETC_20150317_009491	Aras' Commission (6)
 ETC_20150317_009492	Miners' Village Entry (2)
 ETC_20150317_009493	[Sapper Master]{nl} Leonard Quicktongue
-ETC_20150317_009494	[Hunter Master]{nl} Fiona Ieva
+ETC_20150317_009494	[Hunter Master]{nl}    Fiona Ieva
 ETC_20150317_009495	[Barbarian Master]{nl} Walder Junnot
 ETC_20150317_009496	For the 4th Bokor Advancement
 ETC_20150317_009497	Hidden trigger for 5th advancement of Wizard, Pyromancer, Cryomancer
@@ -9951,7 +9951,7 @@ ETC_20150323_009952	Eliminate the competitor
 ETC_20150323_009953	Diary of a Girl
 ETC_20150323_009954	Need an egg
 ETC_20150323_009955	Farm under Disaster
-ETC_20150323_009956	Cure the grape addiction
+ETC_20150323_009956	Cure the grape poisoning
 ETC_20150323_009957	Give the antidote to the poisoned farmers
 ETC_20150323_009958	Guide the farmers to Druid
 ETC_20150323_009959	Stop the beast with the beast's blood
@@ -10657,7 +10657,7 @@ ETC_20150401_010658	Astral Blessing
 ETC_20150401_010659	Astral Tower Assistance Device
 ETC_20150401_010660	Astral Protector Statue
 ETC_20150401_010661	Anti-gravity Magic Circle
-ETC_20150401_010662	Magic-imbued Astral Lamp
+ETC_20150401_010662	Magic Astral Lamp
 ETC_20150401_010663	Giant Star Stone
 ETC_20150401_010664	Abandoned Altar
 ETC_20150401_010665	TypeD_Buff Manager
@@ -11443,7 +11443,7 @@ ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can lea
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" through the game settings when using a joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
 ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} However, the "Megaphone" item is required to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
-ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Shows the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON ability after you level up. {nl}3) When the items you carry are overweight, your character will walk regardless of the STA.
+ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Shows the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON stat after you level up. {nl}3) When the items you carry are overweight, your character will walk regardless of the STA.
 ETC_20150428_011449	FAQ : Minimap, Zone Map, World Map{nl}1) Click on the +, - buttons on the minimap to zoom in and zoom out. {nl}2) Click on the M button on the minimap or press the M key to view the full map of the zone (Zone Map) you are in. {nl}3) Press the N key on your keyboard to view the entire World Map.
 ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.
 ETC_20150428_011451	Hire as Helper
@@ -11906,7 +11906,7 @@ ETC_20150714_011907	Siaura Mine
 ETC_20150714_011908	Kareras Mausoleum
 ETC_20150714_011909	Sodo Fork
 ETC_20150714_011910	Sklada Court
-ETC_20150714_011911	The Central Sanctum
+ETC_20150714_011911	Central Sanctum
 ETC_20150714_011912	Gruitis Hall
 ETC_20150714_011913	Nuorodin Falls Cliffs
 ETC_20150714_011914	Mirti Training Field
@@ -11916,14 +11916,14 @@ ETC_20150714_011917	Paskna Sanctum
 ETC_20150714_011918	Ratas Corridor Area
 ETC_20150714_011919	Atsilke Altar
 ETC_20150714_011920	Neviena Altar Area
-ETC_20150714_011921	The Great Corridor Crossroads
+ETC_20150714_011921	Great Corridor Crossroads
 ETC_20150714_011922	Melstis Sanctum
 ETC_20150714_011923	Research Camp
 ETC_20150714_011924	Ramybe Hills
 ETC_20150714_011925	Atskra Sanctum
 ETC_20150714_011926	Bokshta Ruins
 ETC_20150714_011927	Apsva Hall
-ETC_20150714_011928	The Great Hall
+ETC_20150714_011928	Great Hall
 ETC_20150714_011929	Hanging Garden Site
 ETC_20150714_011930	Folsas Highway
 ETC_20150714_011931	Dried Well Lot
@@ -12449,8 +12449,8 @@ ETC_20150714_012450	Reacting...
 ETC_20150714_012451	The Detector emitted a reaction to the Schilt Essences
 ETC_20150714_012452	You don't have enough Schilt Essences
 ETC_20150714_012453	The Detector's reaction is at maximum capacity!
-ETC_20150714_012454	Obtaining the effects of Schilts...
-ETC_20150714_012455	You've obtained the effects of the Schilts!{nl}You are now immune to Frost Petrification temporarily!
+ETC_20150714_012454	Obtaining Schilt's effects...
+ETC_20150714_012455	You've obtained Schilt's effects!{nl}You are now temporarily immune to Frost Petrification!
 ETC_20150714_012456	Amplifier is not responding!{nl}Supply more Schilt Essence samples to the petrification Detector!
 ETC_20150714_012457	Supplying power...
 ETC_20150714_012458	You've supplied the power!
@@ -12618,7 +12618,7 @@ ETC_20150714_012619	Using the eyes of the spirit
 ETC_20150714_012620	Putting the essences of Tini
 ETC_20150714_012621	Absorbing the wrath
 ETC_20150714_012622	The beads are absorbing the wrathes of the villagers in Andail village!
-ETC_20150714_012623	You've been addicted to the evil energy that is spurting out from the Thorny Bushes!
+ETC_20150714_012623	You've been poisoned by the evil energy from the Thorny Bushes!
 ETC_20150714_012624	Using the chilled crystal
 ETC_20150714_012625	The monster is frozen!
 ETC_20150714_012626	Failed to freeze it!
@@ -12671,7 +12671,7 @@ ETC_20150714_012672	{Name} invited you to {PVPName}. Would you like to join?
 ETC_20150714_012673	You've invited the party members. Wait for their responses.
 ETC_20150714_012674	{Killer} defeated {Killee}
 ETC_20150714_012675	{Killee} was defeated by {Killer}
-ETC_20150714_012676	({PC}) Watch
+ETC_20150714_012676	Spectate ({PC})
 ETC_20150714_012677	Are you going to watch this game?
 ETC_20150714_012678	Buy Point
 ETC_20150714_012679	The name of the party is either too long or too short.
@@ -12721,7 +12721,7 @@ ETC_20150714_012722	You have found Cockatrice Fat
 ETC_20150714_012723	You have found Hallowventer Charcoal
 ETC_20150714_012724	Quest Succeeded!{nl}Jonas will recover from unconsciousness
 ETC_20150714_012725	You can open the box when you defeat all the monsters!
-ETC_20150714_012726	The monster is now addicted!
+ETC_20150714_012726	The monster is now poisoned!
 ETC_20150714_012727	You don't have enough pieces of the tombstone!
 ETC_20150714_012728	The effects of the magical pot have been weakened
 ETC_20150714_012729	You've caught Pino
@@ -13520,7 +13520,7 @@ ETC_20150717_013521	Entering the world...
 ETC_20150717_013522	Do you want to learn this attribute?
 ETC_20150717_013523	Connecting to the server...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
-ETC_20150717_013525	You will be moved to another channel, due to this one being too full.
+ETC_20150717_013525	You will be moved to another channel{nl}due to this one being too full.
 ETC_20150717_013526	When enhancing armor, bracelets or necklaces past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
 ETC_20150717_013527	When enhancing weapons past +{Auto_1}, if it fails, the Potential of that item will decrease by 1.{nl} {nl}When the Potential falls below 0, the item will be destroyed. Do you want to continue?
 ETC_20150717_013528	Will be entered automatically after 5 secs
@@ -14015,18 +14015,18 @@ ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
 ETC_20150729_014017	{@st59} Increases Physical Attack, Critical Attack and Maximum Carry Weight{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
-ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
+ETC_20150729_014020	[Doppelsoeldner Master]{nl}          Guerra
 ETC_20150729_014021	Field Gen x
 ETC_20150729_014022	Old piles of bones
 ETC_20150729_014023	The luggage of someone
-ETC_20150729_014024	[Centurion Master]{nl} Krajicek
-ETC_20150729_014025	[Corsair Master]{nl} Hayravern
+ETC_20150729_014024	[Centurion Master]{nl}       Krajicek
+ETC_20150729_014025	[Corsair Master]{nl}    Hayraven
 ETC_20150729_014026	Outside
 ETC_20150729_014027	2 Area
 ETC_20150729_014028	Grave Keeper Sigis
 ETC_20150729_014029	Soaring Coffin
 ETC_20150729_014030	Grave Keeper's Chest
-ETC_20150729_014031	[Necromancer Master]{nl} Roleta Nimbus
+ETC_20150729_014031	[Necromancer Master]{nl}      Loretta Nimbus
 ETC_20150730_014032	Maggot
 ETC_20150730_014033	Sienakal Graveyard
 ETC_20150730_014034	As the treasure box opened, weak Stone Frosts poured out!{nl}Avoid the Stone Frosts and defeat the monsters!
@@ -14183,19 +14183,19 @@ ETC_20150804_014184	TypeFManager
 ETC_20150804_014185	The place to put the stone
 ETC_20150804_014186	Zachariel's Epitaph
 ETC_20150807_014187	AoE Attack Ratio {img red_up_arrow 16 16}2
-ETC_20150807_014188	Lightning Property Damage {img red_up_arrow 16 16}30
+ETC_20150807_014188	Lightning Property Attack {img red_up_arrow 16 16}30
 ETC_20150807_014189	Defense {img red_up_arrow 16 16}6
-ETC_20150807_014190	Dark Property Damage {img red_up_arrow 16 16}30
+ETC_20150807_014190	Dark Property Attack {img red_up_arrow 16 16}30
 ETC_20150807_014191	Movement Speed {img red_up_arrow 16 16}5
 ETC_20150807_014192	Fire Property Resistance {img red_up_arrow 16 16}15
 ETC_20150807_014193	Holy Property Attack {img red_up_arrow 16 16}168{nl}Dark Property Attack {img red_up_arrow 16 16}168
 ETC_20150807_014194	HP Recovery {img red_up_arrow 16 16}16
 ETC_20150807_014195	All Stats {img red_up_arrow 16 16}1
-ETC_20150807_014196	Additional Earth Property Damage {img red_up_arrow 16 16}12
+ETC_20150807_014196	Additional Earth Property Attack {img red_up_arrow 16 16}12
 ETC_20150807_014197	Fire Property Resistance {img red_up_arrow 16 16}16
 ETC_20150807_014198	Attack against Devil-type Targets {img red_up_arrow 16 16}6
 ETC_20150807_014199	Attack against Devil-type Targets {img red_up_arrow 16 16}8 for 30 seconds at a 1% chance when using basic attacks
-ETC_20150807_014200	1% chance of Attack increase against Devil-Type Targets by {img red_up_arrow 16 16}157 for 30 seconds
+ETC_20150807_014200	1% chance of increased attack against Devil-type Targets by {img red_up_arrow 16 16}157 for 30 seconds
 ETC_20150807_014201	All Stats {img red_up_arrow 16 16}3
 ETC_20150807_014202	CON {img red_up_arrow 16 16}5
 ETC_20150807_014203	STA {img red_up_arrow 16 16}10
@@ -14357,16 +14357,16 @@ ETC_20150918_014358	HP Recovery {img green_up_arrow 16 16}16
 ETC_20150918_014359	All Stats {img green_up_arrow 16 16}1
 ETC_20150918_014360	Earth Property Additional Damage {img green_up_arrow 16 16}12
 ETC_20150918_014361	Fire Property Resistance {img green_up_arrow 16 16}16
-ETC_20150918_014362	Attack on Devil-type Targets {img green_up_arrow 16 16}6
-ETC_20150918_014363	Attack on Devil-type Targets {img green_up_arrow 16 16}8
-ETC_20150918_014364	Attack on Devil-type Targets {img green_up_arrow 16 16}157 when using basic attacks by 1% for 30 seconds
+ETC_20150918_014362	Attack against Devil-type Targets {img green_up_arrow 16 16}6
+ETC_20150918_014363	Attack against Devil-type Targets {img green_up_arrow 16 16}8
+ETC_20150918_014364	1% chance to gain 30 seconds of increased attack against Devil-type Targets by {img green_up_arrow 16 16}157 
 ETC_20150918_014365	All Stats {img green_up_arrow 16 16}3
 ETC_20150918_014366	CON {img green_up_arrow 16 16}5
 ETC_20150918_014367	Stamina {img green_up_arrow 16 16}10
 ETC_20150918_014368	Darkness Property Resistance {img green_up_arrow 16 16}10
 ETC_20150918_014369	SPR {img green_up_arrow 16 16}6
-ETC_20150918_014370	ArgbenipaSet
-ETC_20150918_014371	Backstab Attack x4{nl}Evasion {img red_down_arrow 16 16}-188
+ETC_20150918_014370	Argbenipa Set
+ETC_20150918_014371	Backstab Attack x4{nl}Evasion {img red_down_arrow 16 16}188
 ETC_20150918_014372	Bokor Zombie Count
 ETC_20150918_014373	blowSound volume except for my character
 ETC_20150918_014374	Character Advancement Rank Limit
@@ -14476,7 +14476,7 @@ ETC_20150918_014477	Recipe - Tyla Plate Armor
 ETC_20150918_014478	Recipe - Karacha Dagger
 ETC_20150918_014479	Recipe - Venom
 ETC_20150918_014480	You can only construct one Base Camp. Do you want to create a new one by deleting the previous one?
-ETC_20150918_014481	Please select the start city
+ETC_20150918_014481	Please select a starting city.
 ETC_20150918_014482	equipment repaired by you
 ETC_20150918_014483	equipment repaired by you
 ETC_20150918_014484	Chapel
@@ -14639,7 +14639,7 @@ ETC_20150918_014640	You used the absorb scroll
 ETC_20150918_014641	You cannot summon the monster in this area.
 ETC_20150918_014642	You cannot use the skill in this region.
 ETC_20150918_014643	The client has been shutdown due to an error. {nl}We apologize for the inconvenience.{nl}By clicking the [Yes] button, details of the error will be sent to the developers.{nl}{nl} ※ The information that will be sent : error code, CPU, VGA and the memory driver information
-ETC_20150918_014644	[Rogue Master]{nl}    Gema
+ETC_20150918_014644	[Rogue Master]{nl}       Gema
 ETC_20150918_014645	[Item Merchant]{nl}    Muras
 ETC_20150918_014646	[Equipment Merchant]{nl}    
 ETC_20150918_014647	[Blacksmith]{nl}       Anna
@@ -14895,10 +14895,10 @@ ETC_20151001_014896	Silta Empty Lot
 ETC_20151001_014897	Gehima Empty Lot
 ETC_20151001_014898	Camping Ground
 ETC_20151001_014899	Skaika Supply Route
-ETC_20151001_014900	The 1st Almol Work Place
+ETC_20151001_014900	First Almol Work Place
 ETC_20151001_014901	Work Management Office
 ETC_20151001_014902	Ulksh Camp
-ETC_20151001_014903	The 2nd Almol Work Place
+ETC_20151001_014903	Second Almol Work Place
 ETC_20151001_014904	Nubarsk Cliff
 ETC_20151001_014905	Paumeti Rest Area
 ETC_20151001_014906	Guoda Empty Lot
@@ -15778,8 +15778,8 @@ ETC_20151016_015779	Kick out the ferret
 ETC_20151016_015780	Defeat the Demon Lord Zaura
 ETC_20151016_015781	The magic power is overloaded on Kruvina Suppressor
 ETC_20151016_015782	Purify the evil energy
-ETC_20151016_015783	Grow the flower of the earth
-ETC_20151016_015784	Obtain the flowers of the great earth that are full of vitalities
+ETC_20151016_015783	Grow the Great Earth Flower
+ETC_20151016_015784	Obtain the Great Earth Flowers that are full of vitalities
 ETC_20151016_015785	Tell Amanda about the circumstances
 ETC_20151016_015786	Recharge the orb of absorption with vitalities of demons
 ETC_20151016_015787	Bring the spirit and find out the location of the revelation
@@ -15852,9 +15852,9 @@ ETC_20151016_015853	Destroying the demonic totem
 ETC_20151016_015854	As you destroyed the demonic totem, the evil energy starts to come out
 ETC_20151016_015855	You've observed the behaviors of the ferrets
 ETC_20151016_015856	Planting the seeds
-ETC_20151016_015857	Protect the seeds until the flowers of the great earth sprout
-ETC_20151016_015858	Cutting the flowers of the great earth
-ETC_20151016_015859	You've obtained the flowers of the great earth that are full of vitalities
+ETC_20151016_015857	Protect the seeds until the Great Earth Flowers sprout
+ETC_20151016_015858	Cutting the Great Earth Flowers
+ETC_20151016_015859	You've obtained the Great Earth Flowers that are full of vitalities
 ETC_20151016_015860	Our home... I finally came back...
 ETC_20151016_015861	Thank you so much...
 ETC_20151016_015862	You didn't find anything special from the demons.{nl}You better go back to Amanda
@@ -15862,7 +15862,7 @@ ETC_20151016_015863	Collecting the eggs of Rajatad
 ETC_20151016_015864	Monster rushed out!
 ETC_20151016_015865	You've obtained the eggs of the Rajatad!
 ETC_20151016_015866	No, please don't do that!
-ETC_20151016_015867	He.. No!!
+ETC_20151016_015867	He... No!!
 ETC_20151016_015868	Why are you...
 ETC_20151016_015869	It is inappropriate to write something on it
 ETC_20151016_015870	You have found adequate stones!{nl}Tell Amanda about it
@@ -16202,12 +16202,12 @@ ETC_20151022_016203	Failed to Decrypt the token that you received from Steam Ser
 ETC_20151022_016204	The user ticket info received from Steam Server is wrong.
 ETC_20151022_016205	The user secret info received from Steam Server is wrong.
 ETC_20151022_016206	Failed to reset at Steam Server. Check the port info.
-ETC_20151022_016207	Could not load the client file hash code from DB. If it is not Develpment Server, it must be loaded.
+ETC_20151022_016207	Could not load the client file hash code from DB. If it is not Development Server, it must be loaded.
 ETC_20151022_016208	The program was executed again.
 ETC_20151022_016209	Crystal Mine Mission
 ETC_20151022_016210	Catacombs Mission
 ETC_20151022_016211	Fencer
-ETC_20151022_016212	The Fencer class makes use of the Rapier weapon to rapidly hit successive strikes. 
+ETC_20151022_016212	The Fencer class makes use of the Rapier weapon to rapidly hit successive strikes on their enemy. 
 ETC_20151022_016213	Nestospa Camp
 ETC_20151022_016214	Anastospa Camping Ground
 ETC_20151022_016215	Iborarul Empty Lot
@@ -16222,7 +16222,7 @@ ETC_20151022_016223	Spirit Condenser4
 ETC_20151022_016224	NPC_Green Infroholder Sorcerer
 ETC_20151022_016225	Fountain
 ETC_20151022_016226	Cannonball
-ETC_20151022_016227	The flower of the great earth
+ETC_20151022_016227	Great Earth Flower
 ETC_20151022_016228	Empty NPC 3
 ETC_20151022_016229	Tied Girl Lima
 ETC_20151022_016230	Buy the goods of Necromancer
@@ -16257,8 +16257,8 @@ ETC_20151022_016258	Receive the blessing from the Bokor Submaster
 ETC_20151022_016259	Cure the refugees that fell down
 ETC_20151022_016260	The Statue of Goddess Vakarine at Lemprasa Pond
 ETC_20151022_016261	The Statue of Goddess Zemyna at Lemprasa Pond
-ETC_20151022_016262	The Statue of Goddess Vakarine at Woods of Attached Bridge
-ETC_20151022_016263	The Statue of Goddess Vakarine at Paupys Port
+ETC_20151022_016262	The Statue of Goddess Vakarine at Woods of the Linked Bridges
+ETC_20151022_016263	The Statue of Goddess Vakarine at Paupys Crossing
 ETC_20151022_016264	Defeat the monsters using Highlander skills
 ETC_20151022_016265	Defeat the monsters at Feretory Hills without any buffs
 ETC_20151022_016266	Defeat the beast monsters on Feretory Hills
@@ -16346,7 +16346,7 @@ ETC_20151022_016347	You've found the crystal of Karolis
 ETC_20151022_016348	You didn't find any crystals of Karolis nearby
 ETC_20151022_016349	Lighting the ray of Karolis
 ETC_20151022_016350	The ray of Karolis has already been lit!
-ETC_20151022_016351	This is the owl which you already gave the power to
+ETC_20151022_016351	This owl already gave its power to you
 ETC_20151022_016352	Using the power of the owl
 ETC_20151022_016353	The power of the owl is too far away from the Mind Control Tower
 ETC_20151022_016354	You can't see the Divine Tree of Letas and the monsters that reacted to the energies of the forest are rushing in!
@@ -16362,12 +16362,12 @@ ETC_20151022_016363	You can feel the ominous energy
 ETC_20151022_016364	Releasing the defensive magical field
 ETC_20151022_016365	All magic fields will reactivate due to the incorrect order of their releases
 ETC_20151022_016366	You can't touch them since they are being protected with the defensive magic
-ETC_20151022_016367	Using the determination of the guiding owl
+ETC_20151022_016367	Using the owl's will
 ETC_20151022_016368	Spreading the energies of the forest
 ETC_20151022_016369	You've found the Shaman Doll of the gravekeeper!
 ETC_20151022_016370	You've found the hidden basket of beef jerky!{nl}Use the polluted red water to contaminate the beef jerky!
 ETC_20151022_016371	Contaminating the beef jerky
-ETC_20151022_016372	This way..
+ETC_20151022_016372	This way...
 ETC_20151022_016373	There are no more strange behaviors
 ETC_20151022_016374	The block of wood that is spelled
 ETC_20151022_016375	As you light the incense, the terrible odor starts to spread.
@@ -16435,14 +16435,14 @@ ETC_20151022_016436	Equip Rapier Sub
 ETC_20151022_016437	Equip Crossbow Pistol
 ETC_20151022_016438	Equip Crossbow Cannon
 ETC_20151022_016439	Item Merchant
-ETC_20151022_016440	[Swordsman Submaster]{nl}         Codill
-ETC_20151022_016441	[Peltasta Submaster]{nl}                Nirin Dameoff
-ETC_20151022_016442	[Cleric Submaster]{nl}                 Tamara Easton
-ETC_20151022_016443	[Krivis Submaster]{nl}                     Mellinda Dicherin
-ETC_20151022_016444	[Priest Submaster]{nl}                      Boira
-ETC_20151022_016445	[Bokor Submaster]{nl}                   Bobo Icelin
-ETC_20151022_016446	[Sadhu Master]{nl}                           Agota Hanska
-ETC_20151022_016447	[Paladin Submaster]{nl}                  Sylvia Naimon
+ETC_20151022_016440	[Swordsman Submaster]{nl}              Codill
+ETC_20151022_016441	[Peltasta Submaster]{nl}      Nirin Dameoff
+ETC_20151022_016442	[Cleric Submaster]{nl}     Tamara Easton
+ETC_20151022_016443	[Krivis Submaster]{nl}     Mellinda Dicherin
+ETC_20151022_016444	[Priest Submaster]{nl}              Boira
+ETC_20151022_016445	[Bokor Submaster]{nl}      Bobo Icelin
+ETC_20151022_016446	[Sadhu Master]{nl}Agota Hanska
+ETC_20151022_016447	[Paladin Submaster]{nl}      Sylvia Naimon
 ETC_20151022_016448	Flameholder
 ETC_20151022_016449	Boss Manager
 ETC_20151022_016450	Traveling Merchant Varas
@@ -16470,7 +16470,7 @@ ETC_20151022_016471	Padded Leg Herb
 ETC_20151022_016472	Smoking Glue
 ETC_20151022_016473	Smelly Cart
 ETC_20151022_016474	Habitat
-ETC_20151022_016475	[Highlander Submaster]{nl}        Rahellia Black
+ETC_20151022_016475	[Highlander Submaster]{nl}        Rahelia Black
 ETC_20151022_016476	Injured Refugees
 ETC_20151022_016477	Shelter Bonfire
 ETC_20151022_016478	Shelter Pyre
@@ -16496,7 +16496,7 @@ ETC_20151102_016497	Lapedame
 ETC_20151102_016498	Lavenzard
 ETC_20151102_016499	Prison Cutter
 ETC_20151102_016500	Red Lavenzard
-ETC_20151102_016501	Dark Surge
+ETC_20151102_016501	Dark Theurge
 ETC_20151102_016502	Namott Sanctum
 ETC_20151102_016503	Thaumas Trail
 ETC_20151102_016504	Salvia Forest
@@ -17301,7 +17301,7 @@ ETC_20151102_017302	Breaking out of Redemption Ward
 ETC_20151102_017303	The little powers captured by the Redemption Ward have returned to Goddess Lada.
 ETC_20151102_017304	Explode the life force sapping device!
 ETC_20151102_017305	Use this after you defeat the monsters around!
-ETC_20151102_017306	Protect the earthen seeds until they flower
+ETC_20151102_017306	Protect the Great Earth seeds until they flower
 ETC_20151102_017307	The young girl doesn't seem to be here
 ETC_20151102_017308	Some time is required before you can apply another attack buff to Spirit -
 ETC_20151102_017309	Acquired today's compensation
@@ -17400,7 +17400,7 @@ ETC_20151102_017401	[Hunter Submaster]{nl}Belkin Vellon
 ETC_20151102_017402	[Wugushi Master]{nl}Wor Pat
 ETC_20151102_017403	[Scout Submaster]{nl}Suina
 ETC_20151102_017404	Experiment Victim (1)
-ETC_20151102_017405	Experiment  Victim (2)
+ETC_20151102_017405	Experiment Victim (2)
 ETC_20151102_017406	XX Villager (1)
 ETC_20151102_017407	XX Villager (2)
 ETC_20151102_017408	XX Villager (3)
@@ -17443,14 +17443,14 @@ ETC_20151224_017444	This isn't a strong monster, but tears could be dropping fro
 ETC_20151224_017445	Poisoned Kepa
 ETC_20151224_017446	It has a poison like the Chinency. However, its poison has a lower effect than the Chinency.
 ETC_20151224_017447	It is a demon form that the souls touched with Evil. The main different is that It has been corrupted to mix demon's soul not human's soul became evil.
-ETC_20151224_017448	Goddess Austeja has been hard to look over the mission, after that, these monsters have been appeared beyond the Goddess's power
+ETC_20151224_017448	Goddess Austeja has been hard to look over the mission, after that, these monsters have been appeared beyond the goddess's power.
 ETC_20151224_017449	Dionia gained the strong spell by Demon Master Bramble. So, it seems originaly transformed to monsters from plants, but it maybe think belong to demons.
 ETC_20151224_017450	Dionia is known for his wisdom is week, but he tends to show an affection for his spore only. It's quite strange situation considering the Plant-types.
 ETC_20151224_017451	Almost Golem in the world originally crafted for good purposes, but now, They have been working caused by the evil spirit.
 ETC_20151224_017452	Ellaganos is created with the strong power and form, after the unique undead which mixed with the dead and stone used at the grave over many years.
 ETC_20151224_017453	There are famous comments by someone, this monster is hard to eat and to protect.
 ETC_20151224_017454	Mirtis is considered a low-ranked Demon Lord of all the others. The reason why is probably because she failed many missions that were given to her from Giltine. On her last mission, she was sealed by a human. Since Medzio Diena, she has now the freedom to catch up on her failed mission.
-ETC_20151224_017455	There was something that Damon Master ordered the fatigue duty by making his avatar and dividing his power. This is the same case. In addition, Sorcerer gain advantage by using magics to use like demon's feature.
+ETC_20151224_017455	There are some Demon Lords who create a clone of their own or divide their own powers. This is one of those cases. In addition, the Sorcerer gain advantages by using similar magic that the demons use.
 ETC_20151224_017456	Molich achieved lots of success by served many Demon Lords over many years, and he has a chance to reach more higher rank lately. Scholars who know the demon history expected if that happened Molich will be pass the low rank Demon Lord like Bramble and Mirtis.
 ETC_20151224_017457	Yellow Old Kepa
 ETC_20151224_017458	This plant's leaf is more strong than leather. Especially, like old leaf is more strong.
@@ -17471,7 +17471,7 @@ ETC_20151224_017472	Unlike the feature, this monster only appears under complex 
 ETC_20151224_017473	It is a monster that is formed by binding an aninal with minenal. In recent years, various forms of these monsters have been discovered.
 ETC_20151224_017474	What is more frightening than a Dandel's soft, keratinized hair is its vitality and aggressiveness.
 ETC_20151224_017475	There is no meaning of the question that candle to change monster or monster to change candle. Since Medzio Diena, many monsters appeared is target to kill not curiosity.
-ETC_20151224_017476	It's a result not a flower came from the dead body. But, it's a bit awkard to say Fruit.
+ETC_20151224_017476	This is not the result of a flower blooming from a dead body. It's a bit awkard to say it's a 'fruit'.
 ETC_20151224_017477	It is not bad that the deformed monsters are like these numbers by considering the moss lives in the various temperate region.
 ETC_20151224_017478	Despite its appearance, these creatures are not hollow on the inside.
 ETC_20151224_017479	Sorcerers changed these humans who were once a wizard after shown interest in the demon realm.
@@ -17479,11 +17479,11 @@ ETC_20151224_017480	A lesser demon summoned by its demonic superiors to invade t
 ETC_20151224_017481	It was created to protect humans by Dievdirbys Master, but it has been the harmful monsters to change the characteristtics.
 ETC_20151224_017482	Old Status that Goddess's divinity left from here will absorb the demons.
 ETC_20151224_017483	The number of Bagworms is no longer increasing, yet its current population is enough not to worry about extinction.
-ETC_20151224_017484	These monster types won't be discovered anymore. But, the already discovered numbers seems to be don't worry about extinction.
-ETC_20151224_017485	It used its hook on a large monster to come over from the demon realm, and has underwent a lot of change.
+ETC_20151224_017484	This kind of monster won't be discovered anymore. But, the number of these monsters that currently exist seems to indicate that there is no worry about extinction.
+ETC_20151224_017485	It used its hook on a large monster to come over from the demon realm and has gone through a lot of change.
 ETC_20151224_017486	Even though there are less logging activities, the monsters that originated from the stumps continue to show up. They appear to be formed out of the residues of Plant-type monsters.
 ETC_20151224_017487	The eyesight is not bad unlike its name.
-ETC_20151224_017488	It is a Hanaming's subspecies found recently and studying yet.
+ETC_20151224_017488	A subspecies of the Hanaming. Recently found and currently still in research.
 ETC_20151224_017489	Demon Lord Mirtis said the man was his servant. Some say it was a clone of her...
 ETC_20151224_017490	The Quarrel Shooter uses it sometimes.
 ETC_20151224_017491	It seems the name is unique, but the effect is similar to another bomb.
@@ -17491,12 +17491,12 @@ ETC_20151224_017492	Bomb Score
 ETC_20151224_017493	It has a same meaning as the name. There is no special thing.
 ETC_20151224_017494	They are surely Vubbes, but they live another life.
 ETC_20151224_017495	It is hard to determine whether their mining roles are permanent since little is known about the Vubbe's social system.
-ETC_20151224_017496	At first time, It was created by magical mistakes and abusing, after that it has been intentionally created by the malicious wizard or demon.
+ETC_20151224_017496	At first, they were created accidentally through the abuse of magic, but later malicious wizards and demons started creating them intentionally.
 ETC_20151224_017497	This monster belongs to the group of the Infro Rocktor.
-ETC_20151224_017498	The research to find out why some Kepas transformed to like this is progressing. Even the research included with food side, but it is hard to expect the result.
-ETC_20151224_017499	Poata is trying to find a chance to show-off to the demons to get more stronger power from the monsters originated plants.
+ETC_20151224_017498	The research to find out why some Kepas transformed to like this is progressing. Even the research to see if it was edible, but still, nothing is certain.
+ETC_20151224_017499	Poata is trying to find chances to showoff to the demons to obtain more power from the monsters originated plants.
 ETC_20151224_017500	A monster that returned from the dead, accurately saying it is a monster that resurrected into a demon after it died.
-ETC_20151224_017501	It is a monster already exists before Medzio Diena, there were some types which like the humans in the past but now it's absolutely no.
+ETC_20151224_017501	A monster that already existed before Medzio Diena. It used to have a liking towards humans in the past, but that feeling has faded away in the current times.
 ETC_20151224_017502	Basically, It was born in the cold region, after Medzio Diena, it is actively working around because spotted in many areas.
 ETC_20151224_017503	Current Ginklas is caught by madness, so there is no chance to show his original rationality.
 ETC_20151224_017504	It is not yet clear why Stone Whale has a form of Whale even it mutated from mininals.
@@ -17624,7 +17624,7 @@ ETC_20151224_017625	There's no one who wants to see the true nature of the hidde
 ETC_20151224_017626	The phenomena of the Golemlet absorbing the energy from Tree Root Crystals to become stronger occurs sometimes.
 ETC_20151224_017627	Deadborns turn into Rodelins when they receive a lot of influences from demons or when they are acknowledged by the high-ranked demons.
 ETC_20151224_017628	Even when the Pantos were having a close relationship with humans, they actually weren't that friendly to humans. But, they weren't as hostile as they are now.
-ETC_20151224_017629	There's a legend which Ritheris was one of the masters in the past. Among the masters that are not wizard types, some masters make contracts with the demons for the eternity and look for others who are similar to them and lead them to the demon realm.
+ETC_20151224_017629	There's a legend were Riteris was one of the masters in the past. Among the masters that are not wizards, some make contracts with the demons for immortality and look for others who are similar to them, then lead them to the demon realm.
 ETC_20151224_017630	They won't fall even if you attack them on their legs.
 ETC_20151224_017631	A common misunderstanding of humans is that they think that the Dievdirbys were created by a mistake. Of course, we all know that is just silly and untrue.
 ETC_20151224_017632	Sometimes, people want to consume Kepas, but I want you to stop them.
@@ -17831,12 +17831,12 @@ ETC_20151224_017831	Canyon Belt Guild Mission
 ETC_20151224_017832	Demon Prison Guild Mission
 ETC_20151224_017833	Demon Prison Guild Mission
 ETC_20151224_017834	Destroy the restrainment device attached to Monk Goss!
-ETC_20151224_017835	Hurry up, before the spore is going to spurt!
+ETC_20151224_017835	Hurry up, before the spore spurts!
 ETC_20151224_017836	Hush, I'll release you soon.
 ETC_20151224_017837	I'll close the spore valve. Could you handle the trap device?
 ETC_20151224_017838	Damn, the demons saw us!
 ETC_20151224_017839	Please do until open the door.
-ETC_20151224_017840	Everyone! Curse is going to open the door soon.
+ETC_20151224_017840	Everyone! Goss is going to open the door soon.
 ETC_20151224_017841	Zacaras
 ETC_20151224_017842	Litas
 ETC_20151224_017843	Let's move out from the monastery!
@@ -17845,7 +17845,7 @@ ETC_20151224_017845	Thank you. I am alive thanks to you!
 ETC_20151224_017846	Ugh... My head...
 ETC_20151224_017847	Oh, you!
 ETC_20151224_017848	Stop!!
-ETC_20151224_017849	you moved according to the my scenario 
+ETC_20151224_017849	Thankfully, you moved according to my scenario.
 ETC_20151224_017850	You don't know that I leaked the information on purpose...
 ETC_20151224_017851	Here... Am... I...
 ETC_20151224_017852	Rose, are you alright?
@@ -17865,7 +17865,7 @@ ETC_20151224_017865	Go to the monastery with the woman.
 ETC_20151224_017866	Gigantic Bracken
 ETC_20151224_017867	The demons saw us!
 ETC_20151224_017868	Okay. Let's go!
-ETC_20151224_017869	The hidden magic supply device has shown up!
+ETC_20151224_017869	A hidden Demonic Power Supply Device has shown up!
 ETC_20151224_017870	Succ... success...
 ETC_20151224_017871	Darn it! It's a barrier!
 ETC_20151224_017872	I will look for a way so please get rid of the demons!
@@ -18244,7 +18244,7 @@ ETC_20151224_018244	NGS Debuging Log
 ETC_20151224_018245	Premium
 ETC_20151224_018246	A gem that can be found in a dungeon. It is able to enhance equipment by equipping it in a socket. Cannot be used with same effect simultaneously. Right-click to insert it to an equipment.
 ETC_20151224_018247	Colimen Magician Gem
-ETC_20151224_018248	Applies the Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018248	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018249	Token: 5 Minutes
 ETC_20151224_018250	Token: 10 Minutes
 ETC_20151224_018251	Token: 30 Minutes
@@ -18255,7 +18255,7 @@ ETC_20151224_018255	Contains 100 TP. This item cannot be refunded or returned af
 ETC_20151224_018256	Contains 200 TP. This item cannot be refunded or returned after use.
 ETC_20151224_018257	Contains 300 TP. This item cannot be refunded or returned after use.
 ETC_20151224_018258	Token: 7 Days [Event]
-ETC_20151224_018259	Applies the Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018259	Applies Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018260	Premium Awakening Stone
 ETC_20151224_018261	Megaphone 50x Box
 ETC_20151224_018262	Contains 50 Megaphones when you open it. Right-click to use.
@@ -18265,7 +18265,7 @@ ETC_20151224_018265	Contains 10 Soul Crystals when you open it. Right-click to u
 ETC_20151224_018266	Warp Scroll 10x Box
 ETC_20151224_018267	Contains 10 Warp Scrolls when you open it. Right-click to use.
 ETC_20151224_018268	Token: 5 Days [Event]
-ETC_20151224_018269	Applies the Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018269	Applies Token benefits to all your characters in the server for 5 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018270	Premium Package A
 ETC_20151224_018271	Contains goodies. Right-click to use.{nl} - 600 TP (Untradable){nl} - Highly Enriched HP Potion 150x (Untradable){nl} - Highly Enriched SP Potion 150x (Untradable){nl} - Warp Scroll 10x Box 3x (Untradable){nl} - Megaphone 50x Box (Untradable){nl} - Hair Accessory: War Bonnet
 ETC_20151224_018272	Premium Package B
@@ -18273,15 +18273,15 @@ ETC_20151224_018273	Contains goodies. Right-click to use.{nl} - 1300 TP (Untrada
 ETC_20151224_018274	Contains 600 TP. This item cannot be refunded or returned after use.
 ETC_20151224_018275	Contains 1300 TP. This item cannot be refunded or returned after use.
 ETC_20151224_018276	Token: 1 Day [Event]
-ETC_20151224_018277	Applies the Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018277	Applies Token benefits to all your characters in the server for 1 day. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018278	Token: 3 Hours [Event]
-ETC_20151224_018279	Applies the Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018279	Applies Token benefits to all your characters in the server for 3 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018280	Token: 6 Hours [Event]
-ETC_20151224_018281	Applies the Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018281	Applies Token benefits to all your characters in the server for 6 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018282	Token: 12 Hours [Event]
-ETC_20151224_018283	Applies the Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018283	Applies Token benefits to all your characters in the server for 12 hours. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018284	Token: 3 Days [Event]
-ETC_20151224_018285	Applies the Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
+ETC_20151224_018285	Applies Token benefits to all your characters in the server for 3 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20151224_018286	Skill Reset Potion
 ETC_20151224_018287	Use to reset all skill points. 
 ETC_20151224_018288	Instanced Dungeon Reset Voucher
@@ -18417,7 +18417,7 @@ ETC_20151224_018417	Degalm Access Road
 ETC_20151224_018418	Outskirts Central Plaza
 ETC_20151224_018419	Orem Metting Hall
 ETC_20151224_018420	Tagika Crossroads
-ETC_20151224_018421	Government Ruin
+ETC_20151224_018421	Government Ruins
 ETC_20151224_018422	Fortress Uphill
 ETC_20151224_018423	Merahin Courtyard
 ETC_20151224_018424	Odaginkas Vacant Lot
@@ -18472,7 +18472,7 @@ ETC_20151224_018472	Miner Wagon(Rotation)
 ETC_20151224_018473	Great Cathedral Footstep(Remove the obb)
 ETC_20151224_018474	Lord Delmore
 ETC_20151224_018475	Kruvina Central Device
-ETC_20151224_018476	Magic Power Supply Device
+ETC_20151224_018476	Demonic Power Supply Device
 ETC_20151224_018477	Life Absorbing Altar 
 ETC_20151224_018478	Magic Power Bead Lump
 ETC_20151224_018479	Delmore Manor Lift
@@ -18482,7 +18482,7 @@ ETC_20151224_018482	Cart of Nevellet Quarry 1F
 ETC_20151224_018483	Delmore Hamlet Cable Car
 ETC_20151224_018484	Cart of Nevellet Quarry 2F(Direction)
 ETC_20151224_018485	Cart of Nevellet Quarry 2F(Direction)
-ETC_20151224_018486	Wreckage of the Magic Power Supply Device
+ETC_20151224_018486	Wreckage of the Demonic Power Supply Device
 ETC_20151224_018487	Delmore Barrier
 ETC_20151224_018488	Orsha Soldier Male14_1
 ETC_20151224_018489	Orsha Soldier Male14_2
@@ -18602,7 +18602,7 @@ ETC_20151224_018602	Light the fire on the flameholder using the complete flame j
 ETC_20151224_018603	Eliminate the Monsters or Demons while holding up the shield
 ETC_20151224_018604	Cure the refugees that fell down
 ETC_20151224_018605	Collect the monster souls which are injected with the Sadu Master's spirit
-ETC_20151224_018606	Search the stuff that is able to activate the defense spell
+ETC_20151224_018606	Search the stuff that will trigger the the defense spell
 ETC_20151224_018607	The first magic bead charged
 ETC_20151224_018608	The second magic bead charged
 ETC_20151224_018609	The third magic bead charged
@@ -18610,14 +18610,14 @@ ETC_20151224_018610	Place the Orb on the left side of the device
 ETC_20151224_018611	Place the Orb on the front side of the device
 ETC_20151224_018612	Place the Orb on the right side of the device
 ETC_20151224_018613	Collect the information against Pag Ampler
-ETC_20151224_018614	Search the magic power supply device
+ETC_20151224_018614	Search for the Demonic Power Supply Device
 ETC_20151224_018615	Crafting Stop Strategy
 ETC_20151224_018616	Attack the hidden Magic Core
 ETC_20151224_018617	Destroy Barrier
 ETC_20151224_018618	Replaced Soul(1)
-ETC_20151224_018619	Destroy the remaining Magic Supply Device at the Delmore Manor
+ETC_20151224_018619	Destroy the remaining Demonic Power Supply Device at Delmore Manor
 ETC_20151224_018620	Bring the offering to the Obelisk
-ETC_20151224_018621	Collect the Blue Herb for Bait
+ETC_20151224_018621	Collect the Blue Herb for bait
 ETC_20151224_018622	Collect the Markazi Flower
 ETC_20151224_018623	Burn the wandering Holy Place Laboratory
 ETC_20151224_018624	Burn the Nesuga Small Corridor Laboratory
@@ -18689,8 +18689,8 @@ ETC_20151224_018689	Charge free TP every 7200 seconds (2h)
 ETC_20151224_018690	Storage Expansion Price
 ETC_20151224_018691	Silver Commission for Shop Skills
 ETC_20151224_018692	Storage Expansion Count
-ETC_20151224_018693	TP will be used when changing your Team Name
-ETC_20151224_018694	TP will be used when changing your Character Name
+ETC_20151224_018693	TP will be charged for changing your Team Name
+ETC_20151224_018694	TP will be charged for changing your Character Name
 ETC_20151224_018695	Shutdown Test
 ETC_20151224_018696	Maximum Expand Storage Count
 ETC_20151224_018697	Use TP for Instance Dungeon Reset
@@ -19133,11 +19133,11 @@ ETC_20151224_019133	You cannot use the word {Word}.
 ETC_20151224_019134	The character name must be at least %s bytes.
 ETC_20151224_019135	The character name must be less than %s bytes.
 ETC_20151224_019136	The current amount of players joined has been exceeded.
-ETC_20151224_019137	You have reached the maximum amount of characters in this Lodge{nl}Do you want to purchase a character slot?
+ETC_20151224_019137	You have reached the maximum amount{nl}of characters in this Lodge{nl}Do you want to purchase a character slot?
 ETC_20151224_019138	You cannot dismount your companion while using a skill.
 ETC_20151224_019139	The name must be less than {LEN} bytes.
 ETC_20151224_019140	This item's price can't be estimated until there is more on the Market.
-ETC_20151224_019141	{Price} TP will be used to hire for {Minute} minutes. Do you wish to continue?
+ETC_20151224_019141	{Price} TP will be charged to hire for {Minute} minutes. Do you wish to continue?
 ETC_20151224_019142	Wrong equipment. Please check the title.
 ETC_20151224_019143	You've received the item.
 ETC_20151224_019144	It is applied with the reconnection.
@@ -19145,9 +19145,9 @@ ETC_20151224_019145	You do not have the required Zombie for this skill.
 ETC_20151224_019146	You do not have enough silver for the owner's Offering Box
 ETC_20151224_019147	You do not have enough points.
 ETC_20151224_019148	Maximum Level
-ETC_20151224_019149	Do you want to revive this companion? {Price} will be used.
+ETC_20151224_019149	Do you want to revive this companion? {Price} will be charged.
 ETC_20151224_019150	You can only use this while in Rest Mode.
-ETC_20151224_019151	You cannot delete this character because it has items equipped.
+ETC_20151224_019151	You cannot delete this character{nl}because it has items equipped.
 ETC_20151224_019152	Do you want to use {TP} TP{nl}to expand {SLOT} slots?
 ETC_20151224_019153	Your skill level is not high enough.
 ETC_20151224_019154	You have reached the maximum amount of characters in this Lodge{nl}Please try again after deleting an existing character.
@@ -19178,7 +19178,7 @@ ETC_20151224_019178	Male only
 ETC_20151224_019179	Female only
 ETC_20151224_019180	Unable to equip
 ETC_20151224_019181	If you register this item, the potential{nl}will decrease after it is traded{nl}Would you like to register it?
-ETC_20151224_019182	The potential of this item will be decreased after it is traded. Do you accept?
+ETC_20151224_019182	The potential of this item will be decreased after it is traded. Will you accept?
 ETC_20151224_019183	There are no tools to repair.
 ETC_20151224_019184	You are too close to the NPC.
 ETC_20151224_019185	Enter a name for your companion
@@ -19316,7 +19316,7 @@ ETC_20151224_019316	Guild Instanced Dungeon Mission
 ETC_20151224_019317	Guild Field Boss
 ETC_20151224_019318	Guild Raid
 ETC_20151224_019319	 List
-ETC_20151224_019320	Please select a Guild Event
+ETC_20151224_019320	Please select a guild event
 ETC_20151224_019321	About the information
 ETC_20151224_019322	It is first text information of the guild instance mission sample in the Mage Tower
 ETC_20151224_019323	It is first text information of the guild instance mission sample in the Royal Mausoleum
@@ -19337,16 +19337,16 @@ ETC_20151224_019337	You've impacted Sequoia{nl}(
 ETC_20151224_019338	The flame of Sequoia has found you
 ETC_20151224_019339	Sequoia fell asleep to recover its HP{nl}Defeat Sequoia to prevent it from recovering HP
 ETC_20151224_019340	You've defeated the monster{nl}(
-ETC_20151224_019341	You've defeated Bearkaras!{nl}Search for the parts the spare purifier nearby
+ETC_20151224_019341	You've defeated Bearkaras!{nl}Search for the parts nearby the Spare Purifier
 ETC_20151224_019342	The magical power of Valius should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Balryus
 ETC_20151224_019343	Collecting the Fruit-smelling fragment
 ETC_20151224_019344	You've collected the Fruit-smelling fragment
 ETC_20151224_019345	A monster is that already has the fragment
 ETC_20151224_019346	Try from the back of the monster!
-ETC_20151224_019347	You've not found Karolis' Light
+ETC_20151224_019347	You didn't find Karolis' Light
 ETC_20151224_019348	Karolis' Light is already shining!
-ETC_20151224_019349	You've been expelled to outside aftet being detected by the surveillance sphere
-ETC_20151224_019350	All magic fields will reactivate due to the incorrect order of their release!
+ETC_20151224_019349	You've been expelled to outside after being detected by the surveillance sphere
+ETC_20151224_019350	All magic circles will reactivate due{nl} to an incorrect order of their release!
 ETC_20151224_019351	Spreading the energies of the forest
 ETC_20151224_019352	Using Psychokino's Scroll
 ETC_20151224_019353	All monsters are influenced by the scroll{nl}There is no target!
@@ -19361,7 +19361,7 @@ ETC_20151224_019361	You've captured the monster
 ETC_20151224_019362	You've failed to capture the monster
 ETC_20151224_019363	Collecting Thorn Venum
 ETC_20151224_019364	There are no monsters that are capable to collect Thorn Venom
-ETC_20151224_019365	The evil spirit has been purified and beeing collected into the Tree Branch
+ETC_20151224_019365	The evil spirit has been purified and being collected into the Tree Branch
 ETC_20151224_019366	Using Scroll
 ETC_20151224_019367	Casting the curse with the Incantation Tools
 ETC_20151224_019368	All monsters around are cursed
@@ -19383,7 +19383,7 @@ ETC_20151224_019383	You've collected the rewards
 ETC_20151224_019384	You've not collected the enough energy
 ETC_20151224_019385	End Magic Power Collection{nl}{rank}rank!
 ETC_20151224_019386	End Magic Power Collection{nl}You are not ranked to {low_rank}
-ETC_20151224_019387	The light beads disppeared to the Tiltas Valley
+ETC_20151224_019387	The light beads disppeared to Sudejeti Valley.{nl}Chase after the light bead.
 ETC_20151224_019388	You've defeated the trapped monsters
 ETC_20151224_019389	Smoky Greenery
 ETC_20151224_019390	Move using the hidden room entrance portal!
@@ -19392,7 +19392,7 @@ ETC_20151224_019392	Shooting the flare
 ETC_20151224_019393	You have to defeat it under the basic state which of it has no reinforcement effect!
 ETC_20151224_019394	Search for a party
 ETC_20151224_019395	You are already in a party. Do you want to leave this party?
-ETC_20151224_019396	Searching for a party...{nl}You'll automatically enter upon completion
+ETC_20151224_019396	Searching for a party...{nl}You'll automatically enter upon completion.
 ETC_20151224_019397	You've found a party. You will be entering the game in a moment.
 ETC_20151224_019398	The candle is not lit soon
 ETC_20151224_019399	You've exploded the bag of Tranceherb Incense{nl}It can be exploded two more times
@@ -19486,12 +19486,12 @@ ETC_20151224_019486	You caught up with someone who looks like Edmundas{nl}Talk w
 ETC_20151224_019487	You've found Edmundas{nl}Tell Rose about this
 ETC_20151224_019488	Destroying the Crystal Pillar
 ETC_20151224_019489	Exploring the Protection Cast
-ETC_20151224_019490	You've found the casted material
+ETC_20151224_019490	You've found the casted protection spell!
 ETC_20151224_019491	There is no Protection Cast around here!
 ETC_20151224_019492	Placing the Cast Releasing Amulet
 ETC_20151224_019493	The Protection Cast disappeared!
-ETC_20151224_019494	Placing the Demonic Power Beads
-ETC_20151224_019495	It's not Ardel's diary
+ETC_20151224_019494	Placing the Demonic Power Orb
+ETC_20151224_019495	This is not Ardel's diary
 ETC_20151224_019496	Hand over the Brown Hummingbird's Muscus
 ETC_20151224_019497	Hand over the Brown Hummingbird's Crystal
 ETC_20151224_019498	Hand over the Brown Hummingbird's Toenail
@@ -19500,8 +19500,8 @@ ETC_20151224_019500	Destroying the Mind Control Crystal
 ETC_20151224_019501	You've destroyed the Mind Control Crystal
 ETC_20151224_019502	You've found the experimental journal{nl}that was made by a mysterious mage
 ETC_20151224_019503	Setting up the Demonic Detector Crystal Device
-ETC_20151224_019504	There are no the Demonic Supply Device around here
-ETC_20151224_019505	Monsters are rushing in because of the inducing Demonic Power!
+ETC_20151224_019504	There is no Demonic Power Supply Device nearby
+ETC_20151224_019505	Monsters are rushing in because of the inducing demonic power!
 ETC_20151224_019506	Removing the useful board
 ETC_20151224_019507	Collecting the Mushroom
 ETC_20151224_019508	Thank you!
@@ -19529,16 +19529,16 @@ ETC_20151224_019529	You've successfully activated the Vars Magic Circle.
 ETC_20151224_019530	You've stopped the Sanadilma Magic Circle.
 ETC_20151224_019531	You've successfully activated the Sanadilma Magic Circle.
 ETC_20151224_019532	You've destroyed the Crystal Pillar!
-ETC_20151224_019533	You've been addicted to the evil energy that is spurting out from the Crystal Pillar
-ETC_20151224_019534	It seems four crystal pillars are causing Edmundas' pain{nl}Destroy the Crystal Pillars
+ETC_20151224_019533	You've been poisoned by the evil energy from the Crystal Pillar
+ETC_20151224_019534	It seems four crystal pillars are causing Edmundas' pain{nl}Destroy the crystal pillars!
 ETC_20151224_019535	Stopping the protection shield creation device
 ETC_20151224_019536	The protection shield creation device is stopped
-ETC_20151224_019537	The protection shield creation device is not completely stopped{nl}Let's try again!
+ETC_20151224_019537	The protection shield creation device has not completely stopped{nl}Let's try again!
 ETC_20151224_019538	Stopping the Demonic Power Device
 ETC_20151224_019539	The Demonic Power Device has been stopped
 ETC_20151224_019540	The defense device has been running
 ETC_20151224_019541	The defense device has been broken
-ETC_20151224_019542	Asking whether he is Enmundas or not
+ETC_20151224_019542	Asking whether he is Edmundas or not
 ETC_20151224_019543	HP is increasing
 ETC_20151224_019544	SP is increasing
 ETC_20151224_019545	Use
@@ -19628,8 +19628,8 @@ ETC_20151224_019628	Left the guild
 ETC_20151224_019629	Enter Guild Description
 ETC_20151224_019630	Joined {Auto_1}'s guild
 ETC_20151224_019631	Created the {Auto_1} guild
-ETC_20151224_019632	{Inviter} has invited you to a guild. Would you like to join?
-ETC_20151224_019633	{PC} is already a member.
+ETC_20151224_019632	{Inviter}{nl}has sent you a party invite.{nl}Would you like to join?
+ETC_20151224_019633	{PC} is already in a party.
 ETC_20151224_019634	You are not in a party and in a guild.
 ETC_20151224_019635	Are you sure you want to leave this guild?
 ETC_20151224_019636	Are you sure you want to disband this guild?
@@ -19640,18 +19640,18 @@ ETC_20151224_019640	Enter the amount of TP you want to gift.
 ETC_20151224_019641	You've received {Count} TP from {Giver}.
 ETC_20151224_019642	You've gifted {Count} TP to {Receiver}.
 ETC_20151224_019643	You do not have enough TP.
-ETC_20151224_019644	The person has rejected your request.
+ETC_20151224_019644	has declined your request.
 ETC_20151224_019645	Do you want to join?
 ETC_20151224_019646	You are already joined.
 ETC_20151224_019647	You do not have enough members.
 ETC_20151224_019648	Only the leader can do this.
-ETC_20151224_019649	{Inviter} has invited you to a guild. Would you like to join this guild?
+ETC_20151224_019649	{Inviter}{nl}has invited you to a guild.{nl}Would you like to join?
 ETC_20151224_019650	There is no guild to join.
 ETC_20151224_019651	Request to open the Item Dungeon
 ETC_20151224_019652	This user is already trading in the dungeon.
-ETC_20151224_019653	Would you like to prepare the Item Dungeon{nl}for {Name}?
+ETC_20151224_019653	Would you like to prepare the Item Dungeon for {nl}{Name}?
 ETC_20151224_019654	The other player declined the dungeon creation.
-ETC_20151224_019655	{Name} is selecting an item. Please wait.
+ETC_20151224_019655	{Name}{nl}is selecting an item. Please wait a moment.
 ETC_20151224_019656	You've sent it to the wrong user. Please try again.
 ETC_20151224_019657	The maximum amount of members who can enter the instanced dungeon has exceeded.
 ETC_20151224_019658	Guild Members: ({Cur}/{Max} - Online: {On})
@@ -19679,12 +19679,12 @@ ETC_20151224_019679	The possible time to declare the war
 ETC_20151224_019680	Guild Event (Coming Soon)
 ETC_20151224_019681	Only available on channel 1.
 ETC_20151224_019682	You cannot create it nearby other objects.
-ETC_20151224_019683	Only the Guild Master is able to use it.
+ETC_20151224_019683	Only the guild master is able to use it.
 ETC_20151224_019684	Enter Game
 ETC_20151224_019685	Completed matching. You may enter the {Name} game.
 ETC_20151224_019686	The allies have failed to protect the Goddess Statue in round {Round}.
 ETC_20151224_019687	The enemies have failed to protect the Goddess Statue in round {Round}.
-ETC_20151224_019688	Guild {GuildName} has won.
+ETC_20151224_019688	The guild {GuildName} has won.
 ETC_20151224_019689	You already joined this game. You are able to join the next game.
 ETC_20151224_019690	The game will start after {Time}.
 ETC_20151224_019691	Winner Reward
@@ -19695,8 +19695,8 @@ ETC_20151224_019695	Only guild members with the mining skill can mine.
 ETC_20151224_019696	Failed to mine ore.
 ETC_20151224_019697	All ore sites are depleted.
 ETC_20151224_019698	Currently Online: {Cur}/{Max}
-ETC_20151224_019699	Do you want to use {SkillName}?
-ETC_20151224_019700	The Guild Master has used {SkillName}. Do you accept?
+ETC_20151224_019699	Do you want to use{nl}{SkillName}?
+ETC_20151224_019700	The guild master used{nl}{SkillName}{nl}Will you accept?
 ETC_20151224_019701	Guild Master
 ETC_20151224_019702	{PC} is already affiliated with another guild.
 ETC_20151224_019703	You need to be a {Name} in order to create a guild.
@@ -19725,7 +19725,7 @@ ETC_20151224_019725	The sales period has passed. Please retrieve your item.
 ETC_20151224_019726	Your item will be registered to the Market List after {TIME}.
 ETC_20151224_019727	Your item will be moved to the cabinet after {TIME}.
 ETC_20151224_019728	A minimum of {Price} silver is required to register an item.
-ETC_20151224_019729	Registering the following item{nl}will reduce its potential by one.{nl} Would you like to purchase?
+ETC_20151224_019729	Purchasing this item will{nl}reduce the Potential by 1.{nl} Would you like to purchase?
 ETC_20151224_019730	The item's minimum price has changed. Please enter again.
 ETC_20151224_019731	The item's maximum price has changed. Please enter again.
 ETC_20151224_019732	{Price} silver will be required to register this item.{nl}Do you want to continue?
@@ -19733,7 +19733,7 @@ ETC_20151224_019733	The price must be at least 100 silver.
 ETC_20151224_019734	The amount will be changed automatically based on the minimum unit price.
 ETC_20151224_019735	This skill cannot be registered.
 ETC_20151224_019736	Humanoid
-ETC_20151224_019737	{TP} TP will be used to purchase this Character/Companion Slot{nl}Would you like to purchase?
+ETC_20151224_019737	{TP} TP will be charged to purchase this Character/Companion Slot{nl}Would you like to purchase?
 ETC_20151224_019738	Do you want to use {TP} TP to change your Team Name?
 ETC_20151224_019739	You do not have enough Character/Companion slots.{nl}
 ETC_20151224_019740	Do you want to use {TP} TP to change your Character Name?
@@ -19831,7 +19831,7 @@ ETC_20151224_019831	Reduced Market commission fee
 ETC_20151224_019832	Increased Market listing
 ETC_20151224_019833	Simultaneous attribute training
 ETC_20151224_019834	The following feature cannot be used.
-ETC_20151224_019835	You do not have the benefits to be able to trade with {Target}.
+ETC_20151224_019835	{Target} does not have the benefits to trade with you.
 ETC_20151224_019836	Trade/Buy-in Shop Available
 ETC_20151224_019837	Increased EXP from hunting monsters
 ETC_20151224_019838	Increased STA Recovery Rate
@@ -19885,8 +19885,8 @@ ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
 ETC_20151224_019887	[TP Trader]{nl}   Leticia
 ETC_20151224_019888	[Templar Master]{nl}Knight Commander Uska
-ETC_20151224_019889	[Cryomancer Master]{nl}  Alistair Crowley
-ETC_20151224_019890	[Blacksmith]{nl}   Ilannye
+ETC_20151224_019889	[Cryomancer Master]{nl}  Aleister Crowley
+ETC_20151224_019890	[Blacksmith]{nl}   Ilanai
 ETC_20151224_019891	[Equipment Merchant]{nl}      Jura
 ETC_20151224_019892	  [Lord of Orsha]{nl}    Inesa Hamondale
 ETC_20151224_019893	[Orsha Bishop]{nl}        Urbonas
@@ -19959,8 +19959,8 @@ ETC_20151224_019959	[Kabbalist Master]{nl}    Libgar Hippathia
 ETC_20151224_019960	[Plague Doctor]{nl}Philip Aurellius
 ETC_20151224_019961	[Rodelero Submaster]{nl}            Trogen
 ETC_20151224_019962	[Cataphract Master]{nl}           Dirk Drigg
-ETC_20151224_019963	[Thaumaturge Master]{nl}         Lalisa
-ETC_20151224_019964	[Scout Master]{nl}    Lecorn Limgarille
+ETC_20151224_019963	[Thaumaturge Master]{nl}         Larisa
+ETC_20151224_019964	[Scout Master]{nl}    Recon Rimgaile
 ETC_20151224_019965	[Wugushi Submaster]{nl}          May Patt
 ETC_20151224_019966	Canyon Guild Mission
 ETC_20151224_019967	[Elementalist Submaster]{nl}              Zeddie Berrant
@@ -20115,16 +20115,16 @@ ETC_20151224_020115	to be keeping{nl}in two points
 ETC_20160224_020116	Ghost Vubbe Archer
 ETC_20160224_020117	Sardine
 ETC_20160224_020118	Platinum Anvil
-ETC_20160224_020119
+ETC_20160224_020119	Assistant Commander Talon
 ETC_20160224_020120	Corrupt Mouse
 ETC_20160224_020121	Masked Jailer
 ETC_20160224_020122	Nebulas
 ETC_20160224_020123	Tormenta
-ETC_20160224_020124
-ETC_20160224_020125
-ETC_20160224_020126
+ETC_20160224_020124	Underground Guard Dog
+ETC_20160224_020125	Frightened Prison Guard
+ETC_20160224_020126	Catapult Slave
 ETC_20160224_020127	Lapinel
-ETC_20160224_020128
+ETC_20160224_020128	Gorkas
 ETC_20160224_020129	Varv for Directing
 ETC_20160224_020130	Morningstar Golem
 ETC_20160224_020131	Devil Lantern
@@ -20141,77 +20141,77 @@ ETC_20160224_020141	Tera Prison Cutter
 ETC_20160224_020142	Tera Red Lavenzard
 ETC_20160224_020143	Tera Foculus
 ETC_20160224_020144	Tera Rocksodon
-ETC_20160224_020145	
-ETC_20160224_020146	
+ETC_20160224_020145	Thorn Tentacle
+ETC_20160224_020146	Sadly, many strong-spirited people have sided with the demons after Medzio Diena. I believe this is an issue that requires a proper policy of tactical negotiation.
 ETC_20160224_020147	Saalus Convent
 ETC_20160224_020148	Earth Tower Lolopanther Area
-ETC_20160224_020149	
+ETC_20160224_020149	Earth Tower Solmiki Area
 ETC_20160224_020150	Hollow Thorn Forest
-ETC_20160224_020151
-ETC_20160224_020152
+ETC_20160224_020151	1st Alphabet Event Conqueror
+ETC_20160224_020152	You successfully completed the alphabet collecting event.
 ETC_20160224_020153	Moving Device
-ETC_20160224_020154
-ETC_20160224_020155
+ETC_20160224_020154	Novice Rider
+ETC_20160224_020155	Ride transport devices 100 times
 ETC_20160224_020156	Enjoyable Moving Device
-ETC_20160224_020157
-ETC_20160224_020158
-ETC_20160224_020159
-ETC_20160224_020160
-ETC_20160224_020161
-ETC_20160224_020162
-ETC_20160224_020163	Scouter of Sicarius
+ETC_20160224_020157	Experienced Rider
+ETC_20160224_020158	Ride transport devices 300 times
+ETC_20160224_020159	Familiar Transport Device
+ETC_20160224_020160	Tired Rider
+ETC_20160224_020161	Ride transport devices 600 times
+ETC_20160224_020162	Boring Transport Device
+ETC_20160224_020163	Sicarius Scouter
 ETC_20160224_020164	Open 25 secret chests in Sicarius
-ETC_20160224_020165	Adventurer of Sicarius
+ETC_20160224_020165	Sicarius Adventurer
 ETC_20160224_020166	Open 75 secret chests in Sicarius
 ETC_20160224_020167	Sicarius' Secret Chests (2)
-ETC_20160224_020168	Treasure Hunter of Sicarius
+ETC_20160224_020168	Sicarius Treasure Hunter
 ETC_20160224_020169	Open 150 secret chests in Sicarius
 ETC_20160224_020170	Sicarius' Secret Chests (3)
-ETC_20160224_020171
-ETC_20160224_020172
-ETC_20160224_020173
-ETC_20160224_020174
-ETC_20160224_020175
-ETC_20160224_020176
-ETC_20160224_020177
-ETC_20160224_020178
-ETC_20160224_020179
-ETC_20160224_020180
-ETC_20160224_020181
-ETC_20160224_020182
-ETC_20160224_020183
-ETC_20160224_020184
-ETC_20160224_020185
-ETC_20160224_020186
-ETC_20160224_020187
-ETC_20160224_020188
-ETC_20160224_020189	Scouter of Topes Fortress
-ETC_20160224_020190	
-ETC_20160224_020191	
-ETC_20160224_020192	Adventurer of Topes Fortress
-ETC_20160224_020193	
-ETC_20160224_020194	
-ETC_20160224_020195	Treasure Hunter of Topes Fortress
-ETC_20160224_020196	
-ETC_20160224_020197	
-ETC_20160224_020198	Scouter of Nevellet Quarry
+ETC_20160224_020171	Legwyn Lamplighter
+ETC_20160224_020172	Light Magic Astral Lamp 50 times
+ETC_20160224_020173	Astral Lamp of the Legwyn Family Residence
+ETC_20160224_020174	Starlight Collector
+ETC_20160224_020175	Light Magic Astral Lamp 150 times
+ETC_20160224_020176	Astral Lamp of the Legwyn Family Residence (2)
+ETC_20160224_020177	Starlight Transporter
+ETC_20160224_020178	Light Magic Astral Lamp 300 times
+ETC_20160224_020179	Astral Lamp of the Legwyn Family Residence (3)
+ETC_20160224_020180	Demon Prison Scouter
+ETC_20160224_020181	Open 35 treasure chests with a blue crystal in Demon Prison
+ETC_20160224_020182	2nd Demon Prison's Treasure Chest
+ETC_20160224_020183	Demon Prison Explorer
+ETC_20160224_020184	Open 105 treasure chests with a blue crystal in Demon Prison
+ETC_20160224_020185	2nd Demon Prison's Treasure Chest (2)
+ETC_20160224_020186	Demon Prison Treasure Hunter
+ETC_20160224_020187	Open 210 treasure chests with a blue crystal in Demon Prison
+ETC_20160224_020188	2nd Demon Prison's Treasure Chest (3)
+ETC_20160224_020189	Topes Fortress Scouter
+ETC_20160224_020190	Open 25 demon treasure chests in Topes Fortress
+ETC_20160224_020191	Topes Fortress's Demon Treasure Chest
+ETC_20160224_020192	Topes Fortress Adventurer
+ETC_20160224_020193	Open 75 demon treasure chests in Topes Fortress
+ETC_20160224_020194	Topes Fortress's Demon Treasure Chest (2)
+ETC_20160224_020195	Topes Fortress Treasure Hunter
+ETC_20160224_020196	Open 150 demon treasure chests in Topes Fortress
+ETC_20160224_020197	Topes Fortress's Demon Treasure Chest (3)
+ETC_20160224_020198	Nevellet Quarry Scouter
 ETC_20160224_020199	Open 25 treasure chests in Nevellet Quarry
 ETC_20160224_020200	Nevellet Quarry's Treasure Chest
-ETC_20160224_020201	Adventurer of Nevellet Quarry
+ETC_20160224_020201	Nevellet Quarry Adventurer
 ETC_20160224_020202	Open 75 treasure chests in Nevellet Quarry
-ETC_20160224_020203	Treasure Hunter of Nevellet Quarry (2)
-ETC_20160224_020204	Treasure Hunter of Nevellet Quarry
+ETC_20160224_020203	Nevellet Quarry's Treasure Hunter (2)
+ETC_20160224_020204	Nevellet Quarry's Treasure Hunter
 ETC_20160224_020205	Open 150 treasure chests in Nevellet Quarry
-ETC_20160224_020206	Treasure Hunter of Nevellet Quarry (3)
-ETC_20160224_020207	
-ETC_20160224_020208	
-ETC_20160224_020209	
-ETC_20160224_020210	
-ETC_20160224_020211	
-ETC_20160224_020212	
-ETC_20160224_020213	
-ETC_20160224_020214	
-ETC_20160224_020215	
+ETC_20160224_020206	Nevellet Quarry's Treasure Hunter (3)
+ETC_20160224_020207	Oil Sack Collector
+ETC_20160224_020208	Light 60 lamps in the Royal Mausoleum Constructors' Church
+ETC_20160224_020209	Royal Mausoleum Constructors' Church Lamp
+ETC_20160224_020210	Church Lamplighter
+ETC_20160224_020211	Light 180 lamps in the Royal Mausoleum Constructors' Church
+ETC_20160224_020212	Royal Mausoleum Constructors' Church Lamp (2)
+ETC_20160224_020213	Lamp Maniac
+ETC_20160224_020214	Light 360 lamps in the Royal Mausoleum Constructors' Church
+ETC_20160224_020215	Royal Mausoleum Constructors' Church Lamp (3)
 ETC_20160224_020216	Fledgling Mercenary
 ETC_20160224_020217	Progress in a daily quest 25 times
 ETC_20160224_020218	Daily Quest (1)
@@ -20238,151 +20238,151 @@ ETC_20160224_020238	Nevellet Quarry Gimmick
 ETC_20160224_020239	Royal Mausoleum Storage Gimmick
 ETC_20160224_020240	Searching for the Rune Stone
 ETC_20160224_020241	(I didn't find the Rune Stone yet.)
-ETC_20160224_020242
-ETC_20160224_020243
-ETC_20160224_020244
-ETC_20160224_020245
-ETC_20160224_020246
-ETC_20160224_020247
-ETC_20160224_020248
-ETC_20160224_020249
-ETC_20160224_020250
-ETC_20160224_020251
-ETC_20160224_020252
+ETC_20160224_020242	Immunity
+ETC_20160224_020243	Allows you to safely attack unpleasant insect eggs.
+ETC_20160224_020244	Protective Energy
+ETC_20160224_020245	Protects against Tera Prison Cutters' SP adsorption.
+ETC_20160224_020246	Divine Energy
+ETC_20160224_020247	The divine energy that allows you to attack Panto Totems is currently active.
+ETC_20160224_020248	Unable to level down
+ETC_20160224_020249	Defense Discharge
+ETC_20160224_020250	Magic Defense Discharge
+ETC_20160224_020251	Physical Enhancement
+ETC_20160224_020252	Increases attack and defense and increases damage inflicted/reduces damage received for specific skills.
 ETC_20160224_020253	Stronger Slash property attacks.
-ETC_20160224_020254
+ETC_20160224_020254	Pollen
 ETC_20160224_020255	Nuodai Poison
-ETC_20160224_020256
-ETC_20160224_020257
-ETC_20160224_020258
-ETC_20160224_020259
-ETC_20160224_020260
-ETC_20160224_020261
-ETC_20160224_020262
-ETC_20160224_020263
-ETC_20160224_020264
-ETC_20160224_020265
-ETC_20160224_020266
-ETC_20160224_020267
-ETC_20160224_020268
-ETC_20160224_020269
-ETC_20160224_020270
-ETC_20160224_020271
-ETC_20160224_020272
-ETC_20160224_020273
-ETC_20160224_020274
-ETC_20160224_020275
-ETC_20160224_020276
-ETC_20160224_020277
-ETC_20160224_020278
-ETC_20160224_020279
-ETC_20160224_020280
-ETC_20160224_020281
-ETC_20160224_020282
-ETC_20160224_020283
-ETC_20160224_020284
-ETC_20160224_020285
-ETC_20160224_020286
-ETC_20160224_020287
-ETC_20160224_020288
-ETC_20160224_020289
-ETC_20160224_020290
-ETC_20160224_020291
-ETC_20160224_020292
-ETC_20160224_020293
-ETC_20160224_020294
-ETC_20160224_020295
-ETC_20160224_020296
-ETC_20160224_020297
-ETC_20160224_020298
-ETC_20160224_020299
-ETC_20160224_020300
-ETC_20160224_020301
-ETC_20160224_020302
-ETC_20160224_020303
-ETC_20160224_020304
-ETC_20160224_020305
-ETC_20160224_020306
-ETC_20160224_020307
-ETC_20160224_020308
-ETC_20160224_020309
-ETC_20160224_020310
-ETC_20160224_020311
-ETC_20160224_020312
-ETC_20160224_020313
-ETC_20160224_020314
-ETC_20160224_020315
-ETC_20160224_020316
-ETC_20160224_020317
-ETC_20160224_020318
-ETC_20160224_020319
-ETC_20160224_020320
-ETC_20160224_020321
-ETC_20160224_020322
-ETC_20160224_020323
-ETC_20160224_020324
-ETC_20160224_020325
-ETC_20160224_020326
-ETC_20160224_020327
-ETC_20160224_020328
-ETC_20160224_020329
-ETC_20160224_020330
-ETC_20160224_020331
-ETC_20160224_020332
-ETC_20160224_020333
-ETC_20160224_020334
-ETC_20160224_020335
-ETC_20160224_020336
-ETC_20160224_020337
-ETC_20160224_020338
-ETC_20160224_020339
-ETC_20160224_020340
-ETC_20160224_020341
-ETC_20160224_020342
-ETC_20160224_020343
-ETC_20160224_020344
-ETC_20160224_020345
-ETC_20160224_020346
-ETC_20160224_020347
-ETC_20160224_020348
-ETC_20160224_020349
-ETC_20160224_020350
-ETC_20160224_020351
-ETC_20160224_020352
-ETC_20160224_020353
-ETC_20160224_020354
-ETC_20160224_020355
-ETC_20160224_020356
-ETC_20160224_020357
-ETC_20160224_020358
-ETC_20160224_020359
-ETC_20160224_020360
-ETC_20160224_020361
-ETC_20160224_020362
-ETC_20160224_020363
-ETC_20160224_020364
-ETC_20160224_020365
-ETC_20160224_020366
-ETC_20160224_020367
-ETC_20160224_020368
-ETC_20160224_020369
-ETC_20160224_020370
-ETC_20160224_020371
-ETC_20160224_020372
-ETC_20160224_020373
-ETC_20160224_020374
-ETC_20160224_020375
-ETC_20160224_020376
-ETC_20160224_020377
-ETC_20160224_020378
-ETC_20160224_020379
-ETC_20160224_020380
-ETC_20160224_020381
-ETC_20160224_020382
-ETC_20160224_020383
-ETC_20160224_020384
-ETC_20160224_020385
-ETC_20160224_020386
+ETC_20160224_020256	Through the Path of Fire
+ETC_20160224_020257	Goddess Gabija delivered a message through Grita. The specimens created by the wizards from the past fell in the hands of the demons, causing mayhem inside the tower. Goddess Gabija asks for the help of the Revelators to gain control of the specimens.
+ETC_20160224_020258	After the end of Mirtis' reign over the Crystal Mine, the Temple Shooter is calling back the Vubbes. {nl}Defeat the Temple Shooter and make the Crystal Mine safe again.
+ETC_20160224_020259	The followers in charge of Tenet Church reported the appearance of an Abomination, which is causing difficulties in protecting the church. Defeat the Abomination and help the church's followers.
+ETC_20160224_020260	The soldiers searching for the missing residents of Cobalt Forest reported the appearance of a Poata. Defeat the Poata to allow the soldiers to search for the missing people of Cobalt Forest in safety.
+ETC_20160224_020261	The historians investigating the Akmens Ridge reported a Kirmeleech attack. Defeat the Kirmeleech to allow the historians to investigate the Akmens Ridge in safety.
+ETC_20160224_020262	A group of treasure hunters climbed up the steep King's Plateau in search of the treasures of the stonemason family and are asking for help. Defeat the Giant Wood Goblin threatening them.
+ETC_20160224_020263	Baron Allerno's reckless greed has the entire barony taken over by evil energy, which is now attracting a Bebraspion. Defeat the Bebraspion for the safety of the barony residents.
+ETC_20160224_020264	Baron Allerno deployed all of his soldiers to experiments, helping a Rocktortuga enter an unguarded area of Tenants' Farm. Defeat the Rocktortuga for the safety of Tentants' Farm.
+ETC_20160224_020265	The Sequoia was created to protect the Owl Sculptures, but recently it became uncontrollable and corrupted by evil energy. If the Owl Sculptures are destroyed, not a single soul will be able to return to the goddess. Defeat the Sequoia and protect the Owl Sculptures.
+ETC_20160224_020266	The Salamander is becoming stronger with the power of Demon Lord Marnox's cursed statue. Defeat the Salamander before it becomes too powerful.
+ETC_20160224_020267	A powerful monster named Iltiswort has appeared in Dadan Forest due to the aftermath of the demons' plan involving the Kruvina. Defeat the Iltiswort for the safety of the herbalists and the people of the Croa Village.
+ETC_20160224_020268	A powerful monster named Devilglove is keeping people from chasing away the demons in the Novaha Monastery. Defeat the Deviglove to restore peace in the monastery.
+ETC_20160224_020269	The Colimencia in the Absenta Reservoir is drinking the red water and becoming more powerful. Defeat it before it's too late.
+ETC_20160224_020270	With all its residents missing, the Delmore Castle was invaded by a Denoptic. Defeat it and help Mage Melchioras destroy the remnants of the Kruvina experiment in Delmore Castle.
+ETC_20160224_020271	There are rumors of a Mothstem appearing among the pilgrims passing by the Galeed Plateau. Keep the pilgrims safe by defeating the Mothstem.
+ETC_20160224_020272	The evil energy gathered at Kateen Forest is attracting all sorts of dangerous monsters. The Blue Woodspirit in Saknis Plains is particularly threatening to the soldiers stationed there. Defeat the Blue Woodspirit and protect the soldiers.
+ETC_20160224_020273	The demons invading the Mage Tower are building up their forces. Defeat the Fire Lord that's occupying Mage Tower 2F to demoralize the demons.
+ETC_20160224_020274	Creation Turned Askew
+ETC_20160224_020275	The Dievdirbys Master received a letter from Tesla.{nl}Tesla created several Spirit Guide Owl Sculptures and the Sequoia to protect them. However, the Sequoia was corrupted by the demons' evil energy and is destroying the statues and setting fire to the forest. Tesla is now looking for a brave adventurer to defeat the Sequoia.
+ETC_20160224_020276	In A Forgotten Place
+ETC_20160224_020277	A letter arrived from Historian Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Royal Mausoleum of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
+ETC_20160224_020278	Demon Uprising
+ETC_20160224_020279	A message arrived from Goddess Vakarine.{nl}After the Revelators punished the Demon Lords in the Demon Prison, their second-in-command vassals are gathering forces to succeed to their positions. Goddess Vakarine and the Kupoles have yet to recover from recent events and are looking for a Revelator to help stop the demons.
+ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Critical Resistance and Maximum Weight{nl} {nl}- INT : Increase in Magic Attack{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20160224_020281	Nexon NGS error
+ETC_20160224_020282	Failed to reset IDSpace in XML.
+ETC_20160224_020283	Failed to enter instanced dungeon.
+ETC_20160224_020284	Corresponds to nullptr.
+ETC_20160224_020285	Failed to create virtual commander
+ETC_20160224_020286	Unable to find PROPERTY.
+ETC_20160224_020287	Server does not exist.
+ETC_20160224_020288	Incorrect Familiy Name String.
+ETC_20160224_020289	Index has exceeded limits.
+ETC_20160224_020290	Incorrect IP.
+ETC_20160224_020291	Incorrect Packet.
+ETC_20160224_020292	No callback designated in sprite event.
+ETC_20160224_020293	Failed to create key frame.
+ETC_20160224_020294	Unable to create aditional key frame immediately.
+ETC_20160224_020295	Defined textures twice.
+ETC_20160224_020296	Party-related error.
+ETC_20160224_020297	Value already exists.
+ETC_20160224_020298	Error occurred in text line-break function.
+ETC_20160224_020299	Incorrect col value in advlistbox maxrowcol properties.
+ETC_20160224_020300	To use SetItem without AddItem, use SetItem(pKey, column,...) to designate the Key of the corresponding line.
+ETC_20160224_020301	Lua Type does not match.
+ETC_20160224_020302	Value does not exist.
+ETC_20160224_020303	Buffer size exceeded.
+ETC_20160224_020304	Failed to create.
+ETC_20160224_020305	Failed to reset monster creation.
+ETC_20160224_020306	TX processing could not be completed.
+ETC_20160224_020307	Cannot add item.
+ETC_20160224_020308	Failed to load class.
+ETC_20160224_020309	Resource has already been depleted.
+ETC_20160224_020310	Incorrect call sequence. Refer to the following data.
+ETC_20160224_020311	Error occurred in object pool. Refer to the following data.
+ETC_20160224_020312	Authentication code error; forcing logout.
+ETC_20160224_020313	Unable to receive random coordinates; failed to create monster.
+ETC_20160224_020314	Modified string of attribute value exceeds length (max 1024 allowed). Value replaced by None.
+ETC_20160224_020315	Failed to load PVP world state. Processing as failed match.
+ETC_20160224_020316	Failed to close under PVP Game Room close request. Refer to corresponding room data.
+ETC_20160224_020317	Invalid PVP MapID.
+ETC_20160224_020318	Failed to load friend account ID.
+ETC_20160224_020319	Invalid Party Type found.
+ETC_20160224_020320	An error occurred while reading wholdDicID.xml.
+ETC_20160224_020321	Failed to read translation data.
+ETC_20160224_020322	Failed to reset ImcDic.
+ETC_20160224_020323	Shadow (mark) in incorrect position due to regeneration.
+ETC_20160224_020324	Unable to find texture image.
+ETC_20160224_020325	Memory exceeded, failed to create NODE in message cue.
+ETC_20160224_020326	Failed to load sector in collision Ray calculation.
+ETC_20160224_020327	Failed to load sector when adding Dynamic OBB.
+ETC_20160224_020328	Failed to load motion during model creation.
+ETC_20160224_020329	Sound effect(s) do(es) not exist in current sound list.
+ETC_20160224_020330	Layer(s) do(es) not exist in current layer list.
+ETC_20160224_020331	Unable to read component list.
+ETC_20160224_020332	Identical components exist.
+ETC_20160224_020333	Incorrect type.
+ETC_20160224_020334	Unable to find event. Check xml_client/ui_event.xml.
+ETC_20160224_020335	Failed to load data
+ETC_20160224_020336	Unable to find file.
+ETC_20160224_020337	Failed to register data.
+ETC_20160224_020338	Failed to insert data.
+ETC_20160224_020339	Failed to delete data.
+ETC_20160224_020340	Failed to compress data.
+ETC_20160224_020341	Data does not match designated size.
+ETC_20160224_020342	Update script corresponds to None.
+ETC_20160224_020343	Unable to use tx in main thread. Please use a custom tx.
+ETC_20160224_020344	Unable to find Lua script file.
+ETC_20160224_020345	Failed to transmit connection checking packet for PVP game.
+ETC_20160224_020346	Incorrect ip found in packet. Disconnecting from server.
+ETC_20160224_020347	Failed to insert stream in packet. Disconnecting from server.
+ETC_20160224_020348	Failed to load server. Incorrect group ID found in packet. Disconnecting from server.
+ETC_20160224_020349	Failed to load server. Incorrect group ID found in packet. Disconnecting from server.
+ETC_20160224_020350	Incorrect server type found in packet. Disconnecting from server.
+ETC_20160224_020351	Failed to verify packet parser.
+ETC_20160224_020352	Failed to insert server.
+ETC_20160224_020353	Invalid packet.
+ETC_20160224_020354	Failed to create HugeNetStream in reset stage.
+ETC_20160224_020355	Failed to search server. Unable to find servers.
+ETC_20160224_020356	Unable to read world table server list. Or, server list may be empty. Check daemon.xml.
+ETC_20160224_020357	Failed to reply to request.
+ETC_20160224_020358	Failed to connect through IP.
+ETC_20160224_020359	Not connected to Mongo DB. Unable to load query.
+ETC_20160224_020360	Failed to lock image texture D3D Rect.
+ETC_20160224_020361	Failed to create particle emitter.
+ETC_20160224_020362	Failed to load [CL1000] Fork Particle Texture.
+ETC_20160224_020363	Failed to create Fork Particle.
+ETC_20160224_020364	Failed to create effect base.
+ETC_20160224_020365	Failed to create sound instance.
+ETC_20160224_020366	Unable to find sound.
+ETC_20160224_020367	Error occurred in FMOD. Refer to the following data.
+ETC_20160224_020368	Failed to load UI addon.
+ETC_20160224_020369	Error occurred inside 3DDriver.
+ETC_20160224_020370	Unreleased thread(s) found.
+ETC_20160224_020371	Failed to lock data.
+ETC_20160224_020372	Failed to reset item.
+ETC_20160224_020373	Unable to find item.
+ETC_20160224_020374	Unable to start thread. Refer to the following data.
+ETC_20160224_020375	SSO Debugging Log
+ETC_20160224_020376	Waiting Time Exceeded
+ETC_20160224_020377	User Session Data
+ETC_20160224_020378	Connection terminated by disconnection request.
+ETC_20160224_020379	Used memory capacity and total controlling memory capacity of UI addon(s).
+ETC_20160224_020380	About memory used for images
+ETC_20160224_020381	About memory used for UI classes
+ETC_20160224_020382	Debugging TEST log
+ETC_20160224_020383	UI Log
+ETC_20160224_020384	Reaction time after clicking OBB TEST
+ETC_20160224_020385	Processing overtime log
+ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to multilingual word order issues.
 ETC_20160224_020387	Convent Auto Matching
 ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20160224_020389	Place an equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nlAfter a successful enhancement, the Potential of the equipment will reduce by one. Right-click to use.
@@ -20402,7 +20402,7 @@ ETC_20160224_020402	Token [Event]
 ETC_20160224_020403	Token: 15 Days [Event]
 ETC_20160224_020404	Contains a variety of special benefits for all your characters in this server for 15 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures
 ETC_20160224_020405	Earth Tower Entrance
-ETC_20160224_020406
+ETC_20160224_020406	Small_Area of Ruins_Tombstone03
 ETC_20160224_020407	Goddess Zemyna
 ETC_20160224_020408	Earth Tower Iron Gate
 ETC_20160224_020409	Earth Tower Merchant
@@ -20417,7 +20417,7 @@ ETC_20160224_020417	Kupole3_3D
 ETC_20160224_020418	Ask about the Rune Stone
 ETC_20160224_020419	Use Rune Caster Attributes
 ETC_20160224_020420	Buy Rune Caster Items
-ETC_20160224_020421
+ETC_20160224_020421	Following Battle NPC
 ETC_20160224_020422	Virtov Set
 ETC_20160224_020423	Ice Property Attack {img green_up_arrow 16 16}12
 ETC_20160224_020424	Ice Property Attack {img green_up_arrow 16 16}26
@@ -20436,20 +20436,20 @@ ETC_20160224_020436	DEX {img green_up_arrow 16 16}25
 ETC_20160224_020437	Lolopanther Plate Set
 ETC_20160224_020438	HP Recovery {img green_up_arrow 16 16}100
 ETC_20160224_020439	STR {img green_up_arrow 16 16}25
-ETC_20160224_020440
-ETC_20160224_020441
-ETC_20160224_020442
-ETC_20160224_020443
-ETC_20160224_020444
-ETC_20160224_020445
-ETC_20160224_020446
-ETC_20160224_020447
-ETC_20160224_020448
-ETC_20160224_020449
-ETC_20160224_020450
-ETC_20160224_020451
-ETC_20160224_020452
-ETC_20160224_020453
+ETC_20160224_020440	Max silver allowed to users upon item drop
+ETC_20160224_020441	Nexon Internet Cafe additional EXP
+ETC_20160224_020442	Event Scene Quest normal monster drop rate 1/10
+ETC_20160224_020443	Leave this value as 1 to use a new NGS source
+ETC_20160224_020444	User kick by NGS
+ETC_20160224_020445	Check sp_market_item_get?
+ETC_20160224_020446	Adventure Journal kill ranking min record: 10
+ETC_20160224_020447	Adventure Journal damage ranking min record: 10
+ETC_20160224_020448	Item enhancement ranking min record: 10
+ETC_20160224_020449	Instanced Dungeon Reset Time 6 AM
+ETC_20160224_020450	Max No of Chat Windows Open
+ETC_20160224_020451	How many messages combined in one speech bubble?
+ETC_20160224_020452	Messages added to current time in chat text
+ETC_20160224_020453	Progression
 ETC_20160224_020454	Maven
 ETC_20160224_020455	Recipe - Attack Boost Potion: Stab
 ETC_20160224_020456	A recipe for creating potions.
@@ -20537,60 +20537,60 @@ ETC_20160224_020537	A recipe to craft a costume. Right-click to register this re
 ETC_20160224_020538	5v5 Auto-Match (Rank)
 ETC_20160224_020539	2v2 Auto-Match
 ETC_20160224_020540	Rune Caster Advancement
-ETC_20160224_020541
-ETC_20160224_020542
-ETC_20160224_020543
-ETC_20160224_020544
-ETC_20160224_020545
-ETC_20160224_020546
-ETC_20160224_020547
+ETC_20160224_020541	Access to game denied by Xigncode.
+ETC_20160224_020542	Failed to verify access.
+ETC_20160224_020543	Duplicate login. Access denied.
+ETC_20160224_020544	Session access denied.
+ETC_20160224_020545	NGS login failed.
+ETC_20160224_020546	Access denied by NGS.
+ETC_20160224_020547	Detected by NGS. Access denied.
 ETC_20160224_020548	Dialogue List
-ETC_20160224_020549	Your level is not high enough{nl}Please check the required level in the description
-ETC_20160224_020550	Male characters cannot equip this{nl}Please check the required gender in the description
-ETC_20160224_020551	Female characters cannot equip this{nl}Please check the required gender in the description
-ETC_20160224_020552
+ETC_20160224_020549	Your level is not high enough{nl}Please check the required{nl}level in the description
+ETC_20160224_020550	Male characters cannot equip this{nl}Please check the required{nl}gender in the description
+ETC_20160224_020551	Female characters cannot equip this{nl}Please check the required{nl}gender in the description
+ETC_20160224_020552	Game access is currently restricted{nl}due to a server maintenance or other reasons.{nl}For more details, please contact{nl}customer service through the homepage.
 ETC_20160224_020553	You are currently infusing magic into an item. Please try again later.
 ETC_20160224_020554	You have exceeded the amount of silver you can carry.
 ETC_20160224_020555	You have exceeded the maximum amount of registrations.
-ETC_20160224_020556	Up to 2 times with the Token benefits
-ETC_20160224_020557	Are you sure you want to expand{nl}{SLOT} slots for {Silver} silver?
+ETC_20160224_020556	Up to 2 times with Token benefits
+ETC_20160224_020557	Are you sure you want to expand{nl}{SLOT} slot(s) for {Silver} silver?
 ETC_20160224_020558	Cannot be used to go back to the area.
 ETC_20160224_020559	This item cannot be awakened.
 ETC_20160224_020560	When awakening an item, your magic scroll and the item's current awakened options will disappear. Do you still want to proceed?
 ETC_20160224_020561	 Register to the Adventure Journal?
 ETC_20160224_020562	No Options
-ETC_20160224_020563	
+ETC_20160224_020563	The properties of this item was changed during the trade. Please try again.
 ETC_20160224_020564	You cannot carry more than {MAX} silver.
-ETC_20160224_020565	
+ETC_20160224_020565	Usable until [{Time}] 
 ETC_20160224_020566	Unexpirable
 ETC_20160224_020567	Do not show
 ETC_20160224_020568	Show
 ETC_20160224_020569	Stat
 ETC_20160224_020570	[Premium] Male Hairstyle
 ETC_20160224_020571	[Premium] Female Hairstyle
-ETC_20160224_020572	Open 1 more time
-ETC_20160224_020573
-ETC_20160224_020574
+ETC_20160224_020572	Open One More Time
+ETC_20160224_020573	You do not have any card.
+ETC_20160224_020574	Personal : {count}/{max} Quests Completed{nl}Party : 
 ETC_20160224_020575	Defeat {MONSTER}
-ETC_20160224_020576
-ETC_20160224_020577
+ETC_20160224_020576	Proceed with this number combination?
+ETC_20160224_020577	Continue
 ETC_20160224_020578	Give up
-ETC_20160224_020579
+ETC_20160224_020579	Ask for repair
 ETC_20160224_020580	Show the alphabet
-ETC_20160224_020581
-ETC_20160224_020582
-ETC_20160224_020583
-ETC_20160224_020584
-ETC_20160224_020585
+ETC_20160224_020581	Hand over one TREE set ({COUNT}/{MAX})
+ETC_20160224_020582	Hand over five TREE sets ({COUNT}/{MAX})
+ETC_20160224_020583	Hand over one SAVIOR set ({COUNT}/{MAX})
+ETC_20160224_020584	Hand over five SAVIOR sets ({COUNT}/{MAX})
+ETC_20160224_020585	Hand over TREE OF SAVIOR ({COUNT}/{MAX})
 ETC_20160224_020586	Acquired the {TEXT} alphabet!
-ETC_20160224_020587
-ETC_20160224_020588	
-ETC_20160224_020589
-ETC_20160224_020590	Harugal escaped!{nl}()
+ETC_20160224_020587	Acquired 5 pieces of leftover food
+ETC_20160224_020588	 unit(s)
+ETC_20160224_020589	Harugal escaped!{nl}()
+ETC_20160224_020590	You've received damage for attacking without immunity!
 ETC_20160224_020591	Sphere of Ruin
 ETC_20160224_020592	About the Earth Tower
 ETC_20160224_020593	About Goddess Zemyna
-ETC_20160224_020594	
+ETC_20160224_020594	Start Lolopanther Area
 ETC_20160224_020595	Ask about the origin of the Earth Tower
 ETC_20160224_020596	Ask where the goddess is
 ETC_20160224_020597	Ask if you can see the exchangeable items
@@ -20605,13 +20605,13 @@ ETC_20160224_020605	The aura of light has gathered
 ETC_20160224_020606	The magic has disappeared
 ETC_20160224_020607	The magic has gathered
 ETC_20160224_020608	 received a divine aura
-ETC_20160224_020609	
-ETC_20160224_020610	
+ETC_20160224_020609	I really need it; can I have it?
+ETC_20160224_020610	Oh, it's nothing
 ETC_20160224_020611	Collecting the Rune Stone
-ETC_20160224_020612
-ETC_20160224_020613
-ETC_20160224_020614
-ETC_20160224_020615
+ETC_20160224_020612	Looking through the box…
+ETC_20160224_020613	I'll try
+ETC_20160224_020614	Extracting...
+ETC_20160224_020615	You can only use this at King's Plateau
 ETC_20160224_020616	Mihail has fallen.
 ETC_20160224_020617	There are no items owned by you nearby.
 ETC_20160224_020618	There is currently a guild member in the party that is at war with you.{nl}You cannot join this party.
@@ -20622,11 +20622,11 @@ ETC_20160224_020622	Only the guild master can use this.
 ETC_20160224_020623	You cannot leave the guild during a war.
 ETC_20160224_020624	Guild Boss Hunting
 ETC_20160224_020625	The {Name1} guild has declared war against the {Name2} guild.
-ETC_20160224_020626	Cancel War
-ETC_20160224_020627	Are you really sure you want to cancel this war?
-ETC_20160224_020628	Once a war is declared, it cannot be canceled until {Minute} minutes have passed.
-ETC_20160224_020629	The {Name1} guild has canceled their declaration of war on the {Name2} guild.
-ETC_20160224_020630	Only the side that declared the war can cancel it.
+ETC_20160224_020626	Withdraw from War
+ETC_20160224_020627	Are you really sure you want to withdraw from this war?
+ETC_20160224_020628	Once a declaration of war has been made, it cannot be withdrawn until {Minute} minutes have passed.
+ETC_20160224_020629	The {Name1} guild has withdrawn their declaration of war against the {Name2} guild.
+ETC_20160224_020630	Only the side that declared the war can withdraw it.
 ETC_20160224_020631	{Time} hour(s) remain in the war with the {Name} guild.
 ETC_20160224_020632	Your Guild Tower is under attack by the {Name} guild.
 ETC_20160224_020633	The war between the {Name1} guild and the {Name2} guild has ended.
@@ -20635,23 +20635,23 @@ ETC_20160224_020635	The {Name} guild was destroyed.
 ETC_20160224_020636	Enemy
 ETC_20160224_020637	Time left until rebuilding
 ETC_20160224_020638	Cannot be rebuilt.
-ETC_20160224_020639	
+ETC_20160224_020639	Guild member {Name} has been attacked by {From} of {FromGuild}.
 ETC_20160224_020640	Guild member {Name} has defeated {Target} of {TargetGuild}.
 ETC_20160224_020641	Canceling a war is not possible during a ceasefire.
 ETC_20160224_020642	Obtained an item in the guild storage box.
 ETC_20160224_020643	Select the guild member to receive the item.
 ETC_20160224_020644	You cannot build a tower during a war.
-ETC_20160224_020645	
+ETC_20160224_020645	Your tower has been destroyed. Moving to the outside in {Minute} minutes.
 ETC_20160224_020646	Can rebuild
 ETC_20160224_020647	Guild Event{nl}Would you like to start with{nl}{GuildEvent}?
 ETC_20160224_020648	Guild Storage Retrieve Item
 ETC_20160224_020649	You don't have enough tickets.
 ETC_20160224_020650	Can only be used in the Guild Hangout.
-ETC_20160224_020651	The number of trades allowed will be deducted by {Value}{nl}Would you like to continue?
+ETC_20160224_020651	The number of trades{nl}allowed will deduct by {Value}{nl}Would you like to continue?
 ETC_20160224_020652	Left-click the item to select.
 ETC_20160224_020653	You cannot remove the tower during a war.
 ETC_20160224_020654	You cannot register more than the number of tradable items allowed.
-ETC_20160224_020655	
+ETC_20160224_020655	The item currently equipped is enchanted and cannot be awakened.
 ETC_20160224_020656	Storing an item in Team Storage{nl}reduces its Potential.{nl}However, it does not reduce when taking it out.{nl}Do you still want to store it?
 ETC_20160224_020657	Storing an item in Team Storage{nl}reduces the number of items you can trade.{nl}Do you still want to store it?
 ETC_20160224_020658	You've exhausted your available trades.
@@ -20661,7 +20661,7 @@ ETC_20160224_020661	Enchanted Option
 ETC_20160224_020662	This collection is shared with your team. It cannot be returned once it has been added. Would you like to add this item?
 ETC_20160224_020663	You have already registered this recipe.
 ETC_20160224_020664	The recipe has been registered.
-ETC_20160224_020665	
+ETC_20160224_020665	Enable Protection Mode
 ETC_20160224_020666	Force Kick
 ETC_20160224_020667	Go to
 ETC_20160224_020668	This character cannot receive Likes.
@@ -20669,85 +20669,86 @@ ETC_20160224_020669	You might lose some of your gems when you become incapable o
 ETC_20160224_020670	You might lose some of your silver and gems when you become incapable of combat in this current area.
 ETC_20160224_020671	Would you like to spectate this game?
 ETC_20160224_020672	Current Points
-ETC_20160224_020673
-ETC_20160224_020674
-ETC_20160224_020675
-ETC_20160224_020676
+ETC_20160224_020673	Total Points Cost
+ETC_20160224_020674	Level Dependent
+ETC_20160224_020675	You have exceeded the daily amount allowed to purchase.
+ETC_20160224_020676	Daily Amount : {Count}
 ETC_20160224_020677	Team Battle League Champion
 ETC_20160224_020678	Team Battle League, rank {Rank}
 ETC_20160224_020679	Rank {Rank} or higher are allowed.
 ETC_20160224_020680	Incapable of combat.
-ETC_20160224_020681	You can enter up to {COUNT} times. Resets daily at {HOUR}.
+ETC_20160224_020681	You can enter up to {COUNT} times. Resets daily at {HOUR} AM EST.
 ETC_20160224_020682	(+{COUNT} extra entry for users with Token benefits)
-ETC_20160224_020683
-ETC_20160224_020684
-ETC_20160224_020685
-ETC_20160224_020686
+ETC_20160224_020683	Collect tree leaves
+ETC_20160224_020684	Acquired corroded tree leaves!
+ETC_20160224_020685	You already acquired the corroded tree leaves!
+ETC_20160224_020686	The box cannot be opened yet!
 ETC_20160224_020687	About the clients
 ETC_20160224_020688	This card is already registered.
 ETC_20160224_020689	Check the property of the card.
-ETC_20160224_020690	You are unable to trade because you do not have the Token benefits.
+ETC_20160224_020690	You are unable to trade because you do not have Token benefits.
 ETC_20160224_020691	Number of trades allowed
 ETC_20160224_020692	Number of trades allowed.
-ETC_20160224_020693
-ETC_20160224_020694
-ETC_20160224_020695
-ETC_20160224_020696
-ETC_20160224_020697
-ETC_20160224_020698
-ETC_20160224_020699
-ETC_20160224_020700
-ETC_20160224_020701
-ETC_20160224_020702
-ETC_20160224_020703
-ETC_20160224_020704
-ETC_20160224_020705
-ETC_20160224_020706
-ETC_20160224_020707
-ETC_20160224_020708
-ETC_20160224_020709
-ETC_20160224_020710
+ETC_20160224_020693	The target has reached the maximum trades allowed.
+ETC_20160224_020694	Resets all stats.
+ETC_20160224_020695	Can be used only by Token users.
+ETC_20160224_020696	Refugee Salyamonas
+ETC_20160224_020697	Refugee Relyn
+ETC_20160224_020698	Elder Frege
+ETC_20160224_020699	Refugee Elius
+ETC_20160224_020700	Merchant Simonas
+ETC_20160224_020701	Merchant Felicia
+ETC_20160224_020702	Soldier Basilius
+ETC_20160224_020703	Soldier Ladal
+ETC_20160224_020704	Soldier Sloch
+ETC_20160224_020705	Lord Lieutenant
+ETC_20160224_020706	Magic Tools
+ETC_20160224_020707	Cranto Tent
+ETC_20160224_020708	Soldier
+ETC_20160224_020709	Injured Soldier
+ETC_20160224_020710	Injured Refugee
 ETC_20160224_020711	Team Battle League{nl}     Valis
 ETC_20160224_020712	[Kedoran Merchant Alliance]{nl}  Relic Collector
 ETC_20160224_020713	Earth Tower Notice Board
 ETC_20160224_020714	[Rune Caster Master]{nl}      Shelly Pennington
 ETC_20160224_020715	Team 2 wins
 ETC_20160224_020716	Team 1 wins
-ETC_20160224_020717	
+ETC_20160224_020717	Gorkas came running from the Royal Mausoleum Constructors' Church!{nl}Defeat Gorkas!
 ETC_20160224_020718	Tormenta has appeared
-ETC_20160224_020719	Defeat the escaped demons from Demon Prison
-ETC_20160224_020720	Velpede has blocked the entry of Demon Prison{nl}Defeat Velpede!
+ETC_20160224_020719	Defeat the escaped demons from the Demon Prison
+ETC_20160224_020720	Velpede has blocked the entry of the Demon Prison{nl}Defeat Velpede!
 ETC_20160224_020721	Harugal has appeared!
 ETC_20160224_020722	A boss monster has appeared!
 ETC_20160224_020723	A boss monster has appeared!
-ETC_20160224_020724	
-ETC_20160224_020725	
+ETC_20160224_020724	5 minutes left!!
+ETC_20160224_020725	Upon Completion
 ETC_20160224_020726	You will return to the entrance in 30 seconds
-ETC_20160224_020727
-ETC_20160224_020728
-ETC_20160224_020729
-ETC_20160224_020730
+ETC_20160224_020727	The iron door has been removed.
+ETC_20160224_020728	Go to the village
+ETC_20160224_020729	Go back to the entrance
+ETC_20160224_020730	5 minutes left in the instanced dungeon!
 ETC_20160224_020731	Defeat the boss monster
-ETC_20160224_020732
+ETC_20160224_020731	Defeat the boss monster
+ETC_20160224_020732	Returning to the entrance in 30 seconds!
 ETC_20160224_020733	Open
-ETC_20160224_020734
+ETC_20160224_020734	The Bramble Bush has disappeared!
 ETC_20160224_020735	Thorn Forest Gate
-ETC_20160224_020736
-ETC_20160224_020737
-ETC_20160224_020738
-ETC_20160224_020739
-ETC_20160224_020740
-ETC_20160224_020741
-ETC_20160224_020742
-ETC_20160224_020743
-ETC_20160224_020744
-ETC_20160224_020745
-ETC_20160224_020746
+ETC_20160224_020736	The final gate is open!
+ETC_20160224_020737	Thorn Gate
+ETC_20160224_020738	Open
+ETC_20160224_020739	The thorn gate is open!
+ETC_20160224_020740	5 minutes from Phyracon
+ETC_20160224_020741	Mage Tower mission accomplished!
+ETC_20160224_020742	Guild raid rewards have been awarded{nl}Returning to Mage Tower 4F in 60 seconds
+ETC_20160224_020743	Protect the statue of Goddess Zemyna{nl}Defeat Kirmeleech!
+ETC_20160224_020744	Summoning Circle
+ETC_20160224_020745	Destroy all three summoning circles!
+ETC_20160224_020746	Defeat the monsters{nl}and take Dullahan down!
 ETC_20160224_020747	Defeat all monsters!
 ETC_20160224_020748	Destroyed Boowook
 ETC_20160224_020749	Talk to Ruina for information about a request!
-ETC_20160224_020750
-ETC_20160224_020751
+ETC_20160224_020750	A scream is heard coming from the area below!
+ETC_20160224_020751	Protect Ruina and take her to a safe place!
 ETC_20160224_020752	Collect the bomb material and defeat the monster!
 ETC_20160224_020753	Pile of Leaves
 ETC_20160224_020754	Collect the corroded leaves!
@@ -20756,13 +20757,13 @@ ETC_20160224_020756	Deliver the bomb material to Ruina!
 ETC_20160224_020757	Gate
 ETC_20160224_020758	Defeat Achat!
 ETC_20160224_020759	Defeat Tomb Lord!
-ETC_20160224_020760
+ETC_20160224_020760	Attack both sides of the Royal Cube to activate it!
 ETC_20160224_020761	Defeat Minotaur!
-ETC_20160224_020762
+ETC_20160224_020762	Attack the Royal Mausoleum Gate to open it!
 ETC_20160224_020763	Defeat all monsters to wake up Tomb Lord!
-ETC_20160224_020764
-ETC_20160224_020765
-ETC_20160224_020766
+ETC_20160224_020764	Attack the center Royal Cube to activate it and wake up Shnayim!
+ETC_20160224_020765	Entered Earth Tower's Lolopanther Area
+ETC_20160224_020766	Enter Earth Tower's Lolopanther Area
 ETC_20160224_020767	Wait for Kupole Lhuta
 ETC_20160224_020768	The passage to 1F opens after 20 seconds
 ETC_20160224_020769	Moving to 1F
@@ -20855,7 +20856,7 @@ ETC_20160224_020855	The mission for Earth Tower 3F was a success!{nl}Move to the
 ETC_20160224_020856	Earth Tower 4F
 ETC_20160224_020857	The first objective has begun{nl}Destroy the Panto Totem within 270 seconds
 ETC_20160224_020858	Defeat the Evil Spirit
-ETC_20160224_020859	
+ETC_20160224_020859	Receive
 ETC_20160224_020860	Monsters are coming
 ETC_20160224_020861	More monsters are coming
 ETC_20160224_020862	Destroy the Panto Totem
@@ -20880,7 +20881,7 @@ ETC_20160224_020880	The mission for Earth Tower 7F was a success!{nl}Move to the
 ETC_20160224_020881	Earth Tower 8F
 ETC_20160224_020882	The first objective has begun{nl}Protect the Light Crystal while charging it with Light Energy
 ETC_20160224_020883	Monsters have appeared aiming to destroy the Light Crystal
-ETC_20160224_020884	
+ETC_20160224_020884	The demons are attempting an all-out attack as a last resort
 ETC_20160224_020885	Protect the Light Crystal
 ETC_20160224_020886	The mission for Earth Tower 8F will begin shortly
 ETC_20160224_020887	The mission for Earth Tower 8F was a success!{nl}Move to the next floor
@@ -20898,3 +20899,268 @@ ETC_20160224_020898	Purify 200 Demon Energy
 ETC_20160224_020899	Destroy the Stack of Furniture to make room!
 ETC_20160224_020900	Keep the torch on for 3 minutes!
 ETC_20160224_020901	Defeat the boss monsters!
+ETC_20160310_020902	Blue Riteris
+ETC_20160310_020903	Brown Riteris
+ETC_20160310_020904	Oh... Divine Tree...
+ETC_20160310_020905	They are traitors.
+ETC_20160310_020906	Divine Tree... Please save us...
+ETC_20160310_020907	Save us...
+ETC_20160310_020908	Oh... Divine Tree
+ETC_20160310_020909	Blessing of the Divine Tree.
+ETC_20160310_020910	I believe in the Divine Tree.
+ETC_20160310_020911	Demons have appeared!
+ETC_20160310_020912	Protect the villagers from the demons!
+ETC_20160310_020913	I think that this is enough.
+ETC_20160310_020914	Priest Dominikas
+ETC_20160310_020915	Ple.. Please calm down, everyone!
+ETC_20160310_020916	Ohh... Divine Tree...
+ETC_20160310_020917	Ug...Ugh!
+ETC_20160310_020918	We've been attacked by demons after that person came here!
+ETC_20160310_020919	The blasphemous one has gone over the wall!
+ETC_20160310_020920	I believe in the Divine Tree!
+ETC_20160310_020921	Eeek! Bugs!
+ETC_20160310_020922	Come to think of it, he's suspicious!
+ETC_20160310_020923	Priest Dominikas! What is going on?
+ETC_20160310_020924	Glutton has appeared from the magic circle of Dominikas!{nl}Defeat Dominikas!
+ETC_20160310_020925	A strange scent has spread instantly!
+ETC_20160310_020926	Defeat the Carapace that has been attracted by the scent!
+ETC_20160310_020927	Stop right there!
+ETC_20160310_020928	Mayor Moze
+ETC_20160310_020929	How could you do something like that!
+ETC_20160310_020930	Bury him before someone sees us!
+ETC_20160310_020931	Why are you all here...?
+ETC_20160310_020932	Darn!
+ETC_20160310_020933	Monsters are gathering to the smell of the bag!
+ETC_20160310_020934	Monsters have started attacking each other for some reason!
+ETC_20160310_020935	A lot of monsters have gathered{nl}Defeat all the monsters that stand in your way!
+ETC_20160310_020936	Sarma
+ETC_20160310_020937	The experiment was a success!
+ETC_20160310_020938	Now, nobody can stop me!
+ETC_20160310_020939	Attack that person!
+ETC_20160310_020940	Oh dear! Did Sarma's experiment actually succeed?
+ETC_20160310_020941	Lucienne seems to be in trouble!
+ETC_20160310_020942	Carnivore seems to be suffering from the Vaidotas' Neutralizer you've sprayed.{nl}Defeat Carnivore and save Lucienne!
+ETC_20160310_020943	Someone seems to be in danger!
+ETC_20160310_020944	Drive the monster away{nl}and save the person in danger!
+ETC_20160310_020945	Help!
+ETC_20160310_020946	Protect Lucienne until the reaction reagent is finished.
+ETC_20160310_020947	The frozen soldiers suddenly begin to move!
+ETC_20160310_020948	They do not seem to be friendly towards you{nl}Avoid the soldiers and find Necromancer Lemija!
+ETC_20160310_020949	Frozen Soldier
+ETC_20160310_020950	Necromancer Faustas has called in monsters to aid him{nl}Protect Lemija from the monsters!
+ETC_20160310_020951	Faustas mutated the corpse of Adomas into a monster!
+ETC_20160310_020952	It seems that a confrontation is inevitable{nl}Defeat the mutated Adomas!
+ETC_20160310_020953	No time to pay attention...
+ETC_20160310_020954	Please... Listen to me!!
+ETC_20160310_020955	Cryomancer Ehlma
+ETC_20160310_020956	Adomas!!
+ETC_20160310_020957	Tranquilizer Powder
+ETC_20160310_020958	You cannot move because of the Tranquilizer Powder.
+ETC_20160310_020959	You cannot do that right now.
+ETC_20160310_020960	Roots of the Earth
+ETC_20160310_020961	It seems as if your body is firmly bound to the ground
+ETC_20160310_020962	Magic Depletion
+ETC_20160310_020963	Your magic is currently depleted.
+ETC_20160310_020964	The false scripture is summoning monsters.
+ETC_20160310_020965	Your level has currently been reduced.
+ETC_20160310_020966	There is an abnormal amount of chat rooms.
+ETC_20160310_020967	Chat Room Error
+ETC_20160310_020968	Dhalga Sentry
+ETC_20160310_020969	Lhu'uvik Coral Reef
+ETC_20160310_020970	Dharaman Lagoon
+ETC_20160310_020971	Atskiles Cay
+ETC_20160310_020972	Nugara Sandbank
+ETC_20160310_020973	Research Material Warehouse
+ETC_20160310_020974	Temporary Research Facility
+ETC_20160310_020975	Menka Knoll
+ETC_20160310_020976	Angis Trail
+ETC_20160310_020977	Old Camp
+ETC_20160310_020978	Juice Collection Site
+ETC_20160310_020979	Grigalius Vacant Lot
+ETC_20160310_020980	Seed Depository
+ETC_20160310_020981	Forest of Prayer Entrance
+ETC_20160310_020982	Siltas Vacant Lot
+ETC_20160310_020983	Ownerless Reclaimed Land
+ETC_20160310_020984	Pamesti Village
+ETC_20160310_020985	Abandoned Farm
+ETC_20160310_020986	Operations Camp
+ETC_20160310_020987	Herb Broker Tent
+ETC_20160310_020988	Stebbe's Groom
+ETC_20160310_020989	Atvira Oratory
+ETC_20160310_020990	Nephala Oratory
+ETC_20160310_020991	Beatodairiskas Corridor
+ETC_20160310_020992	Garden Shelter
+ETC_20160310_020993	Nebylus Garden
+ETC_20160310_020994	Veyrhas Hall
+ETC_20160310_020995	Annex Laboratory
+ETC_20160310_020996	Principal Corridor
+ETC_20160310_020997	Namhoss Parvis Intersection
+ETC_20160310_020998	Priest Quarters
+ETC_20160310_020999	Principal Library
+ETC_20160310_021000	Backdoor Entrance
+ETC_20160310_021001	Veil Gallery
+ETC_20160310_021002	Viyme Fountain
+ETC_20160310_021003	Pagarba Chapel
+ETC_20160310_021004	Monastery Courtyard
+ETC_20160310_021005	Principal Laboratory
+ETC_20160310_021006	Old Temporary Workshop
+ETC_20160310_021007	Minkatos Forkroad
+ETC_20160310_021008	Spega Springs
+ETC_20160310_021009	Soldier's Camp
+ETC_20160310_021010	Sielvartas Forest Road
+ETC_20160310_021011	Abandoned Mine Entrance
+ETC_20160310_021012	Ars Refuge
+ETC_20160310_021013	Kansia Brookside
+ETC_20160310_021014	Zanas
+ETC_20160310_021015	Secret Device1
+ETC_20160310_021016	Secret Device2
+ETC_20160310_021017	Secret Device3
+ETC_20160310_021018	Pentagonal Pillar
+ETC_20160310_021019	Male Necromancer
+ETC_20160310_021020	Female Necromancer
+ETC_20160310_021021	Female Cryomancer
+ETC_20160310_021022	Male Necromancer_2
+ETC_20160310_021023	Coral Reef
+ETC_20160310_021024	Blue Coral
+ETC_20160310_021025	Coral Wagon
+ETC_20160310_021026	Red Coral
+ETC_20160310_021027	Fallen Carnivore
+ETC_20160310_021028	Fedimian Storage Keeper
+ETC_20160310_021029	Lump of Vines
+ETC_20160310_021030	Crumbling Vines
+ETC_20160310_021031	Elgos Monastery Vines
+ETC_20160310_021032	Share tales of battle
+ETC_20160310_021033	Share stories of adventure
+ETC_20160310_021034	Jiangshi
+ETC_20160310_021035	Cheers
+ETC_20160310_021036	Defeated
+ETC_20160310_021037	Scatter Flowers
+ETC_20160310_021038	Thanks
+ETC_20160310_021039	Cossack Dance
+ETC_20160310_021040	Tsk
+ETC_20160310_021041	Read the instruction manual after finding the Tidying Chest
+ETC_20160310_021042	Tidy up the laboratory equipment in the Tidying Chest
+ETC_20160310_021043	Identify the 1st chapter of the Lost Research Notes
+ETC_20160310_021044	Identify the 2nd chapter of the Lost Research Notes
+ETC_20160310_021045	Identify the 3rd chapter of the Lost Research Notes
+ETC_20160310_021046	Put the ingredients on the Alchemy Magic Circle
+ETC_20160310_021047	Emancipate the magic from the tombstone that is confining magic
+ETC_20160310_021048	Retrieve the completed ingredients from the Alchemy Magic Circle
+ETC_20160310_021049	Find the hidden items by continuously checking the contents of the pots
+ETC_20160310_021050	Collect information from the refugees
+ETC_20160310_021051	Search the Suspicious Pouch
+ETC_20160310_021052	Find Necromancer Lemija
+ETC_20160310_021053	Lead Lemija to the body of Adomas
+ETC_20160310_021054	Search the tracks left by the soldiers at the Soldier's Camp
+ETC_20160310_021055	Absorb the magic indwelling in the Frozen Soldier
+ETC_20160310_021056	Go to Faustas' Hideout with Lemija
+ETC_20160310_021057	Deliver the letter
+ETC_20160310_021058	Search the abandoned tent for clues
+ETC_20160310_021059	Protect Lucienne Winterspoon until the reagent is completed
+ETC_20160310_021060	Move to the Tree Vines with Lucienne
+ETC_20160310_021061	Test Lucienne's reagent
+ETC_20160310_021062	For Continued Research (1)
+ETC_20160310_021063	Planting Herb Seeds
+ETC_20160310_021064	Listen to Dominikas's sermon
+ETC_20160310_021065	Absorb Demon Souls
+ETC_20160310_021066	Protect the Villagers
+ETC_20160310_021067	Search the Annex Laboratory
+ETC_20160310_021068	Search for surviving Monks
+ETC_20160310_021069	HP Recovery {img green_up_arrow 16 16}190
+ETC_20160310_021070	Buyable
+ETC_20160310_021071	{ol}{@st45w3}{s18}Increased by {Auto_1} {Auto_2}
+ETC_20160310_021072	Letas' Divine Tree is nowhere to be seen {nl}Monsters reacting to the forest's energy start to attack!
+ETC_20160310_021073	There is a call for help from Gatre on the instruction manual!{nl}Return to Gatre after tidying up the chest
+ETC_20160310_021074	Tidying Research Equipment
+ETC_20160310_021075	Checking Documents
+ETC_20160310_021076	You have found the documents that Gatre mentioned
+ETC_20160310_021077	You have already checked these documents
+ETC_20160310_021078	Sprinkling Tranquilizer Powder
+ETC_20160310_021079	Gathering Blood
+ETC_20160310_021080	There are no targets nearby to use the Tranquilizer Powder on
+ETC_20160310_021081	Looking for the leaves of overgrown plants
+ETC_20160310_021082	Looking for similar medicines
+ETC_20160310_021083	Putting ingredients on the magic circle
+ETC_20160310_021084	You have emancipated the magic from the tombstone{nl}Retrieve the completed liquid from the transmutation magic circle
+ETC_20160310_021085	You have put ingredients on the transmutation magic circle{nl}Now emancipate the magic from the tombstone!
+ETC_20160310_021086	First, read the instruction manual provided by Gatre
+ETC_20160310_021087	You have tidied all of the laboratory equipment{nl}Return to Gatre
+ETC_20160310_021088	A monster has appeared from the pile of leaves!
+ETC_20160310_021089	Put the ingredients on the transmutation magic circle first
+ETC_20160310_021090	The tombstone has already emancipated it's magic
+ETC_20160310_021091	Emancipating magic from tombstone
+ETC_20160310_021092	The magic from the tombstone has been initialized because you have emancipated it from the wrong direction{nl}Please emancipate the magic from the front
+ETC_20160310_021093	Retrieving completed liquid
+ETC_20160310_021094	You have found all of the lost Research Notes{nl}Read the contents of the notes
+ETC_20160310_021095	You cannot open this chest
+ETC_20160310_021096	There are monsters nearby{nl}Deal with the monsters before opening the chest
+ETC_20160310_021097	You have already checked this pot
+ETC_20160310_021098	Read it near the Tidying Chest
+ETC_20160310_021099	You have been caught by a Frozen Soldier
+ETC_20160310_021100	You have failed to protect Lemija
+ETC_20160310_021101	Absorbing Magic
+ETC_20160310_021102	There is not much absorbed magic remaining
+ETC_20160310_021103	Let's go towards the Soldier's Camp.
+ETC_20160310_021104	The seal here is too strong.{nl}Let's go around to the Soldier's Camp.
+ETC_20160310_021105	You have failed to protect Lucienne.
+ETC_20160310_021106	Lucienne failed to concentrate on mixing the reagent
+ETC_20160310_021107	Using Reagent
+ETC_20160310_021108	Planting Herb Seeds
+ETC_20160310_021109	You have absorbed the demon's soul
+ETC_20160310_021110	Absorbing the demon's soul
+ETC_20160310_021111	Injecting the purified soul
+ETC_20160310_021112	You have destroyed the Sinister Idol!
+ETC_20160310_021113	What.. is this tree vine..?
+ETC_20160310_021114	Dominikas has tricked us!
+ETC_20160310_021115	Ah... Knowing none of this we...
+ETC_20160310_021116	This... is the tree vine that attacked us, isn't it?
+ETC_20160310_021117	Why... why are we here?
+ETC_20160310_021118	Ugh... My head feels like it's being split apart...
+ETC_20160310_021119	Where has Dominikas run off to?
+ETC_20160310_021120	What... What happened here...?
+ETC_20160310_021121	What... What have I done...
+ETC_20160310_021122	You have found the false scripture!
+ETC_20160310_021123	You have failed to find the false scripture
+ETC_20160310_021124	You have failed to protect Villager Duncan
+ETC_20160310_021125	This demon is having its soul absorbed
+ETC_20160310_021126	A hidden demon suddenly appears!
+ETC_20160310_021127	Simonas! Monsters are coming back from the pit!
+ETC_20160310_021128	Mayor, we can't keep living like this. If we can't pay tribute, we should pull out.
+ETC_20160310_021129	Oh yes, I would hurry if you are thinking of asking for a punitive expedition. That way we could get back to gathering a bit sooner don't you think?
+ETC_20160310_021130	You have found a suspicious pouch
+ETC_20160310_021131	Checking Coral
+ETC_20160310_021132	Old Tattered Bag
+ETC_20160310_021133	Detecting Magic
+ETC_20160310_021134	The detector is reacting to the magic coming from the bag!
+ETC_20160310_021135	The detector isn't reacting to anything
+ETC_20160310_021136	You've found the habitat of Arnim Coral! 
+ETC_20160310_021137	You've already checked this piece of coral
+ETC_20160310_021138	You've dug up a suspicious pouch
+ETC_20160310_021139	Mayor Frege and Soldier Basilius are approaching you
+ETC_20160310_021140	The soldier is running towards you
+ETC_20160310_021141	Someone is approaching you
+ETC_20160310_021142	You are not in a party.
+ETC_20160310_021143	You cannot plant crops if you are not a guild member.
+ETC_20160310_021144	You are not participating in a guild event.
+ETC_20160310_021145	The information of the item has been changed.
+ETC_20160310_021146	The item has already been sold. Please check your Message Box.
+ETC_20160310_021147	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of the item will{nl}decrease if you put it in Team Storage.{nl}But it will not lose Potential when taking it out.{nl}Do you wish to proceed?
+ETC_20160310_021148	{#550000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade the{nl}items that you put in Team Storage.{nl}Do you wish to proceed?
+ETC_20160310_021149	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}The Potential of the item will{nl}decrease if you put it in Team Storage.{nl}But it will not lose Potential when taking it out.{nl}Do you wish to proceed?
+ETC_20160310_021150	{#FF0000}Remaining Trades : {COUNT}{nl}{#0f0f0f}You will lose the ability to trade the{nl}items that you put in Team Storage.{nl}Do you wish to proceed?
+ETC_20160310_021151	Another character is currently using the market. Please try again later.
+ETC_20160310_021152	Kill Ranking
+ETC_20160310_021153	Damage Ranking
+ETC_20160310_021154	Adventure Index Rank: {Rank}
+ETC_20160310_021155	You cannot attempt to mount while using a skill.
+ETC_20160310_021156	You cannot equip or unequip items while using this skill.
+ETC_20160310_021157	Tidying Chest
+ETC_20160310_021158	Abandoned Document Chest
+ETC_20160310_021159	Research Documents
+ETC_20160310_021160	Pile of Leaves
+ETC_20160310_021161	Transmutation Magic Circle
+ETC_20160310_021162	Magic Harvesting Scarecrow
+ETC_20160310_021163	Sinister Idol
+ETC_20160310_021164	Magic Storing Tombstone
+ETC_20160310_021165	The event rewards have been given to the guild master
+ETC_20160310_021166	You have completed the [Demon Uprising] event

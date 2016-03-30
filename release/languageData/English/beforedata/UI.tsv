@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}
+UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}
 UI_20150317_000002	{@st43}Attribute List {/}
 UI_20150317_000003	{@st59}Close{/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
@@ -535,8 +535,8 @@ UI_20150317_000534	{@st41}Decline{/}
 UI_20150317_000535	{@st44}Go Back{/}
 UI_20150317_000536	Which quest would you like to go back to?
 UI_20150317_000537	{@st41b}Quest class name{/}
-UI_20150317_000538	{@st59}Expand slot {/}
-UI_20150317_000539	{@st59}Reduce slot{/}
+UI_20150317_000538	{@st59}Expand Slots{/}
+UI_20150317_000539	{@st59}Reduce Slots{/}
 UI_20150317_000540	{@st59}Summon Companion.{/}
 UI_20150317_000541	{@st44}Menu{/}
 UI_20150317_000542	{@st60}Character Selection{/}
@@ -549,7 +549,7 @@ UI_20150317_000548	{@st41}Character Selection{/}
 UI_20150317_000549	{@st41}Logout{/}
 UI_20150317_000550	{@st41}Quit Game{/}
 UI_20150317_000551	{@st41}Go Back{/}
-UI_20150317_000552	{@st43}{s22}Gather for the Raid!
+UI_20150317_000552	{@st43}{s22}Gather for the raid!
 UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can stop them.
 UI_20150317_000554	{@st43}{s22}Game Settings{/}
 UI_20150317_000555	{@sti7}Searching for a raid party...{/}
@@ -1272,8 +1272,8 @@ UI_20150317_001271	{@St41b}Craft
 UI_20150317_001272	{@St41b}Price : %s{/}
 UI_20150317_001273	{@Sti5}Price : %s{/}
 UI_20150317_001274	{@Sti9} Party Quest (%s){/}
-UI_20150317_001275	{@st41_yellow} Exploration Rate %s% {/}
-UI_20150317_001276	{@st41_yellow} Score %s {/}
+UI_20150317_001275	{@st41_yellow} Exploration Rate: %s% {/}
+UI_20150317_001276	{@st41_yellow} Score: %s {/}
 UI_20150317_001277	{@st42b}{b}Achievement Rate{/}
 UI_20150317_001278	{@st59}Join Party Quest{/}
 UI_20150317_001279	Windows
@@ -1450,8 +1450,8 @@ UI_20150401_001449	Equipped
 UI_20150401_001450	Description : {#FFFF00}%s{/}
 UI_20150401_001451	Average Level : {#FFFF00}%s{/}
 UI_20150401_001452	Conditions
-UI_20150401_001453	Title %s
-UI_20150401_001454	Reward %s
+UI_20150401_001453	Title: %s
+UI_20150401_001454	Reward: %s
 UI_20150401_001455	{@st42}Amount
 UI_20150406_001456	{@st43}Base Camp
 UI_20150406_001457	{@st42}Construct
@@ -2027,9 +2027,9 @@ UI_20151224_002026	Amount Left
 UI_20151224_002027	Amount Left : %s{/}
 UI_20151224_002028	{@st41}Buy{/}
 UI_20151224_002029	{@st45tw2}Points{/}
-UI_20151224_002030	Name Ascending Order
-UI_20151224_002031	Name Descending Order
-UI_20151224_002032	Order by Date
+UI_20151224_002030	Ascending by Name
+UI_20151224_002031	Descending by Name
+UI_20151224_002032	By Date
 UI_20151224_002033	{@st42}Token Benefits{/}
 UI_20151224_002034	{@st66b}Change Signboard Title
 UI_20151224_002035	{@st41b}Eat
@@ -2040,7 +2040,7 @@ UI_20151224_002039	Hangout Entry
 UI_20151224_002040	Allow guild members only
 UI_20151224_002041	War Records
 UI_20151224_002042	Guild Wars List
-UI_20151224_002043	Time Left
+UI_20151224_002043	Remaining Time
 UI_20151224_002044	Available Tower
 UI_20151224_002045	Upgrade Guild
 UI_20151224_002046	Contribution Rank
@@ -2049,7 +2049,7 @@ UI_20151224_002048	{@st42}%s Benefits{/}
 UI_20151224_002049	Benefits
 UI_20160224_002050	Team Storage
 UI_20160224_002051	{@st59}Close{/}
-UI_20160224_002052	Trading and storing items is possible, but it will consume 1 Potential.{nl}When removing an item from the Team Storage, your trading count will be reduced by 1 regardless of the number of items you remove.
+UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Taking out an item from Team Storage will deduct your{nl}remaining trades by 1 regardless of the number of items you take out.
 UI_20160224_002053	Receive Item
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Close{/}
@@ -2123,11 +2123,18 @@ UI_20160224_002122	View Recent History
 UI_20160224_002123	Spectate
 UI_20160224_002124	{#000000}%s W{/}
 UI_20160224_002125	{@st66b}Point Shop
-UI_20160224_002126	Points Earned Daily
-UI_20160224_002127	Current Points Purchased
-UI_20160224_002128	Record
+UI_20160224_002126	Daily Points
+UI_20160224_002127	Purchased Points
+UI_20160224_002128	Records
 UI_20160224_002129	Storage
 UI_20160224_002130	Rank %s
 UI_20160224_002131	Defeats : %s
 UI_20160224_002132	Damage : %s
 UI_20160224_002133	Increased maximum buff count
+UI_20160310_002134	{@st65}Damage: %s{/}
+UI_20160310_002135	{@st65}{s12}Achievement{/}
+UI_20160310_002136	{#16120e}Achievement{/}
+UI_20160310_002137	Count: %s
+UI_20160310_002138	Damage: %s
+UI_20160310_002139	{@sti9}Kill Ranking
+UI_20160310_002140	{@sti9}Damage Ranking
