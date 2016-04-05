@@ -1,0 +1,11 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
+<ClientCfgFile>
+        <Locale ServiceNation="KOR" Dictionary="YES"/>
+        <Nexon UseNexonSSO="YES" UseNexonGameLogManager="YES" SSOServer="TOSLive"/>
+        <SecurityApp HackShield="NO" LiveXigncode="NO"/>
+        <Camera Long="45" Lati="38" Fov="45"/>
+        <Sound IgnoreTick="0.03" MaxRange="400" HoldRange="100" MixRate="22050" MaxChannel="16" DistFactor="1000" Pitch="1.0" MusicVolume="255" SoundVolume="255" TotalVolume="255" EnableReverb="TRUE"/>
+        <GameOption ServerListURL="http://tosg.dn.nexoncdn.co.kr/patch/live/serverlist.xml" StaticConfigURL="http://www.tosbase.com/nexon/" NewAccountURL="http://tos.nexon.com" PaymentURL="http://tos.nexon.com" LoadingImgURL="http://tosg.dn.nexoncdn.co.kr/patch/live/loadingimg/" LoadingImgCount="10"/>
+        <Debug MailFreq="5"/>
+        <HotKey Version="1"/>
+</ClientCfgFile>

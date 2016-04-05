@@ -4,14 +4,17 @@
 ##使い方
 ###共通
 * font フォルダ内に任意のフォントを入れて fontlist.xml をそれに併せて編集してください。
+
 ###kr
-1. [Download ZIP] から ZIP としてまとめてダウンロードし、<TOS_ROOT> へ
-    (languageDataフォルダ配下に Ja-crn が、dataフォルダ内に language.ipf が入るように)
+1. [Download ZIP] から ZIP としてまとめてダウンロードし、フォルダ構成をそのままに <TOS_ROOT> へ
 2. ToS の設定で言語を Ja-crn にする。
 3. Enjoy!
 
 ###en
-データ的には国際鯖でも動くはず。ただし、language.ipf は不要で。
+検証はしていないけどデータ的にはおおむね国際鯖でも流用できるはず。
+1. release/languageData/Ja-crn フォルダだけ該当フォルダへコピー。
+2. ToS の設定で言語を Ja-crn にする。
+3. Enjoy!
 
 ##既知の不具合
 * モンスタージェムのスキル表示がおかしい。
