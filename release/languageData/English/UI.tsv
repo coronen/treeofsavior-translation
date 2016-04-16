@@ -47,7 +47,7 @@ UI_20150317_000046	{@st59}Change to selected hairstyle.{/}
 UI_20150317_000047	{@st41}Cancel
 UI_20150317_000048	{@st43}Black Market{/}
 UI_20150317_000049	Book Name
-UI_20150317_000050	{@St59}Stop reading{/}
+UI_20150317_000050	{@St59}Stop Reading{/}
 UI_20150317_000051	{@st59}Previous Page{/}
 UI_20150317_000052	{@st59}Next Page{/}
 UI_20150317_000053	{@st47}%s appeared!
@@ -653,7 +653,7 @@ UI_20150317_000652	Cleric
 UI_20150317_000653	{@st59}Cancel{/}
 UI_20150317_000654	Learning {#ff4400}%s (Lv. %s){/}...
 UI_20150317_000655	Psychohassle
-UI_20150317_000656	%s minutes left
+UI_20150317_000656	%s minute(s) left
 UI_20150317_000657	{@st43}Pose{/}
 UI_20150317_000658	{@st59}Close{/}
 UI_20150317_000659	{@st41}Board{/}
@@ -1012,7 +1012,7 @@ UI_20150317_001011	{@St59}Cancel character creation{/}
 UI_20150317_001012	{@St59}Close{/}
 UI_20150317_001013	{@St59}Create a team with the entered name{/}
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Enter your Team Name!
-UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}               Team Name can be changed at any time.{/}
+UI_20150317_001015	{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}
 UI_20150317_001016	Loading background
 UI_20150317_001017	Tip
 UI_20150317_001018	Game Tips
@@ -1285,7 +1285,7 @@ UI_20150317_001284	Control Set
 UI_20150317_001285	{@St41}Difficulty : %s
 UI_20150317_001286	{@St42}Remaining Time : %s
 UI_20150317_001287	{@St53}Item Crafting
-UI_20150323_001288	{@st59}Place your item here{/}
+UI_20150323_001288	{@st59}Place your equipment here{/}
 UI_20150323_001289	{@st42}Cancel
 UI_20150323_001290	{@st42}Confirm
 UI_20150323_001291	{@st43}Briquetting{/}
@@ -1729,7 +1729,7 @@ UI_20150717_001728	Spectate another character
 UI_20150717_001729	{@st41}Battlefield
 UI_20150717_001730	Results
 UI_20150717_001731	{@st41}Move Now
-UI_20150717_001732	{@st41b}            A Team Name represents all your characters.{nl}                 It is a common name used within the game.{nl}                  Your Team Name can be changed later on.{/}
+UI_20150717_001732	{@st41b}             A 'Team Name' represents all your characters.{nl}                It's a common name used within the game.{nl}                  (Changing your Team Name will cost TP!){/}
 UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
 UI_20150729_001734	Leg Count
 UI_20150729_001735	Key
@@ -1881,7 +1881,7 @@ UI_20151224_001880	{@st66b}Request Office Mission{/}
 UI_20151224_001881	{@st66b18}Entry Limit{/}
 UI_20151224_001882	{@st45tw2}Name{/}
 UI_20151224_001883	{@st45tw2}Entry Lv.{/}
-UI_20151224_001884	Searching Time : 
+UI_20151224_001884	Time Elapsed : 
 UI_20151224_001885	{@st59}Zoom In{/}
 UI_20151224_001886	{@st59}Zoom Out{/}
 UI_20151224_001887	{@st59}Show Last Warp Point{/}
@@ -1971,7 +1971,7 @@ UI_20151224_001970	The duration of your Token can be seen in Character Settings.
 UI_20151224_001971	{@st59}Close{/}
 UI_20151224_001972	{@st43}{s18}Preview & Purchase
 UI_20151224_001973	Preview
-UI_20151224_001974	Equippable Items TP
+UI_20151224_001974	Equipped Items TP
 UI_20151224_001975	{@st49}Buy Equipped Item{/}
 UI_20151224_001976	Shopping Bag
 UI_20151224_001977	Available TP
@@ -2173,3 +2173,4 @@ UI_20160323_002172	{@st42} Character Greetings{/}
 UI_20160323_002173	[Server] Guild Name
 UI_20160323_002174	Record / Score
 UI_20160323_002175	[Created: %s ago]
+UI_20160411_002176	{@st66b}Use Camera Vibration{/}
